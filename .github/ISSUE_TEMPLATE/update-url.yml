@@ -6,11 +6,10 @@ body:
   - type: markdown
     attributes:
       value: |
+        **Important**: In the title above, do not change the city or slug.
+        
         Thanks for taking the time to request a DevFest URL!
         Please fill out the information below to help us process your request quickly.
-        
-        **Note**: Fields marked with * are mandatory.
-        **Important**: In the title above, replace [City] with the city name and [slug] with the desired URL slug (e.g., "bangalore" for devfe.st/bangalore)
   
   - type: input
     id: destination-url

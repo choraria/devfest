@@ -2,7 +2,7 @@ name: Process URL Update Requests
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [labeled]
 
 # Add permissions block to grant access to issues
 permissions:
@@ -87,28 +87,29 @@ jobs:
               token: process.env.UPSTASH_REDIS_REST_TOKEN,
             });
             
-            const data = JSON.parse(process.env.URL_DATA);
+            let inputData = JSON.parse(process.env.URL_DATA);
+            const { slug, ...dataWithoutSlug } = inputData;
             
             // Validate required fields and formats
             const errors = [];
             
-            if (!data.destinationUrl) {
+            if (!slug) {
+              errors.push("Missing required field: slug in the issue title");
+            }
+            
+            if (!dataWithoutSlug.destinationUrl) {
               errors.push("Missing required field: destinationUrl");
-            } else if (!data.destinationUrl.startsWith('https://')) {
+            } else if (!dataWithoutSlug.destinationUrl.startsWith('https://')) {
               errors.push("destinationUrl must be a valid HTTPS URL");
             }
             
-            if (!data.devfestDate) {
+            if (!dataWithoutSlug.devfestDate) {
               errors.push("Missing required field: devfestDate");
             } else {
               const dateRegex = /^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])$/;
-              if (!dateRegex.test(data.devfestDate)) {
+              if (!dateRegex.test(dataWithoutSlug.devfestDate)) {
                 errors.push("devfestDate must be in YYYY-MM-DD format");
               }
-            }
-            
-            if (!data.slug) {
-              errors.push("Could not generate a valid URL slug from the provided information");
             }
             
             if (errors.length > 0) {
@@ -122,16 +123,23 @@ jobs:
             }
             
             try {
-              // Check if slug already exists
-              const existing = await redis.get(data.slug);
-              if (existing) {
-                // If updating existing entry, merge with existing data to preserve metadata
-                data = { ...JSON.parse(existing), ...data };
+              // Check if slug exists
+              const existing = await redis.get(slug);
+              if (!existing) {
+                throw new Error(`No existing entry found for slug: ${slug}. This workflow only supports updating existing entries.`);
               }
               
-              // Update Redis with the data
-              const key = data.slug;
-              await redis.set(key, data);
+              // Create filtered entry matching seed-data.ts structure
+              const filteredEntry = {
+                destinationUrl: dataWithoutSlug.destinationUrl,
+                devfestName: dataWithoutSlug.devfestName,
+                devfestDate: dataWithoutSlug.devfestDate,
+                updatedBy: dataWithoutSlug.updatedBy,
+                updatedAt: dataWithoutSlug.updatedAt
+              };
+              
+              // Update Redis with the filtered data
+              await redis.set(slug, JSON.stringify(filteredEntry));
               
               // Add processed label
               await github.rest.issues.addLabels({
@@ -146,14 +154,14 @@ jobs:
                 `✅ URL update processed successfully!`,
                 ``,
                 `**URL Details:**`,
-                `- Short URL: \`devfe.st/${data.slug}\``,
-                `- Destination: ${data.destinationUrl}`,
-                `- Event Date: ${data.devfestDate}`,
-                data.devfestName ? `- Event Name: ${data.devfestName}` : null,
-                `- Updated by: @${data.updatedBy}`,
-                `- Last Updated: ${new Date(data.updatedAt).toLocaleString()}`,
+                `- Short URL: \`devfe.st/${slug}\``,
+                `- Destination: ${filteredEntry.destinationUrl}`,
+                `- Event Date: ${filteredEntry.devfestDate}`,
+                filteredEntry.devfestName ? `- Event Name: ${filteredEntry.devfestName}` : null,
+                `- Updated by: @${filteredEntry.updatedBy}`,
+                `- Last Updated: ${new Date(filteredEntry.updatedAt).toLocaleString()}`,
                 ``,
-                `The URL is now live and ready to use.`,
+                `The URL has been updated successfully.`,
                 ``,
                 `Note: If you need to make any changes in the future, feel free to create a new update request.`
               ].filter(Boolean).join('\n');
@@ -180,6 +188,6 @@ jobs:
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                body: `❌ Error processing URL update: ${error.message}`
+                body: `❌ Error processing URL update: ${error.message}\n\nData received: ${JSON.stringify(dataWithoutSlug, null, 2)}`
               });
             } 
