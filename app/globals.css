@@ -76,6 +76,9 @@
   --sidebar-accent-foreground: oklch(0.21 0.006 285.885);
   --sidebar-border: oklch(0.92 0.004 286.32);
   --sidebar-ring: oklch(0.705 0.015 286.067);
+  --toast-error-bg: #FEE2E2;
+  --toast-error-border: #F87171;
+  --toast-error-text: #B91C1C;
 }
 
 .dark {
@@ -110,6 +113,9 @@
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.552 0.016 285.938);
+  --toast-error-bg: #7F1D1D;
+  --toast-error-border: #EF4444;
+  --toast-error-text: #FECACA;
 }
 
 @layer base {
@@ -119,4 +125,16 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* Custom error toast styling */
+.error-toast {
+  background-color: var(--toast-error-bg) !important;
+  border-color: var(--toast-error-border) !important;
+  color: var(--toast-error-text) !important;
+  font-weight: 500;
+}
+
+.error-toast svg {
+  color: var(--toast-error-text) !important;
 }

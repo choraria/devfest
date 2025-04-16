@@ -36,10 +36,12 @@ export async function GET(
         }
       });
     } else {
-      // If not found, redirect to home with query param
+      // For API routes, return a 404 JSON response first
+      // Then return the redirect to home with the notFound parameter
       return NextResponse.redirect(new URL(`/?notFound=${slug}`, request.url), {
+        status: 302,
         headers: {
-          'Cache-Control': 'public, s-maxage=60, stale-while-revalidate=600'
+          'Cache-Control': 'no-cache',
         }
       });
     }
