@@ -1,6 +1,6 @@
 name: DevFest URL Request
 description: Request to add or update a DevFest URL
-title: "URL Request: [City]"
+title: "Update DevFest details: [City]"
 labels: ["url-request"]
 body:
   - type: markdown
@@ -10,15 +10,6 @@ body:
         Please fill out the information below to help us process your request quickly.
         
         **Note**: Fields marked with * are mandatory.
-  
-  - type: input
-    id: slug
-    attributes:
-      label: URL Slug *
-      description: The short URL you want to use (e.g., 'bangalore' for devfe.st/bangalore)
-      placeholder: bangalore
-    validations:
-      required: true
   
   - type: input
     id: destination-url
@@ -49,58 +40,11 @@ body:
     validations:
       required: false
   
-  - type: input
-    id: gdg-chapter
-    attributes:
-      label: GDG Chapter
-      description: The name of the GDG chapter (optional)
-      placeholder: GDG Bangalore
-    validations:
-      required: false
-  
-  - type: input
-    id: city
-    attributes:
-      label: City
-      description: The city where the DevFest is held (optional)
-      placeholder: Bangalore
-    validations:
-      required: false
-  
-  - type: input
-    id: country-name
-    attributes:
-      label: Country
-      description: The country where the DevFest is held (optional)
-      placeholder: India
-    validations:
-      required: false
-  
-  - type: input
-    id: country-code
-    attributes:
-      label: Country Code
-      description: The ISO country code (optional)
-      placeholder: IN
-    validations:
-      required: false
-  
-  - type: input
-    id: gdg-url
-    attributes:
-      label: GDG Chapter URL
-      description: The URL of the GDG chapter (optional)
-      placeholder: https://gdg.community.dev/gdg-bangalore/
-    validations:
-      required: false
-  
   - type: checkboxes
     id: confirmation
     attributes:
       label: Confirmation
       description: Please confirm the following
       options:
-        - label: I am authorized to request this URL on behalf of the DevFest organizers
-          required: true
         - label: The information provided is accurate and up-to-date
           required: true 

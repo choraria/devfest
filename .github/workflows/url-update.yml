@@ -35,16 +35,36 @@ jobs:
               return match ? match[1].trim() : '';
             };
             
+            // Generate slug from DevFest name or destination URL
+            const generateSlug = (devfestName, destinationUrl) => {
+              if (!devfestName) {
+                // Extract location from destination URL if it's a GDG URL
+                const gdgMatch = destinationUrl.match(/gdg-([^/]+)/);
+                if (gdgMatch) return gdgMatch[1];
+                
+                // Fallback to URL path
+                const urlPath = new URL(destinationUrl).pathname.split('/').filter(Boolean).pop();
+                return urlPath || '';
+              }
+              
+              // Generate from DevFest name
+              return devfestName
+                .toLowerCase()
+                .replace(/devfest\s+/i, '') // Remove "DevFest" prefix
+                .replace(/\s+\d{4}$/, '') // Remove year suffix
+                .replace(/[^a-z0-9]+/g, '-') // Replace non-alphanumeric with hyphens
+                .replace(/^-+|-+$/g, ''); // Trim hyphens from ends
+            };
+            
+            const destinationUrl = extractField('Destination URL');
+            const devfestName = extractField('DevFest Name');
+            const devfestDate = extractField('DevFest Date');
+            
             const data = {
-              slug: extractField('URL Slug'),
-              destinationUrl: extractField('Destination URL'),
-              devfestDate: extractField('DevFest Date'),
-              devfestName: extractField('DevFest Name'),
-              gdgChapter: extractField('GDG Chapter'),
-              city: extractField('City'),
-              countryName: extractField('Country'),
-              countryCode: extractField('Country Code'),
-              gdgUrl: extractField('GDG Chapter URL'),
+              slug: generateSlug(devfestName, destinationUrl),
+              destinationUrl,
+              devfestDate,
+              devfestName,
               updatedBy: context.payload.issue.user.login,
               updatedAt: new Date().toISOString()
             };
@@ -71,10 +91,6 @@ jobs:
             // Validate required fields and formats
             const errors = [];
             
-            if (!data.slug) {
-              errors.push("Missing required field: slug");
-            }
-            
             if (!data.destinationUrl) {
               errors.push("Missing required field: destinationUrl");
             } else if (!data.destinationUrl.startsWith('https://')) {
@@ -90,6 +106,10 @@ jobs:
               }
             }
             
+            if (!data.slug) {
+              errors.push("Could not generate a valid URL slug from the provided information");
+            }
+            
             if (errors.length > 0) {
               await github.rest.issues.createComment({
                 issue_number: context.issue.number,
@@ -101,6 +121,13 @@ jobs:
             }
             
             try {
+              // Check if slug already exists
+              const existing = await redis.get(data.slug);
+              if (existing) {
+                // If updating existing entry, merge with existing data to preserve metadata
+                data = { ...JSON.parse(existing), ...data };
+              }
+              
               // Update Redis with the data
               const key = data.slug;
               await redis.set(key, data);
@@ -125,7 +152,9 @@ jobs:
                 `- Updated by: @${data.updatedBy}`,
                 `- Last Updated: ${new Date(data.updatedAt).toLocaleString()}`,
                 ``,
-                `The URL is now live and ready to use.`
+                `The URL is now live and ready to use.`,
+                ``,
+                `Note: If you need to make any changes in the future, feel free to create a new update request.`
               ].filter(Boolean).join('\n');
               
               // Comment on the issue
