@@ -154,8 +154,8 @@ jobs:
               // Format the success message with more details
               const successMessage = [
                 `✅ URL update processed successfully!`,
-                ``,
-                ``,
+                ` `,
+                ` `,
                 `**URL Details:**`,
                 `- Short URL: \`devfe.st/${slug}\``,
                 `- Destination: ${filteredEntry.destinationUrl}`,
@@ -163,8 +163,8 @@ jobs:
                 filteredEntry.devfestName ? `- Event Name: ${filteredEntry.devfestName}` : null,
                 `- Updated by: @${filteredEntry.updatedBy}`,
                 `- Last Updated: ${new Date(filteredEntry.updatedAt).toLocaleString()}`,
-                ``,
-                ``,
+                ` `,
+                ` `,
                 `The URL has been updated successfully.`,
                 ``,
                 `Note: If you need to make any changes in the future, feel free to create a new update request.`
