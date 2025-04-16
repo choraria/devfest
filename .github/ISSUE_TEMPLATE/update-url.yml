@@ -1,6 +1,6 @@
 name: DevFest URL Request
 description: Request to add or update a DevFest URL
-title: "Update DevFest details: [City]"
+title: "Update DevFest details: [City] (slug: [slug])"
 labels: ["update-url"]
 body:
   - type: markdown
@@ -10,6 +10,7 @@ body:
         Please fill out the information below to help us process your request quickly.
         
         **Note**: Fields marked with * are mandatory.
+        **Important**: In the title above, replace [City] with the city name and [slug] with the desired URL slug (e.g., "bangalore" for devfe.st/bangalore)
   
   - type: input
     id: destination-url

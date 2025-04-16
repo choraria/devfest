@@ -4,6 +4,11 @@ on:
   issues:
     types: [opened, edited, labeled]
 
+# Add permissions block to grant access to issues
+permissions:
+  issues: write
+  contents: read
+
 jobs:
   process-url-request:
     if: contains(github.event.issue.labels.*.name, 'update-url') && !contains(github.event.issue.labels.*.name, 'processed')
@@ -27,7 +32,11 @@ jobs:
         with:
           script: |
             const issueBody = context.payload.issue.body;
-            const lines = issueBody.split('\n');
+            const issueTitle = context.payload.issue.title;
+            
+            // Extract slug from title
+            const slugMatch = issueTitle.match(/\(slug:\s*([^)]+)\)/);
+            const slug = slugMatch ? slugMatch[1].trim() : '';
             
             const extractField = (id) => {
               const regex = new RegExp(`### ${id}\\s*([^\\n]+)`);
@@ -35,33 +44,12 @@ jobs:
               return match ? match[1].trim() : '';
             };
             
-            // Generate slug from DevFest name or destination URL
-            const generateSlug = (devfestName, destinationUrl) => {
-              if (!devfestName) {
-                // Extract location from destination URL if it's a GDG URL
-                const gdgMatch = destinationUrl.match(/gdg-([^/]+)/);
-                if (gdgMatch) return gdgMatch[1];
-                
-                // Fallback to URL path
-                const urlPath = new URL(destinationUrl).pathname.split('/').filter(Boolean).pop();
-                return urlPath || '';
-              }
-              
-              // Generate from DevFest name
-              return devfestName
-                .toLowerCase()
-                .replace(/devfest\s+/i, '') // Remove "DevFest" prefix
-                .replace(/\s+\d{4}$/, '') // Remove year suffix
-                .replace(/[^a-z0-9]+/g, '-') // Replace non-alphanumeric with hyphens
-                .replace(/^-+|-+$/g, ''); // Trim hyphens from ends
-            };
-            
             const destinationUrl = extractField('Destination URL');
             const devfestName = extractField('DevFest Name');
             const devfestDate = extractField('DevFest Date');
             
             const data = {
-              slug: generateSlug(devfestName, destinationUrl),
+              slug,
               destinationUrl,
               devfestDate,
               devfestName,
