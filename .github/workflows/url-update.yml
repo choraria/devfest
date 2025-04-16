@@ -13,9 +13,11 @@ jobs:
   process-url-request:
     if: |
       contains(github.event.issue.labels.*.name, 'update-url') && 
-      !contains(github.event.issue.labels.*.name, 'processed') && 
-      github.event.action != 'edited'
+      !contains(github.event.issue.labels.*.name, 'processed')
     runs-on: ubuntu-latest
+    environment: 
+      name: Production
+      url: ${{ github.server_url }}/${{ github.repository }}/issues/${{ github.event.issue.number }}
     
     steps:
       - name: Checkout code
@@ -153,6 +155,7 @@ jobs:
               const successMessage = [
                 `✅ URL update processed successfully!`,
                 ``,
+                ``,
                 `**URL Details:**`,
                 `- Short URL: \`devfe.st/${slug}\``,
                 `- Destination: ${filteredEntry.destinationUrl}`,
@@ -160,6 +163,7 @@ jobs:
                 filteredEntry.devfestName ? `- Event Name: ${filteredEntry.devfestName}` : null,
                 `- Updated by: @${filteredEntry.updatedBy}`,
                 `- Last Updated: ${new Date(filteredEntry.updatedAt).toLocaleString()}`,
+                ``,
                 ``,
                 `The URL has been updated successfully.`,
                 ``,
