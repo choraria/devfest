@@ -1,0 +1,155 @@
+name: Process URL Update Requests
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+jobs:
+  process-url-request:
+    if: contains(github.event.issue.labels.*.name, 'url-request') && !contains(github.event.issue.labels.*.name, 'processed')
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Extract issue body
+        id: extract
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issueBody = context.payload.issue.body;
+            const lines = issueBody.split('\n');
+            
+            const extractField = (id) => {
+              const regex = new RegExp(`### ${id}\\s*([^\\n]+)`);
+              const match = issueBody.match(regex);
+              return match ? match[1].trim() : '';
+            };
+            
+            const data = {
+              slug: extractField('URL Slug'),
+              destinationUrl: extractField('Destination URL'),
+              devfestDate: extractField('DevFest Date'),
+              devfestName: extractField('DevFest Name'),
+              gdgChapter: extractField('GDG Chapter'),
+              city: extractField('City'),
+              countryName: extractField('Country'),
+              countryCode: extractField('Country Code'),
+              gdgUrl: extractField('GDG Chapter URL'),
+              updatedBy: context.payload.issue.user.login,
+              updatedAt: new Date().toISOString()
+            };
+            
+            core.setOutput('data', JSON.stringify(data));
+      
+      - name: Update Redis
+        uses: actions/github-script@v7
+        env:
+          UPSTASH_REDIS_REST_URL: ${{ secrets.UPSTASH_REDIS_REST_URL }}
+          UPSTASH_REDIS_REST_TOKEN: ${{ secrets.UPSTASH_REDIS_REST_TOKEN }}
+          URL_DATA: ${{ steps.extract.outputs.data }}
+        with:
+          script: |
+            const { Redis } = require('@upstash/redis');
+            
+            const redis = new Redis({
+              url: process.env.UPSTASH_REDIS_REST_URL,
+              token: process.env.UPSTASH_REDIS_REST_TOKEN,
+            });
+            
+            const data = JSON.parse(process.env.URL_DATA);
+            
+            // Validate required fields and formats
+            const errors = [];
+            
+            if (!data.slug) {
+              errors.push("Missing required field: slug");
+            }
+            
+            if (!data.destinationUrl) {
+              errors.push("Missing required field: destinationUrl");
+            } else if (!data.destinationUrl.startsWith('https://')) {
+              errors.push("destinationUrl must be a valid HTTPS URL");
+            }
+            
+            if (!data.devfestDate) {
+              errors.push("Missing required field: devfestDate");
+            } else {
+              const dateRegex = /^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])$/;
+              if (!dateRegex.test(data.devfestDate)) {
+                errors.push("devfestDate must be in YYYY-MM-DD format");
+              }
+            }
+            
+            if (errors.length > 0) {
+              await github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: `❌ Error: Invalid or missing fields:\n\n${errors.map(e => `- ${e}`).join('\n')}\n\nPlease update the issue with the correct information.`
+              });
+              return;
+            }
+            
+            try {
+              // Update Redis with the data
+              const key = data.slug;
+              await redis.set(key, data);
+              
+              // Add processed label
+              await github.rest.issues.addLabels({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                labels: ['processed']
+              });
+              
+              // Format the success message with more details
+              const successMessage = [
+                `✅ URL update processed successfully!`,
+                ``,
+                `**URL Details:**`,
+                `- Short URL: \`devfe.st/${data.slug}\``,
+                `- Destination: ${data.destinationUrl}`,
+                `- Event Date: ${data.devfestDate}`,
+                data.devfestName ? `- Event Name: ${data.devfestName}` : null,
+                `- Updated by: @${data.updatedBy}`,
+                `- Last Updated: ${new Date(data.updatedAt).toLocaleString()}`,
+                ``,
+                `The URL is now live and ready to use.`
+              ].filter(Boolean).join('\n');
+              
+              // Comment on the issue
+              await github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: successMessage
+              });
+              
+              // Close the issue
+              await github.rest.issues.update({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'closed'
+              });
+            } catch (error) {
+              console.error('Error updating Redis:', error);
+              
+              await github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: `❌ Error processing URL update: ${error.message}`
+              });
+            } 

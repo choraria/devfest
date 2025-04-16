@@ -1,103 +1,74 @@
-import Image from "next/image";
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
+import DevfestDirectory from "@/components/DevfestDirectory";
+import DevfestMap from "@/components/DevfestMap";
+import { sampleData } from "@/data/devfest-data";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { MapPin, Table2, SearchCode } from "lucide-react";
+import { ThemeToggle } from "@/components/ThemeToggle";
 
-export default function Home() {
+export const dynamic = 'force-dynamic';
+
+export default async function Home({ searchParams }: { searchParams: Promise<{ notFound?: string; error?: string }> }) {
+  const { notFound, error } = await searchParams;
+  
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
-
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+    <div className="container mx-auto px-4 py-8">
+      <div className="max-w-5xl mx-auto relative">
+        {/* Theme toggle in top-right corner of the container */}
+        <div className="absolute top-0 right-0 z-50">
+          <ThemeToggle />
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+        
+        {/* Header with logo and title */}
+        <div className="flex items-center justify-between">
+          <div className="flex items-center gap-2">
+            <SearchCode className="h-8 w-8 dark:text-white" />
+            <h1 className="text-2xl font-bold">DevFest Finder</h1>
+          </div>
+          <ThemeToggle />
+        </div>
+        
+        {notFound && (
+          <Alert className="mb-8 mx-auto">
+            <AlertTitle>DevFest not found</AlertTitle>
+            <AlertDescription>
+              We couldn&apos;t find a DevFest for &quot;{notFound}&quot;. Please try another city or browse the directory below.
+            </AlertDescription>
+          </Alert>
+        )}
+        
+        {error && (
+          <Alert className="mb-8 mx-auto" variant="destructive">
+            <AlertTitle>Error</AlertTitle>
+            <AlertDescription>
+              An error occurred while processing your request. Please try again.
+            </AlertDescription>
+          </Alert>
+        )}
+        
+        <Tabs defaultValue="map" className="mx-auto">
+          <div className="flex justify-center mb-6">
+            <TabsList>
+              <TabsTrigger value="map" className="flex items-center">
+                <MapPin className="mr-2 h-4 w-4" />
+                Map View
+              </TabsTrigger>
+              <TabsTrigger value="table" className="flex items-center">
+                <Table2 className="mr-2 h-4 w-4" />
+                Table View
+              </TabsTrigger>
+            </TabsList>
+          </div>
+          
+          <TabsContent value="map" className="mt-0">
+            <DevfestMap redirects={sampleData} />
+          </TabsContent>
+          
+          <TabsContent value="table" className="mt-0">
+            <DevfestDirectory redirects={sampleData} initialFilter={notFound} />
+          </TabsContent>
+        </Tabs>
+      </div>
     </div>
   );
 }

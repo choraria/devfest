@@ -1,0 +1,143 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# DevFest URL Redirector - AI Assistance Rules
+
+## Project Overview
+
+This document outlines the requirements and architecture for an open-source URL redirect application using the domain `devfe.st`. The application will redirect users from short URLs (e.g., `devfe.st/bangalore`) to destination URLs for Google Developer Group (GDG) DevFest events.
+
+## Technology Stack
+
+- **Frontend**: Next.js, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend**: Next.js API routes
+- **Data Storage**: Upstash Redis
+- **Deployment**: Vercel
+- **Automation**: GitHub Actions for updates
+- **Collaboration**: GitHub Issues for change requests
+
+## Key Features
+
+1. URL redirection without requiring redeployment
+2. Directory-style listing of all DevFests globally
+3. Searchable and filterable interface
+4. Mechanism for users to request URL updates via GitHub Issues
+
+## Data Structure
+
+Each redirect entry contains the following fields:
+
+### Required Fields:
+- `slug`: URL slug (e.g., "bangalore")
+- `destinationUrl`: The URL to redirect to
+- `devfestYear`: Year of the DevFest event
+
+### Optional Fields:
+- `devfestName`: Custom DevFest name
+- `gdgChapter`: GDG chapter name
+- `city`: City name
+- `countryName`: Country name
+- `countryCode`: Country code (ISO)
+- `latitude`: Geographic coordinates
+- `longitude`: Geographic coordinates
+- `gdgUrl`: GDG chapter URL
+- `updatedBy`: GitHub username of last updater
+- `updatedAt`: ISO timestamp of last update
+
+### Sample data
+
+```json
+[
+  {
+    "slug": "a-coruna",
+    "destinationUrl": "https://gdg.community.dev/gdg-a-coruna/",
+    "gdgChapter": "GDG A Coruña",
+    "city": "A Coruña",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "latitude": 43.3637626,
+    "longitude": -8.4103923,
+    "gdgUrl": "https://gdg.community.dev/gdg-a-coruna/",
+    "devfestName": "GDG A Coruña DevFest 2025",
+    "devfestYear": 2025,
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-14T16:36:00.527Z"
+  },
+  {
+    "slug": "aachen",
+    "destinationUrl": "https://gdg.community.dev/gdg-aachen/",
+    "gdgChapter": "GDG Aachen",
+    "city": "Aachen",
+    "countryName": "Germany",
+    "countryCode": "DE",
+    "latitude": 50.7753455,
+    "longitude": 6.0838868,
+    "gdgUrl": "https://gdg.community.dev/gdg-aachen/",
+    "devfestName": "GDG Aachen DevFest 2025",
+    "devfestYear": 2025,
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-14T16:36:00.527Z"
+  }
+]
+```
+
+## Architecture Guidelines
+
+### Redirect Functionality
+- Implement redirect functionality using Next.js API routes
+- Use Upstash Redis as the primary data store for redirect rules
+- Support dynamic updates to redirect rules without requiring application redeployment
+
+### Frontend Implementation
+- Create a responsive UI using Tailwind CSS and shadcn components
+- Implement search functionality for finding DevFests by location, name, or other metadata
+- Implement filtering based on country and city
+- Add copy functionality for shortlinks (e.g., `devfe.st/london`)
+- Include a button that redirects users to create GitHub Issues from templates for URL updates
+
+### Update Flow
+- Implement GitHub Issues templates for users to request updates
+- Create GitHub Actions workflows that:
+  - Detect new update requests
+  - Validate the requested changes
+  - Update the Upstash Redis database upon approval
+  - Add metadata about who updated the entry and when
+  - Comment on the GitHub Issue with the status of the update
+
+## Redis Implementation Guidelines
+- Store redirect rules in Redis with the slug as the key
+- Store all metadata as JSON in Redis
+- Implement caching strategies to minimize Redis reads
+- Ensure proper error handling for Redis operations
+
+## Security Considerations
+- Validate all user inputs
+- Implement rate limiting for API endpoints
+- Only allow approved contributors to trigger updates via GitHub Actions
+- Sanitize URL inputs to prevent injection attacks
+
+## Performance Optimization
+- Use Next.js ISR (Incremental Static Regeneration) for the directory page
+- Optimize Redis queries to minimize latency
+- Implement client-side caching when appropriate
+- Use efficient search algorithms for the directory listing
+
+## Testing Requirements
+- Unit tests for redirect functionality
+- Integration tests for the update workflow
+- End-to-end tests for the user interface
+- Performance tests for Redis operations
+
+## Documentation Guidelines
+- Document API endpoints
+- Create clear instructions for contributing
+- Document the GitHub Issues workflow for requesting updates
+- Provide deployment instructions for contributors
+
+## Accessibility
+- Ensure the directory interface meets WCAG 2.1 AA standards
+- Implement keyboard navigation
+- Add proper ARIA attributes to custom UI components
+- Ensure sufficient color contrast for text elements

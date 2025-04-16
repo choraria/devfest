@@ -1,0 +1,106 @@
+name: DevFest URL Request
+description: Request to add or update a DevFest URL
+title: "URL Request: [City]"
+labels: ["url-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to request a DevFest URL!
+        Please fill out the information below to help us process your request quickly.
+        
+        **Note**: Fields marked with * are mandatory.
+  
+  - type: input
+    id: slug
+    attributes:
+      label: URL Slug *
+      description: The short URL you want to use (e.g., 'bangalore' for devfe.st/bangalore)
+      placeholder: bangalore
+    validations:
+      required: true
+  
+  - type: input
+    id: destination-url
+    attributes:
+      label: Destination URL *
+      description: The URL that users should be redirected to (must be a valid HTTPS URL)
+      placeholder: https://gdg.community.dev/gdg-bangalore/
+    validations:
+      required: true
+      pattern: ^https:\/\/.*
+  
+  - type: input
+    id: devfest-date
+    attributes:
+      label: DevFest Date *
+      description: The date of the DevFest event (YYYY-MM-DD format)
+      placeholder: "2024-10-12"
+    validations:
+      required: true
+      pattern: ^\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])$
+  
+  - type: input
+    id: devfest-name
+    attributes:
+      label: DevFest Name
+      description: The full name of the DevFest event (e.g., DevFest Bangalore 2024)
+      placeholder: DevFest Bangalore 2024
+    validations:
+      required: false
+  
+  - type: input
+    id: gdg-chapter
+    attributes:
+      label: GDG Chapter
+      description: The name of the GDG chapter (optional)
+      placeholder: GDG Bangalore
+    validations:
+      required: false
+  
+  - type: input
+    id: city
+    attributes:
+      label: City
+      description: The city where the DevFest is held (optional)
+      placeholder: Bangalore
+    validations:
+      required: false
+  
+  - type: input
+    id: country-name
+    attributes:
+      label: Country
+      description: The country where the DevFest is held (optional)
+      placeholder: India
+    validations:
+      required: false
+  
+  - type: input
+    id: country-code
+    attributes:
+      label: Country Code
+      description: The ISO country code (optional)
+      placeholder: IN
+    validations:
+      required: false
+  
+  - type: input
+    id: gdg-url
+    attributes:
+      label: GDG Chapter URL
+      description: The URL of the GDG chapter (optional)
+      placeholder: https://gdg.community.dev/gdg-bangalore/
+    validations:
+      required: false
+  
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      description: Please confirm the following
+      options:
+        - label: I am authorized to request this URL on behalf of the DevFest organizers
+          required: true
+        - label: The information provided is accurate and up-to-date
+          required: true 
