@@ -2,7 +2,7 @@ name: Process URL Update Requests
 
 on:
   issues:
-    types: [opened, edited, labeled]
+    types: [opened, labeled]
 
 # Add permissions block to grant access to issues
 permissions:
@@ -11,7 +11,10 @@ permissions:
 
 jobs:
   process-url-request:
-    if: contains(github.event.issue.labels.*.name, 'update-url') && !contains(github.event.issue.labels.*.name, 'processed')
+    if: |
+      contains(github.event.issue.labels.*.name, 'update-url') && 
+      !contains(github.event.issue.labels.*.name, 'processed') && 
+      github.event.action != 'edited'
     runs-on: ubuntu-latest
     
     steps:
@@ -38,15 +41,25 @@ jobs:
             const slugMatch = issueTitle.match(/\(slug:\s*([^)]+)\)/);
             const slug = slugMatch ? slugMatch[1].trim() : '';
             
+            // Extract city from title for default DevFest name
+            const cityMatch = issueTitle.match(/Update DevFest details:\s*([^(]+)/);
+            const city = cityMatch ? cityMatch[1].trim() : slug;
+            
             const extractField = (id) => {
-              const regex = new RegExp(`### ${id}\\s*([^\\n]+)`);
+              const regex = new RegExp(`### ${id}[^#]*\\n\\n([^#]+)(?=###|$)`, 'ms');
               const match = issueBody.match(regex);
               return match ? match[1].trim() : '';
             };
             
             const destinationUrl = extractField('Destination URL');
-            const devfestName = extractField('DevFest Name');
+            let devfestName = extractField('DevFest Name');
             const devfestDate = extractField('DevFest Date');
+            
+            // If DevFest name is empty, generate default format
+            if (!devfestName) {
+              const year = devfestDate ? new Date(devfestDate).getFullYear() : new Date().getFullYear();
+              devfestName = `DevFest ${city} ${year}`;
+            }
             
             const data = {
               slug,
