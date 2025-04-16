@@ -154,7 +154,7 @@ export default function DevfestDirectory({ redirects, initialFilter = "" }: Devf
   // Handle opening GitHub issue for URL update
   const handleUpdateUrl = (redirect: RedirectEntry) => {
     const title = encodeURIComponent(`Update DevFest details: ${redirect.city || redirect.slug}`);
-    const url = `https://github.com/choraria/devfest/issues/new?assignees=&labels=url-request&template=url_request.yml&title=${title}`;
+    const url = `https://github.com/choraria/devfest/issues/new?assignees=&labels=update-url&template=url_request.yml&title=${title}`;
     window.open(url, '_blank');
     
     // Track GitHub issue creation

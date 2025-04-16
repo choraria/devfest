@@ -6,7 +6,7 @@ on:
 
 jobs:
   process-url-request:
-    if: contains(github.event.issue.labels.*.name, 'url-request') && !contains(github.event.issue.labels.*.name, 'processed')
+    if: contains(github.event.issue.labels.*.name, 'update-url') && !contains(github.event.issue.labels.*.name, 'processed')
     runs-on: ubuntu-latest
     
     steps:

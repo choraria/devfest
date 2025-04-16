@@ -1,7 +1,7 @@
 name: DevFest URL Request
 description: Request to add or update a DevFest URL
 title: "Update DevFest details: [City]"
-labels: ["url-request"]
+labels: ["update-url"]
 body:
   - type: markdown
     attributes:
