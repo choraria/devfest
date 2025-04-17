@@ -11701,7 +11701,7 @@
   },
   {
     "slug": "zagreb",
-    "destinationUrl": "https://gdg.community.dev/gdg-zagreb/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-zagreb-presents-devfest-2025/cohost-gdg-zagreb",
     "gdgChapter": "GDG Zagreb",
     "city": "Zagreb",
     "countryName": "Croatia",
@@ -11709,10 +11709,10 @@
     "latitude": 45.8150108,
     "longitude": 15.981919,
     "gdgUrl": "https://gdg.community.dev/gdg-zagreb/",
-    "devfestName": "DevFest Zagreb 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025",
+    "devfestDate": "2025-10-24",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-04-17T12:44:18.660Z"
   },
   {
     "slug": "zamboanga",
