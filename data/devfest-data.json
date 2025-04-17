@@ -8341,7 +8341,7 @@
   },
   {
     "slug": "paris",
-    "destinationUrl": "https://gdg.community.dev/gdg-paris/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-paris-presents-devfest-2025-paris/",
     "gdgChapter": "GDG Paris",
     "city": "Paris",
     "countryName": "France",
@@ -8349,10 +8349,10 @@
     "latitude": 48.86,
     "longitude": 2.34,
     "gdgUrl": "https://gdg.community.dev/gdg-paris/",
-    "devfestName": "DevFest Paris 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Paris",
+    "devfestDate": "2025-11-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-04-17T12:52:48.013Z"
   },
   {
     "slug": "parnaiba",
