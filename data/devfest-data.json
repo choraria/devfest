@@ -8551,7 +8551,7 @@
   },
   {
     "slug": "pisa",
-    "destinationUrl": "https://gdg.community.dev/gdg-pisa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pisa-presents-gdg-devfest-pisa-2025/",
     "gdgChapter": "GDG Pisa",
     "city": "Pisa",
     "countryName": "Italy",
@@ -8559,10 +8559,10 @@
     "latitude": 43.72,
     "longitude": 10.38,
     "gdgUrl": "https://gdg.community.dev/gdg-pisa/",
-    "devfestName": "DevFest Pisa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG DevFest Pisa 2025",
+    "devfestDate": "2025-04-12",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-04-17T13:10:46.155Z"
   },
   {
     "slug": "piura",
