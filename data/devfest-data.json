@@ -10261,7 +10261,7 @@
   },
   {
     "slug": "stockholm",
-    "destinationUrl": "https://gdg.community.dev/gdg-stockholm-android/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cloud-stockholm-presents-devfest-stockholm-2025-1/cohost-gdg-stockholm-android",
     "gdgChapter": "GDG Stockholm Android",
     "city": "Stockholm",
     "countryName": "Sweden",
@@ -10270,9 +10270,9 @@
     "longitude": 18.07,
     "gdgUrl": "https://gdg.community.dev/gdg-stockholm-android/",
     "devfestName": "DevFest Stockholm 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-02-27",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-04-17T12:59:08.458Z"
   },
   {
     "slug": "stockton",
