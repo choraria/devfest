@@ -184,10 +184,19 @@ jobs:
                   '**Changes:**',
                   '```json',
                   JSON.stringify(updatedEntry, null, 2),
-                  '```'
+                  '```',
+                  '',
+                  '_Note: This branch will be automatically deleted after merging._'
                 ].join('\n'),
                 head: branchName,
                 base: 'main'
+              });
+              
+              // Enable auto-delete for the PR's branch
+              await github.rest.repos.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                delete_branch_on_merge: true
               });
               
               // Add processed label
