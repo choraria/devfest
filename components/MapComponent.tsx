@@ -6,7 +6,7 @@ import { RedirectEntry } from '@/lib/redis';
 import { Button } from './ui/button';
 import { Combobox } from './ui/combobox';
 import 'leaflet/dist/leaflet.css';
-import { Copy, Github, Check, Locate } from 'lucide-react';
+import { Copy, Github, Check, Locate, Link, MapPin, Calendar } from 'lucide-react';
 
 // Fix for Leaflet marker icons in Next.js
 import L from 'leaflet';
@@ -317,8 +317,10 @@ export function MapComponent({ redirects }: MapComponentProps) {
     return [sumLat / validEvents.length, sumLng / validEvents.length];
   };
 
-  // Function to handle copying the URL to clipboard
-  const handleCopyLink = async (slug: string) => {
+  // Handle copying the URL to clipboard
+  const handleCopyLink = async (slug: string | undefined) => {
+    if (!slug) return;
+    
     const baseUrl = typeof window !== 'undefined' ? 
       window.location.origin : 
       (process.env.NEXT_PUBLIC_SITE_URL || 'https://devfe.st');
@@ -327,6 +329,7 @@ export function MapComponent({ redirects }: MapComponentProps) {
     try {
       await navigator.clipboard.writeText(url);
       setCopyingSlug(slug);
+      // Remove toast notification
       setTimeout(() => setCopyingSlug(null), 1000);
       
       // Track URL copy
@@ -334,8 +337,8 @@ export function MapComponent({ redirects }: MapComponentProps) {
         slug: slug,
         url: url
       });
-    } catch {
-      console.error('Failed to copy URL');
+    } catch (err) {
+      console.error('Failed to copy:', err);
     }
   };
 
@@ -404,26 +407,31 @@ export function MapComponent({ redirects }: MapComponentProps) {
           >
             <Popup>
               <div className="p-1">
-                <h3 className="font-bold text-sm mb-0 leading-none pb-0">
+                <h3 className="font-bold text-sm mb-2 leading-none">
                   {event.devfestName || `DevFest ${event.city || event.slug}`}
                 </h3>
-                <p className="text-xs text-gray-500 mt-0.5 mb-2 leading-none pt-0">
-                  devfe.st/{event.slug}
-                </p>
-                <p className="text-xs text-gray-600">
-                  {[event.city, event.countryName].filter(Boolean).join(', ')}
-                </p>
-                {event.devfestDate && (
-                  <p className="text-xs text-gray-600 mt-1 font-medium">
-                    {formatDate(event.devfestDate)}
-                  </p>
-                )}
+                <ul className="space-y-1.5">
+                  <li className="text-xs text-gray-500 flex items-center gap-1">
+                    <Link className="h-3 w-3" />
+                    devfe.st/{event.slug}
+                  </li>
+                  <li className="text-xs text-gray-600 flex items-center gap-1">
+                    <MapPin className="h-3 w-3" />
+                    {[event.city, event.countryName].filter(Boolean).join(', ')}
+                  </li>
+                  {event.devfestDate && (
+                    <li className="text-xs text-gray-600 font-medium flex items-center gap-1">
+                      <Calendar className="h-3 w-3" />
+                      {formatDate(event.devfestDate)}
+                    </li>
+                  )}
+                </ul>
                 <div className="flex gap-2 mt-2">
-                  <Button 
-                    size="sm" 
+                  <Button
                     variant="outline" 
-                    className="text-xs py-0 h-7 bg-white text-black border-gray-300 hover:bg-gray-100 hover:text-black"
+                    className="text-xs py-0 h-7 bg-white text-black border-gray-300 hover:bg-gray-100 hover:text-black dark:border-white dark:border-[1px] dark:border-solid"
                     onClick={() => handleCopyLink(event.slug)}
+                    disabled={!event.slug}
                   >
                     {copyingSlug === event.slug ? (
                       <Check className="h-3 w-3 mr-1 text-green-500" />

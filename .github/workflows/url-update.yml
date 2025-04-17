@@ -4,10 +4,10 @@ on:
   issues:
     types: [labeled]
 
-# Add permissions block to grant access to issues
+# Add permissions block to grant access to issues and contents
 permissions:
   issues: write
-  contents: read
+  contents: write
 
 jobs:
   process-url-request:
@@ -22,6 +22,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -74,7 +76,7 @@ jobs:
             
             core.setOutput('data', JSON.stringify(data));
       
-      - name: Update Redis
+      - name: Update Redis and JSON file
         uses: actions/github-script@v7
         env:
           UPSTASH_REDIS_REST_URL: ${{ secrets.UPSTASH_REDIS_REST_URL }}
@@ -83,6 +85,9 @@ jobs:
         with:
           script: |
             const { Redis } = require('@upstash/redis');
+            const fs = require('fs');
+            const path = require('path');
+            const { execSync } = require('child_process');
             
             const redis = new Redis({
               url: process.env.UPSTASH_REDIS_REST_URL,
@@ -125,23 +130,62 @@ jobs:
             }
             
             try {
-              // Check if slug exists
+              // Check if slug exists and get existing data
               const existing = await redis.get(slug);
               if (!existing) {
                 throw new Error(`No existing entry found for slug: ${slug}. This workflow only supports updating existing entries.`);
               }
               
-              // Create filtered entry matching seed-data.ts structure
-              const filteredEntry = {
+              // Parse existing data
+              const existingData = JSON.parse(existing);
+              
+              // Create updated entry by preserving existing metadata and updating only specific fields
+              const updatedEntry = {
+                ...existingData,
                 destinationUrl: dataWithoutSlug.destinationUrl,
-                devfestName: dataWithoutSlug.devfestName,
                 devfestDate: dataWithoutSlug.devfestDate,
+                devfestName: dataWithoutSlug.devfestName,
                 updatedBy: dataWithoutSlug.updatedBy,
                 updatedAt: dataWithoutSlug.updatedAt
               };
               
-              // Update Redis with the filtered data
-              await redis.set(slug, JSON.stringify(filteredEntry));
+              // Update Redis
+              await redis.set(slug, JSON.stringify(updatedEntry));
+              
+              // Update JSON file
+              const dataFilePath = path.join(process.cwd(), 'data', 'devfest-data.json');
+              const currentData = JSON.parse(fs.readFileSync(dataFilePath, 'utf8'));
+              const updatedData = currentData.map(entry => 
+                entry.slug === slug ? { ...entry, ...updatedEntry, slug } : entry
+              );
+              fs.writeFileSync(dataFilePath, JSON.stringify(updatedData, null, 2) + '\n');
+              
+              // Git operations
+              execSync('git config user.name "github-actions[bot]"');
+              execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
+              
+              const branchName = `update-devfest-${slug}-${Date.now()}`;
+              execSync(`git checkout -b ${branchName}`);
+              execSync(`git add ${dataFilePath}`);
+              execSync(`git commit -m "Update DevFest data for ${slug}"`);
+              execSync(`git push origin ${branchName}`);
+              
+              // Create PR
+              const prResponse = await github.rest.pulls.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `Update DevFest data for ${slug}`,
+                body: [
+                  `This PR updates the DevFest data for \`${slug}\` based on issue #${context.issue.number}.`,
+                  '',
+                  '**Changes:**',
+                  '```json',
+                  JSON.stringify(updatedEntry, null, 2),
+                  '```'
+                ].join('\n'),
+                head: branchName,
+                base: 'main'
+              });
               
               // Add processed label
               await github.rest.issues.addLabels({
@@ -151,21 +195,23 @@ jobs:
                 labels: ['processed']
               });
               
-              // Format the success message with more details
+              // Format success message
               const successMessage = [
                 `✅ URL update processed successfully!`,
                 ` `,
                 ` `,
                 `**URL Details:**`,
-                `- Short URL: \`devfe.st/${slug}\``,
-                `- Destination: ${filteredEntry.destinationUrl}`,
-                `- Event Date: ${filteredEntry.devfestDate}`,
-                filteredEntry.devfestName ? `- Event Name: ${filteredEntry.devfestName}` : null,
-                `- Updated by: @${filteredEntry.updatedBy}`,
-                `- Last Updated: ${new Date(filteredEntry.updatedAt).toLocaleString()}`,
+                '```json',
+                JSON.stringify({
+                  slug,
+                  ...updatedEntry
+                }, null, 2),
+                '```',
                 ` `,
                 ` `,
-                `The URL has been updated successfully.`,
+                `The URL has been updated successfully while preserving existing metadata.`,
+                ``,
+                `A pull request has been created to update the data file: ${prResponse.data.html_url}`,
                 ``,
                 `Note: If you need to make any changes in the future, feel free to create a new update request.`
               ].filter(Boolean).join('\n');
@@ -186,12 +232,12 @@ jobs:
                 state: 'closed'
               });
             } catch (error) {
-              console.error('Error updating Redis:', error);
+              console.error('Error updating data:', error);
               
               await github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                body: `❌ Error processing URL update: ${error.message}\n\nData received: ${JSON.stringify(dataWithoutSlug, null, 2)}`
+                body: `❌ Error processing update: ${error.message}\n\nData received: ${JSON.stringify(dataWithoutSlug, null, 2)}`
               });
             } 

@@ -18,26 +18,41 @@ export async function getRedirectBySlug(slug: string) {
 }
 
 // Helper function to get all redirect entries
-export async function getAllRedirects() {
+export async function getAllRedirects(): Promise<RedirectEntry[]> {
   try {
-    // Get all keys matching the pattern - use a different way to identify redirect entries
+    // Get all keys at once - for our use case with ~1500 records, this is acceptable
     const keys = await redis.keys('*');
     
     if (!keys.length) return [];
     
-    // Get all values for the keys
-    const redirects = await Promise.all(
-      keys.map(async (key) => {
-        const data = await redis.get<RedirectEntry>(key);
-        // Filter to only include RedirectEntry objects by checking for required fields
-        if (data && data.slug && data.destinationUrl) {
-          return data;
+    // Use pipeline to fetch all values in a single round trip
+    const pipeline = redis.pipeline();
+    keys.forEach(key => {
+      pipeline.get(key);
+    });
+    
+    const results = await pipeline.exec();
+    
+    // Process results and filter invalid entries
+    const redirects = results
+      .map((result, index) => {
+        if (!result) return null;
+        try {
+          const data = typeof result === 'string' ? JSON.parse(result) : result;
+          if (data && data.destinationUrl && data.devfestDate) {
+            return {
+              ...data,
+              slug: data.slug || keys[index] // Use key as slug if not present
+            };
+          }
+        } catch (e) {
+          console.error('Error parsing redirect data:', e);
         }
         return null;
       })
-    );
+      .filter(Boolean) as RedirectEntry[];
     
-    return redirects.filter(Boolean) as RedirectEntry[];
+    return redirects;
   } catch (error) {
     console.error('Error fetching all redirects:', error);
     return [];
@@ -45,7 +60,7 @@ export async function getAllRedirects() {
 }
 
 // Helper function to set a redirect entry
-export async function setRedirect(entry: RedirectEntry) {
+export async function setRedirect(entry: RedirectEntry & { slug: string }) {
   try {
     await redis.set(entry.slug, entry);
     return true;
@@ -58,12 +73,14 @@ export async function setRedirect(entry: RedirectEntry) {
 // RedirectEntry type definition
 export type RedirectEntry = {
   // Required fields
-  slug: string;
   destinationUrl: string;
   devfestDate: string;
+  devfestName: string;
+  updatedBy: string;
+  updatedAt: string;
   
   // Optional fields
-  devfestName?: string;
+  slug?: string;
   gdgChapter?: string;
   city?: string;
   countryName?: string;
@@ -71,6 +88,4 @@ export type RedirectEntry = {
   latitude?: number;
   longitude?: number;
   gdgUrl?: string;
-  updatedBy?: string;
-  updatedAt?: string;
 }; 

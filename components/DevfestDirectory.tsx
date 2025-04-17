@@ -128,8 +128,10 @@ export default function DevfestDirectory({ redirects, initialFilter = "" }: Devf
   };
   
   // Handle copying the URL to clipboard
-  const handleCopyLink = async (slug: string, e: React.MouseEvent) => {
+  const handleCopyLink = async (slug: string | undefined, e: React.MouseEvent) => {
     e.preventDefault();
+    if (!slug) return;
+    
     const baseUrl = typeof window !== 'undefined' ? 
       window.location.origin : 
       (process.env.NEXT_PUBLIC_SITE_URL || 'https://devfe.st');
@@ -258,6 +260,7 @@ export default function DevfestDirectory({ redirects, initialFilter = "" }: Devf
                           size="icon"
                           onClick={(e) => handleCopyLink(redirect.slug, e)}
                           title="Copy URL"
+                          disabled={!redirect.slug}
                         >
                           {copyingSlug === redirect.slug ? (
                             <Check className="h-4 w-4 text-green-500" />

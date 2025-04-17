@@ -15,15 +15,16 @@ const redis = new Redis({
 async function seedData() {
   try {
     for (const entry of devfestData) {
-      const filteredEntry = {
-        destinationUrl: entry.destinationUrl,
-        devfestName: entry.devfestName,
-        devfestDate: entry.devfestDate,
-        updatedBy: entry.updatedBy,
-        updatedAt: entry.updatedAt
-      };
-      await redis.set(entry.slug, JSON.stringify(filteredEntry));
-      console.log(`Seeded data for ${entry.slug}`);
+      const { slug, ...filteredEntry } = entry;
+      
+      // Skip entries without a slug
+      if (!slug) {
+        console.warn('Skipping entry without slug:', entry);
+        continue;
+      }
+      
+      await redis.set(slug, JSON.stringify(filteredEntry));
+      console.log(`Seeded data for ${slug}`);
     }
     console.log('Data seeding completed successfully');
   } catch (error) {

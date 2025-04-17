@@ -1,7 +1,8 @@
 import { HomePage } from "@/components/HomePage";
-import { sampleData } from "@/data/devfest-data";
+import { getAllRedirects } from "@/lib/data";
 
 export const dynamic = 'force-dynamic';
+export const revalidate = 3600; // Revalidate every hour
 
 /* 
  * In Next.js 15, searchParams is a Promise that needs to be awaited 
@@ -22,6 +23,9 @@ export default async function Home({
   // Convert to the expected types
   const notFound = typeof notFoundParam === 'string' ? notFoundParam : undefined;
   const error = typeof errorParam === 'string' ? errorParam : undefined;
+
+  // Fetch redirects from JSON file
+  const redirects = await getAllRedirects();
   
-  return <HomePage redirects={sampleData} notFound={notFound} error={error} />;
+  return <HomePage redirects={redirects} notFound={notFound} error={error} />;
 }
