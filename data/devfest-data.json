@@ -10951,7 +10951,7 @@
   },
   {
     "slug": "turlock",
-    "destinationUrl": "https://gdg.community.dev/gdg-turlock/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-modesto-presents-devfest-2025/cohost-gdg-turlock",
     "gdgChapter": "GDG Turlock",
     "city": "Turlock",
     "countryName": "United States",
@@ -10959,10 +10959,10 @@
     "latitude": 37.4945743,
     "longitude": -120.8459786,
     "gdgUrl": "https://gdg.community.dev/gdg-turlock/",
-    "devfestName": "DevFest Turlock 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-04-21T10:54:06.715Z"
   },
   {
     "slug": "uberaba",
