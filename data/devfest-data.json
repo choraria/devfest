@@ -7276,7 +7276,7 @@
   },
   {
     "slug": "modesto",
-    "destinationUrl": "https://gdg.community.dev/gdg-modesto/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-modesto-presents-devfest-2025/cohost-gdg-modesto",
     "gdgChapter": "GDG Modesto",
     "city": "Modesto",
     "countryName": "United States",
@@ -7284,10 +7284,10 @@
     "latitude": 37.68,
     "longitude": -120.94,
     "gdgUrl": "https://gdg.community.dev/gdg-modesto/",
-    "devfestName": "DevFest Modesto 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-04-21T09:59:42.788Z"
   },
   {
     "slug": "mogadishu",
