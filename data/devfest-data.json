@@ -10801,7 +10801,7 @@
   },
   {
     "slug": "torino",
-    "destinationUrl": "https://gdg.community.dev/gdg-torino/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cloud-torino-presents-devfest-torino/",
     "gdgChapter": "GDG Torino",
     "city": "Torino",
     "countryName": "Italy",
@@ -10809,10 +10809,10 @@
     "latitude": 45.05,
     "longitude": 7.67,
     "gdgUrl": "https://gdg.community.dev/gdg-torino/",
-    "devfestName": "DevFest Torino 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Torino",
+    "devfestDate": "2025-05-24",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-05-22T14:05:38.731Z"
   },
   {
     "slug": "toronto",
