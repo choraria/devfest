@@ -5236,7 +5236,7 @@
   },
   {
     "slug": "jos",
-    "destinationUrl": "https://gdg.community.dev/gdg-jos/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-jos-presents-developers-festival-2025/",
     "gdgChapter": "GDG Jos",
     "city": "Jos",
     "countryName": "Nigeria",
@@ -5244,10 +5244,10 @@
     "latitude": 9.93,
     "longitude": 8.89,
     "gdgUrl": "https://gdg.community.dev/gdg-jos/",
-    "devfestName": "DevFest Jos 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Developers Festival 2025",
+    "devfestDate": "2025-09-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-06-05T07:45:36.977Z"
   },
   {
     "slug": "kaduna-city",
