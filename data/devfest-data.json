@@ -11221,7 +11221,7 @@
   },
   {
     "slug": "vicenza",
-    "destinationUrl": "https://gdg.community.dev/gdg-vicenza/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-vicenza-presents-devfest-vicenza-2025/",
     "gdgChapter": "GDG Vicenza",
     "city": "Vicenza",
     "countryName": "Italy",
@@ -11230,9 +11230,9 @@
     "longitude": 11.5354214,
     "gdgUrl": "https://gdg.community.dev/gdg-vicenza/",
     "devfestName": "DevFest Vicenza 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-06-14",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-06-13T07:37:06.534Z"
   },
   {
     "slug": "vienna",
