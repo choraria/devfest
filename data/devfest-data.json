@@ -271,7 +271,7 @@
   },
   {
     "slug": "ahlen",
-    "destinationUrl": "https://gdg.community.dev/gdg-ahlen/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-ahlen-2025/",
     "gdgChapter": "GDG Ahlen",
     "city": "Ahlen",
     "countryName": "Germany",
@@ -280,9 +280,9 @@
     "longitude": 7.8973228,
     "gdgUrl": "https://gdg.community.dev/gdg-ahlen/",
     "devfestName": "DevFest Ahlen 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-17",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-06-13T07:25:14.828Z"
   },
   {
     "slug": "ahmedabad",
