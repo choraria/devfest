@@ -5356,7 +5356,7 @@
   },
   {
     "slug": "karlsruhe",
-    "destinationUrl": "https://gdg.community.dev/gdg-karlsruhe/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-karlsruhe-presents-gdg-devfest-karlsruhe-2025-kickoff-event/",
     "gdgChapter": "GDG Karlsruhe",
     "city": "Karlsruhe",
     "countryName": "Germany",
@@ -5364,10 +5364,10 @@
     "latitude": 49,
     "longitude": 8.4,
     "gdgUrl": "https://gdg.community.dev/gdg-karlsruhe/",
-    "devfestName": "DevFest Karlsruhe 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG DevFest Karlsruhe 2025 Kickoff Event",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-06-13T07:30:58.521Z"
   },
   {
     "slug": "kastamonu",
