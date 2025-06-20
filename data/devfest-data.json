@@ -2716,7 +2716,7 @@
   },
   {
     "slug": "cochin",
-    "destinationUrl": "https://gdg.community.dev/gdg-cochin/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cochin-presents-devfest-kochi-2025/",
     "gdgChapter": "GDG Cochin",
     "city": "Kochi",
     "countryName": "India",
@@ -2725,9 +2725,9 @@
     "longitude": 76.22,
     "gdgUrl": "https://gdg.community.dev/gdg-cochin/",
     "devfestName": "DevFest Kochi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-06-20T08:34:51.786Z"
   },
   {
     "slug": "cocody",
