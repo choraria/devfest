@@ -1531,7 +1531,7 @@
   },
   {
     "slug": "bletchley",
-    "destinationUrl": "https://gdg.community.dev/gdg-bletchley/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bletchley-presents-devfest-bletchley-park-2025/",
     "gdgChapter": "GDG Bletchley",
     "city": "Bletchley",
     "countryName": "United Kingdom",
@@ -1539,10 +1539,10 @@
     "latitude": 51.9984,
     "longitude": -0.7437,
     "gdgUrl": "https://gdg.community.dev/gdg-bletchley/",
-    "devfestName": "DevFest Bletchley 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest @ Bletchley Park 2025",
+    "devfestDate": "2015-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-06-21T05:42:14.203Z"
   },
   {
     "slug": "blumenau",
