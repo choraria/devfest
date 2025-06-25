@@ -6406,7 +6406,7 @@
   },
   {
     "slug": "los-angeles",
-    "destinationUrl": "https://gdg.community.dev/gdg-los-angeles/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-los-angeles-presents-devfest-2025-gdg-greater-los-angeles-area/cohost-gdg-los-angeles",
     "gdgChapter": "GDG Los Angeles",
     "city": "Los Angeles",
     "countryName": "United States",
@@ -6414,10 +6414,10 @@
     "latitude": 34.09,
     "longitude": -118.34,
     "gdgUrl": "https://gdg.community.dev/gdg-los-angeles/",
-    "devfestName": "DevFest Los Angeles 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 - GDG Greater Los Angeles Area",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-06-25T22:05:36.944Z"
   },
   {
     "slug": "louisville",
