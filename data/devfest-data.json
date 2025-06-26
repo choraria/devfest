@@ -2221,7 +2221,7 @@
   },
   {
     "slug": "cape-town",
-    "destinationUrl": "https://gdg.community.dev/gdg-cape-town/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cape-town-presents-devfest-cape-town-2025/",
     "gdgChapter": "GDG Cape Town",
     "city": "Cape Town",
     "countryName": "South Africa",
@@ -2230,9 +2230,9 @@
     "longitude": 18.46,
     "gdgUrl": "https://gdg.community.dev/gdg-cape-town/",
     "devfestName": "DevFest Cape Town 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-06-26T19:02:22.463Z"
   },
   {
     "slug": "capital-region",
