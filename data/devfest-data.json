@@ -841,7 +841,7 @@
   },
   {
     "slug": "atlanta",
-    "destinationUrl": "https://gdg.community.dev/gdg-atlanta/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-atlanta-presents-google-devfest-atlanta-2025/cohost-gdg-atlanta",
     "gdgChapter": "GDG Atlanta",
     "city": "Atlanta",
     "countryName": "United States",
@@ -849,10 +849,10 @@
     "latitude": 33.79,
     "longitude": -84.35,
     "gdgUrl": "https://gdg.community.dev/gdg-atlanta/",
-    "devfestName": "DevFest Atlanta 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GOOGLE DevFest ATLANTA 2025",
+    "devfestDate": "2025-10-31",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-07-08T05:16:49.055Z"
   },
   {
     "slug": "atyrau",
