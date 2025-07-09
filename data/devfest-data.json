@@ -2431,7 +2431,7 @@
   },
   {
     "slug": "chapel-hill",
-    "destinationUrl": "https://gdg.community.dev/gdg-chapel-hill/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-chapel-hill-presents-north-carolina-devfest-2025/",
     "gdgChapter": "GDG Chapel Hill",
     "city": "Chapel Hill",
     "countryName": "United States",
@@ -2439,10 +2439,10 @@
     "latitude": 35.93,
     "longitude": -79.04,
     "gdgUrl": "https://gdg.community.dev/gdg-chapel-hill/",
-    "devfestName": "DevFest Chapel Hill 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "North Carolina DevFest 2025",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-07-09T15:58:56.012Z"
   },
   {
     "slug": "charleston",
