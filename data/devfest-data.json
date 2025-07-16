@@ -6616,7 +6616,7 @@
   },
   {
     "slug": "madison",
-    "destinationUrl": "https://gdg.community.dev/gdg-madison/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-madison-presents-devfest-wi-2025/",
     "gdgChapter": "GDG Madison",
     "city": "Madison",
     "countryName": "United States",
@@ -6624,10 +6624,10 @@
     "latitude": 43.08,
     "longitude": -89.38,
     "gdgUrl": "https://gdg.community.dev/gdg-madison/",
-    "devfestName": "DevFest Madison 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest WI 2025",
+    "devfestDate": "2025-08-19",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-07-16T10:58:28.014Z"
   },
   {
     "slug": "madrid",
