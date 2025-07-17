@@ -8611,7 +8611,7 @@
   },
   {
     "slug": "ponferrada",
-    "destinationUrl": "https://gdg.community.dev/gdg-ponferrada/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ponferrada-presents-devfest-ponferrada-2025/",
     "gdgChapter": "GDG Ponferrada",
     "city": "Ponferrada",
     "countryName": "Spain",
@@ -8620,9 +8620,9 @@
     "longitude": -6.598259,
     "gdgUrl": "https://gdg.community.dev/gdg-ponferrada/",
     "devfestName": "DevFest Ponferrada 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-28",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-07-17T20:37:56.122Z"
   },
   {
     "slug": "port-harcourt",
