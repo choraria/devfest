@@ -961,7 +961,7 @@
   },
   {
     "slug": "baguio",
-    "destinationUrl": "https://gdg.community.dev/gdg-baguio/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-baguio-presents-devfest-baguio-2025/",
     "gdgChapter": "GDG Baguio",
     "city": "Baguio",
     "countryName": "Philippines",
@@ -970,9 +970,9 @@
     "longitude": 120.57,
     "gdgUrl": "https://gdg.community.dev/gdg-baguio/",
     "devfestName": "DevFest Baguio 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-07-18T16:35:16.399Z"
   },
   {
     "slug": "baku",
