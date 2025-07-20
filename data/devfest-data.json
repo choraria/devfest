@@ -391,7 +391,7 @@
   },
   {
     "slug": "aktobe",
-    "destinationUrl": "https://gdg.community.dev/gdg-aktobe/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-aktobe-presents-google-dev-fest-aqtobe-2025/",
     "gdgChapter": "GDG Aktobe",
     "city": "Aktobe",
     "countryName": "Kazakhstan",
@@ -399,10 +399,10 @@
     "latitude": 50.2839339,
     "longitude": 57.166978,
     "gdgUrl": "https://gdg.community.dev/gdg-aktobe/",
-    "devfestName": "DevFest Aktobe 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google Dev Fest Aqtobe 2025",
+    "devfestDate": "2025-09-26",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-07-20T20:25:20.071Z"
   },
   {
     "slug": "akure",
