@@ -9331,7 +9331,7 @@
   },
   {
     "slug": "samsun",
-    "destinationUrl": "https://gdg.community.dev/gdg-samsun/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-samsun-presents-google-developers-groups-devfest-2025-samsun/",
     "gdgChapter": "GDG Samsun",
     "city": "Samsun",
     "countryName": "Turkey",
@@ -9339,10 +9339,10 @@
     "latitude": 41.2797031,
     "longitude": 36.3360667,
     "gdgUrl": "https://gdg.community.dev/gdg-samsun/",
-    "devfestName": "DevFest Samsun 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google Developers Groups DevFest 2025 Samsun",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-07-25T16:28:34.491Z"
   },
   {
     "slug": "san-antonio",
