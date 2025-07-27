@@ -2071,7 +2071,7 @@
   },
   {
     "slug": "cairo",
-    "destinationUrl": "https://gdg.community.dev/gdg-cairo/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cairo-presents-devfest-cairo-2025/cohost-gdg-cairo",
     "gdgChapter": "GDG Cairo",
     "city": "Cairo",
     "countryName": "Egypt",
@@ -2080,9 +2080,9 @@
     "longitude": 31.25,
     "gdgUrl": "https://gdg.community.dev/gdg-cairo/",
     "devfestName": "DevFest Cairo 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-07-27T08:44:33.128Z"
   },
   {
     "slug": "calabar",
