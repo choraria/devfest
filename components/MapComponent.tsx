@@ -411,9 +411,31 @@ export function MapComponent({ redirects }: MapComponentProps) {
                   {event.devfestName || `DevFest ${event.city || event.slug}`}
                 </h3>
                 <ul className="space-y-1.5">
+                  {event.gdgChapter && (
+                    <li className="text-xs flex items-center gap-1">
+                      <Link className="h-3 w-3" />
+                      {event.gdgUrl ? (
+                        <a 
+                          href={event.gdgUrl} 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="hover:underline text-inherit"
+                        >
+                          {event.gdgChapter}
+                        </a>
+                      ) : (
+                        <span className="text-gray-600">{event.gdgChapter}</span>
+                      )}
+                    </li>
+                  )}
                   <li className="text-xs text-gray-500 flex items-center gap-1">
                     <Link className="h-3 w-3" />
-                    devfe.st/{event.slug}
+                    <button
+                      onClick={() => window.open(event.destinationUrl, '_blank')}
+                      className="hover:underline cursor-pointer bg-transparent border-none p-0 text-inherit font-inherit"
+                    >
+                      devfe.st/{event.slug}
+                    </button>
                   </li>
                   <li className="text-xs text-gray-600 flex items-center gap-1">
                     <MapPin className="h-3 w-3" />
@@ -429,7 +451,7 @@ export function MapComponent({ redirects }: MapComponentProps) {
                 <div className="flex gap-2 mt-2">
                   <Button
                     variant="outline" 
-                    className="text-xs py-0 h-7 bg-white text-black border-gray-300 hover:bg-gray-100 hover:text-black dark:border-white dark:border-[1px] dark:border-solid"
+                    className="text-xs py-0 h-7 bg-white text-black border-gray-300 hover:bg-gray-100 hover:text-black dark:border-gray-500 dark:border-[1px] dark:border-solid"
                     onClick={() => handleCopyLink(event.slug)}
                     disabled={!event.slug}
                   >

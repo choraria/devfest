@@ -225,6 +225,7 @@ export default function DevfestDirectory({ redirects, initialFilter = "" }: Devf
                   Date <ArrowUpDown className="inline h-4 w-4 ml-1" />
                 </TableHead>
                 <TableHead>DevFest</TableHead>
+                <TableHead>GDG Chapter</TableHead>
                 <TableHead 
                   onClick={() => handleSort('location')}
                   className="cursor-pointer hover:bg-muted/50"
@@ -237,21 +238,66 @@ export default function DevfestDirectory({ redirects, initialFilter = "" }: Devf
             </TableHeader>
             <TableBody>
               {filteredRedirects.length > 0 ? (
-                filteredRedirects.map((redirect) => (
+                filteredRedirects.map((redirect) => {
+                  const devfestName = redirect.devfestName || `DevFest ${redirect.city || redirect.slug}`;
+                  
+                  return (
                   <TableRow key={redirect.slug}>
                     <TableCell>{formatDate(redirect.devfestDate)}</TableCell>
                     <TableCell className="font-medium">
-                      {redirect.devfestName || `DevFest ${redirect.city || redirect.slug}`}
+                      <div 
+                        className="max-w-[200px] overflow-hidden text-ellipsis whitespace-nowrap"
+                        title={devfestName.length > 25 ? devfestName : undefined}
+                      >
+                        {devfestName}
+                      </div>
                     </TableCell>
-                    <TableCell className="pr-0">
-                      {redirect.city} {redirect.countryCode && (
-                        <span className="ml-1" title={redirect.countryName}>
-                          {getCountryFlag(redirect.countryCode)}
-                        </span>
+                    <TableCell>
+                      {redirect.gdgChapter ? (
+                        redirect.gdgUrl ? (
+                          <a 
+                            href={redirect.gdgUrl} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="hover:underline max-w-[120px] overflow-hidden text-ellipsis whitespace-nowrap inline-block text-inherit"
+                            title={redirect.gdgChapter.length > 15 ? redirect.gdgChapter : undefined}
+                          >
+                            {redirect.gdgChapter}
+                          </a>
+                        ) : (
+                          <div 
+                            className="max-w-[120px] overflow-hidden text-ellipsis whitespace-nowrap"
+                            title={redirect.gdgChapter.length > 15 ? redirect.gdgChapter : undefined}
+                          >
+                            {redirect.gdgChapter}
+                          </div>
+                        )
+                      ) : (
+                        '-'
                       )}
                     </TableCell>
+                    <TableCell className="pr-0">
+                      <div className="flex items-center">
+                        <div 
+                          className="max-w-[120px] overflow-hidden text-ellipsis whitespace-nowrap"
+                          title={redirect.city && redirect.city.length > 15 ? redirect.city : undefined}
+                        >
+                          {redirect.city || ''}
+                        </div>
+                        {redirect.countryCode && (
+                          <span className="ml-1 flex-shrink-0" title={redirect.countryName}>
+                            {getCountryFlag(redirect.countryCode)}
+                          </span>
+                        )}
+                      </div>
+                    </TableCell>
                     <TableCell className="text-right pl-0">
-                      devfe.st/{redirect.slug}
+                      <button
+                        onClick={() => window.open(redirect.destinationUrl, '_blank')}
+                        className="hover:underline cursor-pointer bg-transparent border-none p-0 text-inherit font-inherit"
+                      >
+                        devfe.st/{redirect.slug}
+                      </button>
                     </TableCell>
                     <TableCell className="text-right">
                       <div className="flex justify-end gap-2">
@@ -280,10 +326,11 @@ export default function DevfestDirectory({ redirects, initialFilter = "" }: Devf
                       </div>
                     </TableCell>
                   </TableRow>
-                ))
+                  );
+                })
               ) : (
                 <TableRow>
-                  <TableCell colSpan={4} className="text-center py-8">
+                  <TableCell colSpan={6} className="text-center py-8">
                     No DevFest events found. Try adjusting your search.
                   </TableCell>
                 </TableRow>
