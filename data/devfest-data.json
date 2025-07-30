@@ -8671,7 +8671,7 @@
   },
   {
     "slug": "portlaoise",
-    "destinationUrl": "https://gdg.community.dev/gdg-portlaoise/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-portlaoise-presents-devfest-ireland-2025/cohost-gdg-portlaoise",
     "gdgChapter": "GDG Portlaoise",
     "city": "Portlaoise",
     "countryName": "Ireland",
@@ -8679,10 +8679,10 @@
     "latitude": 53.0328123,
     "longitude": -7.2987933,
     "gdgUrl": "https://gdg.community.dev/gdg-portlaoise/",
-    "devfestName": "DevFest Portlaoise 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Ireland 2025",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-07-30T07:06:15.157Z"
   },
   {
     "slug": "porto",
