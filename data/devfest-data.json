@@ -5251,7 +5251,7 @@
   },
   {
     "slug": "kaduna-city",
-    "destinationUrl": "https://gdg.community.dev/gdg-kaduna-city/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kaduna-city-presents-devfest-kaduna-2025/cohost-gdg-kaduna-city",
     "gdgChapter": "GDG Kaduna City",
     "city": "Kaduna",
     "countryName": "Nigeria",
@@ -5260,9 +5260,9 @@
     "longitude": 7.44,
     "gdgUrl": "https://gdg.community.dev/gdg-kaduna-city/",
     "devfestName": "DevFest Kaduna 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-24",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-07-30T17:23:26.740Z"
   },
   {
     "slug": "kafanchan",
