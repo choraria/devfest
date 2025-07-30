@@ -3886,7 +3886,7 @@
   },
   {
     "slug": "galway",
-    "destinationUrl": "https://gdg.community.dev/gdg-galway/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-portlaoise-presents-devfest-ireland-2025/cohost-gdg-portlaoise",
     "gdgChapter": "GDG Galway",
     "city": "Galway",
     "countryName": "Ireland",
@@ -3894,10 +3894,10 @@
     "latitude": 53.28,
     "longitude": -9.06,
     "gdgUrl": "https://gdg.community.dev/gdg-galway/",
-    "devfestName": "DevFest Galway 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Ireland 2025",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-07-30T07:07:41.480Z"
   },
   {
     "slug": "gandhinagar",
