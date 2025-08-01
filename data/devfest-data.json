@@ -151,7 +151,7 @@
   },
   {
     "slug": "accra",
-    "destinationUrl": "https://gdg.community.dev/gdg-accra/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-accra-presents-devfest-accra-2025/",
     "gdgChapter": "GDG Accra",
     "city": "Accra",
     "countryName": "Ghana",
@@ -160,9 +160,9 @@
     "longitude": -0.2,
     "gdgUrl": "https://gdg.community.dev/gdg-accra/",
     "devfestName": "DevFest Accra 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-04",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-08-01T13:32:37.042Z"
   },
   {
     "slug": "adana",
