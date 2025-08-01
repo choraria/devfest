@@ -4411,7 +4411,7 @@
   },
   {
     "slug": "hamburg",
-    "destinationUrl": "https://gdg.community.dev/gdg-hamburg/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-hamburg-presents-gdg-hamburg-devfest-2025/",
     "gdgChapter": "GDG Hamburg",
     "city": "Hamburg",
     "countryName": "Germany",
@@ -4419,10 +4419,10 @@
     "latitude": 53.55,
     "longitude": 10,
     "gdgUrl": "https://gdg.community.dev/gdg-hamburg/",
-    "devfestName": "DevFest Hamburg 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Hamburg DevFest 2025",
+    "devfestDate": "2025-11-14",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-01T03:58:13.792Z"
   },
   {
     "slug": "hangzhou",
