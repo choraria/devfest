@@ -2746,7 +2746,7 @@
   },
   {
     "slug": "code-darmor",
-    "destinationUrl": "https://gdg.community.dev/gdg-code-darmor/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-code-darmor-presents-devfest-perros-guirec-2025/",
     "gdgChapter": "GDG Code d'Armor",
     "city": "Lannion",
     "countryName": "France",
@@ -2754,10 +2754,10 @@
     "latitude": 48.75,
     "longitude": -3.47,
     "gdgUrl": "https://gdg.community.dev/gdg-code-darmor/",
-    "devfestName": "DevFest Lannion 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Perros Guirec 2025",
+    "devfestDate": "2025-10-03",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-08-01T23:40:20.758Z"
   },
   {
     "slug": "coimbatore",
