@@ -1501,7 +1501,7 @@
   },
   {
     "slug": "bishkek",
-    "destinationUrl": "https://gdg.community.dev/gdg-bishkek/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bishkek-presents-devfest-bishkek-2025/",
     "gdgChapter": "GDG Bishkek",
     "city": "Bishkek",
     "countryName": "Kyrgyzstan",
@@ -1510,9 +1510,9 @@
     "longitude": 74.57,
     "gdgUrl": "https://gdg.community.dev/gdg-bishkek/",
     "devfestName": "DevFest Bishkek 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-09-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-01T23:51:38.383Z"
   },
   {
     "slug": "bizerte",
