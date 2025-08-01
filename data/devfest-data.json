@@ -466,7 +466,7 @@
   },
   {
     "slug": "alicante",
-    "destinationUrl": "https://gdg.community.dev/gdg-alicante/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-alicante-presents-devfest-2025-alicante/",
     "gdgChapter": "GDG Alicante",
     "city": "Alicante",
     "countryName": "Spain",
@@ -474,10 +474,10 @@
     "latitude": 38.3459963,
     "longitude": -0.4906855,
     "gdgUrl": "https://gdg.community.dev/gdg-alicante/",
-    "devfestName": "DevFest Alicante 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 - Alicante",
+    "devfestDate": "2025-09-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-08-01T23:37:18.236Z"
   },
   {
     "slug": "almaty",
