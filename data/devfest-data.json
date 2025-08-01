@@ -11476,7 +11476,7 @@
   },
   {
     "slug": "winnipeg",
-    "destinationUrl": "https://gdg.community.dev/gdg-winnipeg/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-winnipeg-presents-devfest-winnipeg-2025-tech-for-good-innovate-with-responsibility/",
     "gdgChapter": "GDG Winnipeg",
     "city": "Winnipeg",
     "countryName": "Canada",
@@ -11484,10 +11484,10 @@
     "latitude": 49.89,
     "longitude": -97,
     "gdgUrl": "https://gdg.community.dev/gdg-winnipeg/",
-    "devfestName": "DevFest Winnipeg 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Winnipeg 2025: Tech for Good — Innovate with Responsibility",
+    "devfestDate": "2025-09-20",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-08-01T23:50:21.084Z"
   },
   {
     "slug": "wolverhampton",
