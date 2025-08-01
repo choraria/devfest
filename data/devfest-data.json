@@ -6076,7 +6076,7 @@
   },
   {
     "slug": "lecce",
-    "destinationUrl": "https://gdg.community.dev/gdg-lecce/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lecce-presents-devfest-lecce-2025/",
     "gdgChapter": "GDG Lecce",
     "city": "Lecce",
     "countryName": "Italy",
@@ -6085,9 +6085,9 @@
     "longitude": 18.174966,
     "gdgUrl": "https://gdg.community.dev/gdg-lecce/",
     "devfestName": "DevFest Lecce 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-09-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-08-01T23:45:53.113Z"
   },
   {
     "slug": "leeds",
