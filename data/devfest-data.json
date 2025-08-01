@@ -6631,7 +6631,7 @@
   },
   {
     "slug": "madrid",
-    "destinationUrl": "https://gdg.community.dev/gdg-madrid/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-madrid-presents-devfest-madrid-2025/",
     "gdgChapter": "GDG Madrid",
     "city": "Madrid",
     "countryName": "Spain",
@@ -6639,10 +6639,10 @@
     "latitude": 40.42,
     "longitude": -3.71,
     "gdgUrl": "https://gdg.community.dev/gdg-madrid/",
-    "devfestName": "DevFest Madrid 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Madrid 2025",
+    "devfestDate": "2025-11-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-08-01T23:28:21.185Z"
   },
   {
     "slug": "madurai",
