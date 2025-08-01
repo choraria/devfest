@@ -5941,7 +5941,7 @@
   },
   {
     "slug": "la-rioja",
-    "destinationUrl": "https://gdg.community.dev/gdg-la-rioja/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-la-rioja-presents-devfest-2025-innovate-and-inspire-in-la-rioja-coderioja/",
     "gdgChapter": "GDG La Rioja",
     "city": "La Rioja",
     "countryName": "Spain",
@@ -5949,10 +5949,10 @@
     "latitude": 42.47,
     "longitude": -2.44,
     "gdgUrl": "https://gdg.community.dev/gdg-la-rioja/",
-    "devfestName": "DevFest La Rioja 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025: Innovate and Inspire in La Rioja. [CodeRioja]",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-08-01T23:33:24.133Z"
   },
   {
     "slug": "ladysmith",
