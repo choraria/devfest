@@ -4171,7 +4171,7 @@
   },
   {
     "slug": "granada",
-    "destinationUrl": "https://gdg.community.dev/gdg-granada/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-granada-presents-devfest-granada-2025/",
     "gdgChapter": "GDG Granada",
     "city": "Granada",
     "countryName": "Spain",
@@ -4180,9 +4180,9 @@
     "longitude": -3.59,
     "gdgUrl": "https://gdg.community.dev/gdg-granada/",
     "devfestName": "DevFest Granada 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-28",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-01T23:35:36.013Z"
   },
   {
     "slug": "grand-rapids",
