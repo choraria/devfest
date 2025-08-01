@@ -6571,7 +6571,7 @@
   },
   {
     "slug": "maceio",
-    "destinationUrl": "https://gdg.community.dev/gdg-maceio/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-maceio-presents-devfest-maceio-2025-rogadx/",
     "gdgChapter": "GDG Maceió",
     "city": "Maceió",
     "countryName": "Brazil",
@@ -6579,10 +6579,10 @@
     "latitude": -9.6660417,
     "longitude": -35.7352167,
     "gdgUrl": "https://gdg.community.dev/gdg-maceio/",
-    "devfestName": "DevFest Maceió 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Maceió 2025 + RogaDX",
+    "devfestDate": "2025-09-12",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-08-01T23:44:10.597Z"
   },
   {
     "slug": "machala",
