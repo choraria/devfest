@@ -1786,7 +1786,7 @@
   },
   {
     "slug": "brunei-darussalam",
-    "destinationUrl": "https://gdg.community.dev/gdg-brunei-darussalam/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-brunei-darussalam-presents-devfest-2025-amp-career-weekend/",
     "gdgChapter": "GDG Brunei Darussalam",
     "city": "Bandar Seri Begawan",
     "countryName": "Brunei Darussalam",
@@ -1794,10 +1794,10 @@
     "latitude": 4.93,
     "longitude": 114.95,
     "gdgUrl": "https://gdg.community.dev/gdg-brunei-darussalam/",
-    "devfestName": "DevFest Brunei Darussalam 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 & Career Weekend",
+    "devfestDate": "2025-10-03",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-01T23:54:28.072Z"
   },
   {
     "slug": "brunswick",
