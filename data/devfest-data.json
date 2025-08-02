@@ -6556,7 +6556,7 @@
   },
   {
     "slug": "lyon",
-    "destinationUrl": "https://gdg.community.dev/gdg-lyon/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lyon-presents-devfest-lyon-premiere-edition-1/",
     "gdgChapter": "GDG Lyon",
     "city": "Lyon",
     "countryName": "France",
@@ -6564,10 +6564,10 @@
     "latitude": 45.76,
     "longitude": 4.83,
     "gdgUrl": "https://gdg.community.dev/gdg-lyon/",
-    "devfestName": "DevFest Lyon 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Lyon - Première édition 🦁",
+    "devfestDate": "2025-11-28",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-08-02T00:06:18.764Z"
   },
   {
     "slug": "maceio",
