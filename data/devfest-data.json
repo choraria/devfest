@@ -8716,7 +8716,7 @@
   },
   {
     "slug": "potenza",
-    "destinationUrl": "https://gdg.community.dev/gdg-basilicata/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-basilicata-presents-devfest-basilicata-2025/",
     "gdgChapter": "GDG Basilicata",
     "city": "Potenza",
     "countryName": "Italy",
@@ -8724,10 +8724,10 @@
     "latitude": 40.6377715,
     "longitude": 15.805502,
     "gdgUrl": "https://gdg.community.dev/gdg-basilicata/",
-    "devfestName": "DevFest Potenza 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Basilicata 2025",
+    "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-08-02T00:02:25.300Z"
   },
   {
     "slug": "poznan",
