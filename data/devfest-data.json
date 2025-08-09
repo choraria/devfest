@@ -6946,7 +6946,7 @@
   },
   {
     "slug": "maroua",
-    "destinationUrl": "https://gdg.community.dev/gdg-maroua/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-maroua-presents-devfest-maroua-2025-ai-for-local-impact/",
     "gdgChapter": "GDG Maroua",
     "city": "Maroua",
     "countryName": "Cameroon",
@@ -6954,10 +6954,10 @@
     "latitude": 10.58,
     "longitude": 14.33,
     "gdgUrl": "https://gdg.community.dev/gdg-maroua/",
-    "devfestName": "DevFest Maroua 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Maroua 2025 – AI for Local Impact",
+    "devfestDate": "2025-11-09",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-08-09T07:07:20.671Z"
   },
   {
     "slug": "marrakesh",
