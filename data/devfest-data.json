@@ -7381,7 +7381,7 @@
   },
   {
     "slug": "montreal",
-    "destinationUrl": "https://gdg.community.dev/gdg-montreal/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-developer-ecosystem-north-america-team-presents-virtual-devfest-season-opener/cohost-gdg-montreal",
     "gdgChapter": "GDG Montreal",
     "city": "Montreal",
     "countryName": "Canada",
@@ -7389,10 +7389,10 @@
     "latitude": 45.5018869,
     "longitude": -73.5673919,
     "gdgUrl": "https://gdg.community.dev/gdg-montreal/",
-    "devfestName": "DevFest Montreal 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Virtual DevFest Season Opener",
+    "devfestDate": "2025-08-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-08-11T06:05:28.390Z"
   },
   {
     "slug": "mountain-view",
