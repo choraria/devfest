@@ -11461,7 +11461,7 @@
   },
   {
     "slug": "windsor",
-    "destinationUrl": "https://gdg.community.dev/gdg-windsor/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-windsor-presents-windsor-essex-gdg-devfest-2025/cohost-gdg-windsor",
     "gdgChapter": "GDG Windsor",
     "city": "Windsor",
     "countryName": "Canada",
@@ -11469,10 +11469,10 @@
     "latitude": 42.31,
     "longitude": -82.9,
     "gdgUrl": "https://gdg.community.dev/gdg-windsor/",
-    "devfestName": "DevFest Windsor 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Windsor-Essex GDG DevFest 2025",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-08-12T06:27:41.546Z"
   },
   {
     "slug": "winnipeg",
