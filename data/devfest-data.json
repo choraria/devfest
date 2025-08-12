@@ -11716,7 +11716,7 @@
   },
   {
     "slug": "zamboanga",
-    "destinationUrl": "https://gdg.community.dev/gdg-zamboanga/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-zamboanga-presents-devfest-zampen-2025/",
     "gdgChapter": "GDG Zamboanga",
     "city": "Zamboanga",
     "countryName": "Philippines",
@@ -11724,10 +11724,10 @@
     "latitude": 6.92,
     "longitude": 122.08,
     "gdgUrl": "https://gdg.community.dev/gdg-zamboanga/",
-    "devfestName": "DevFest Zamboanga 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Zampen 2025",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-08-12T06:22:54.996Z"
   },
   {
     "slug": "zaporizhzhia",
