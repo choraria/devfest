@@ -1051,7 +1051,7 @@
   },
   {
     "slug": "bangalore",
-    "destinationUrl": "https://gdg.community.dev/gdg-bangalore/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bangalore-presents-devfest-bengaluru-2025/",
     "gdgChapter": "GDG Bangalore",
     "city": "Bangalore",
     "countryName": "India",
@@ -1059,10 +1059,10 @@
     "latitude": 12.97,
     "longitude": 77.56,
     "gdgUrl": "https://gdg.community.dev/gdg-bangalore/",
-    "devfestName": "DevFest Bangalore 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Bengaluru 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-12T06:19:41.579Z"
   },
   {
     "slug": "bangangte",
