@@ -9736,7 +9736,7 @@
   },
   {
     "slug": "seattle",
-    "destinationUrl": "https://gdg.community.dev/gdg-seattle/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-seattle-presents-devfest-seattle-2025/",
     "gdgChapter": "GDG Seattle",
     "city": "Seattle",
     "countryName": "United States",
@@ -9745,9 +9745,9 @@
     "longitude": -122.33,
     "gdgUrl": "https://gdg.community.dev/gdg-seattle/",
     "devfestName": "DevFest Seattle 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-08-14T05:53:21.189Z"
   },
   {
     "slug": "semarang",
