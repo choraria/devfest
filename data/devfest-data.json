@@ -4816,7 +4816,7 @@
   },
   {
     "slug": "ilorin",
-    "destinationUrl": "https://gdg.community.dev/gdg-ilorin/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ilorin-presents-devfest-ilorin-2025/",
     "gdgChapter": "GDG Ilorin",
     "city": "Ilorin",
     "countryName": "Nigeria",
@@ -4824,10 +4824,10 @@
     "latitude": 8.5,
     "longitude": 4.53,
     "gdgUrl": "https://gdg.community.dev/gdg-ilorin/",
-    "devfestName": "DevFest Ilorin 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Ilorin 2025",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-15T17:24:25.385Z"
   },
   {
     "slug": "incheon",
