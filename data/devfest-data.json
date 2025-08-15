@@ -3076,7 +3076,7 @@
   },
   {
     "slug": "dar-es-salaam",
-    "destinationUrl": "https://gdg.community.dev/gdg-dar-es-salaam/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-dar-es-salaam-presents-devfest-dar-es-salaam-2025-building-future-ready-solutions/",
     "gdgChapter": "GDG Dar es Salaam",
     "city": "Dar es Salaam",
     "countryName": "Tanzania",
@@ -3084,10 +3084,10 @@
     "latitude": -6.82,
     "longitude": 39.28,
     "gdgUrl": "https://gdg.community.dev/gdg-dar-es-salaam/",
-    "devfestName": "DevFest Dar es Salaam 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Dar Es Salaam 2025: Building Future-Ready Solutions",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-08-15T07:45:18.633Z"
   },
   {
     "slug": "darwin",
