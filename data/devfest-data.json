@@ -5746,7 +5746,7 @@
   },
   {
     "slug": "krakow",
-    "destinationUrl": "https://gdg.community.dev/gdg-krakow/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-krakow-presents-devfest-krakow-2025/",
     "gdgChapter": "GDG Kraków",
     "city": "Krakow",
     "countryName": "Poland",
@@ -5754,10 +5754,10 @@
     "latitude": 50.06,
     "longitude": 19.96,
     "gdgUrl": "https://gdg.community.dev/gdg-krakow/",
-    "devfestName": "DevFest Krakow 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Kraków 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-08-15T07:48:08.687Z"
   },
   {
     "slug": "krapina",
