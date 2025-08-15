@@ -1021,7 +1021,7 @@
   },
   {
     "slug": "bamenda",
-    "destinationUrl": "https://gdg.community.dev/gdg-bamenda/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bamenda-presents-devfest-bamenda-2025/",
     "gdgChapter": "GDG Bamenda",
     "city": "Bamenda",
     "countryName": "Cameroon",
@@ -1030,9 +1030,9 @@
     "longitude": 10.15,
     "gdgUrl": "https://gdg.community.dev/gdg-bamenda/",
     "devfestName": "DevFest Bamenda 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-28",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-15T20:48:32.201Z"
   },
   {
     "slug": "bandung",
