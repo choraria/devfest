@@ -6226,7 +6226,7 @@
   },
   {
     "slug": "linz",
-    "destinationUrl": "https://gdg.community.dev/gdg-linz/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-linz-presents-devfest-linz-great-ai-hackathon/",
     "gdgChapter": "GDG Linz",
     "city": "Linz",
     "countryName": "Austria",
@@ -6234,10 +6234,10 @@
     "latitude": 48.30694,
     "longitude": 14.28583,
     "gdgUrl": "https://gdg.community.dev/gdg-linz/",
-    "devfestName": "DevFest Linz 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Linz: Great AI Hackathon",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-08-15T20:52:17.440Z"
   },
   {
     "slug": "lisbon",
