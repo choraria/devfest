@@ -226,7 +226,7 @@
   },
   {
     "slug": "ado-ekiti",
-    "destinationUrl": "https://gdg.community.dev/gdg-ado-ekiti/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ado-ekiti-presents-devfest-ado-ekiti-2025-1/",
     "gdgChapter": "GDG Ado-Ekiti",
     "city": "Ado",
     "countryName": "Nigeria",
@@ -234,10 +234,10 @@
     "latitude": 7.67,
     "longitude": 5.27,
     "gdgUrl": "https://gdg.community.dev/gdg-ado-ekiti/",
-    "devfestName": "DevFest Ado 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Ado-Ekiti 2025",
+    "devfestDate": "2025-11-14",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-08-16T08:36:56.604Z"
   },
   {
     "slug": "afyon",
