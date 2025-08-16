@@ -31,7 +31,7 @@
   },
   {
     "slug": "aba",
-    "destinationUrl": "https://gdg.community.dev/gdg-aba/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-aba-presents-devfest-aba-2025/",
     "gdgChapter": "GDG Aba",
     "city": "Aba",
     "countryName": "Nigeria",
@@ -40,9 +40,9 @@
     "longitude": 7.35,
     "gdgUrl": "https://gdg.community.dev/gdg-aba/",
     "devfestName": "DevFest Aba 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-08-16T20:43:25.478Z"
   },
   {
     "slug": "abakaliki",
