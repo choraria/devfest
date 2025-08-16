@@ -1246,7 +1246,7 @@
   },
   {
     "slug": "bauchi",
-    "destinationUrl": "https://gdg.community.dev/gdg-bauchi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bauchi-presents-devfest-bauchi-2025-innovate-with-integrity-ai-for-a-better-tomorrow/",
     "gdgChapter": "GDG Bauchi",
     "city": "Bauchi",
     "countryName": "Nigeria",
@@ -1254,10 +1254,10 @@
     "latitude": 10.31,
     "longitude": 9.84,
     "gdgUrl": "https://gdg.community.dev/gdg-bauchi/",
-    "devfestName": "DevFest Bauchi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Bauchi 2025: Innovate with Integrity, AI for a Better Tomorrow",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-16T20:46:37.577Z"
   },
   {
     "slug": "beijing",
