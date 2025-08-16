@@ -5146,7 +5146,7 @@
   },
   {
     "slug": "jinja",
-    "destinationUrl": "https://gdg.community.dev/gdg-jinja/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-jinja-presents-devfest-jinja-2025/cohost-gdg-jinja",
     "gdgChapter": "GDG Jinja",
     "city": "Jinja",
     "countryName": "Uganda",
@@ -5155,9 +5155,9 @@
     "longitude": 33.2,
     "gdgUrl": "https://gdg.community.dev/gdg-jinja/",
     "devfestName": "DevFest Jinja 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-16T09:48:18.441Z"
   },
   {
     "slug": "joao-pessoa",
