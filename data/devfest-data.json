@@ -2686,7 +2686,7 @@
   },
   {
     "slug": "coast-lebanon",
-    "destinationUrl": "https://gdg.community.dev/gdg-coast-lebanon/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-coast-lebanon-presents-devfest-beirut-2025/",
     "gdgChapter": "GDG Coast Lebanon",
     "city": "Beirut",
     "countryName": "Lebanon",
@@ -2695,9 +2695,9 @@
     "longitude": 35.5,
     "gdgUrl": "https://gdg.community.dev/gdg-coast-lebanon/",
     "devfestName": "DevFest Beirut 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "devfestDate": "2025-10-25",
+    "updatedBy": "sudo-riham",
+    "updatedAt": "2025-08-17T07:56:22.492Z"
   },
   {
     "slug": "cochabamba",
