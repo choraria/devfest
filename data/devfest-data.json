@@ -11161,7 +11161,7 @@
   },
   {
     "slug": "vancouver",
-    "destinationUrl": "https://gdg.community.dev/gdg-vancouver/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-vancouver-presents-devfest-vancouver-2025/cohost-gdg-vancouver",
     "gdgChapter": "GDG Vancouver",
     "city": "Vancouver",
     "countryName": "Canada",
@@ -11170,9 +11170,9 @@
     "longitude": -123.1207375,
     "gdgUrl": "https://gdg.community.dev/gdg-vancouver/",
     "devfestName": "DevFest Vancouver 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-20",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-08-17T13:00:41.067Z"
   },
   {
     "slug": "varna",
