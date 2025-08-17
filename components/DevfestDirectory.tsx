@@ -134,11 +134,14 @@ export default function DevfestDirectory({ redirects, initialFilter = "" }: Devf
     
     const baseUrl = typeof window !== 'undefined' ? 
       window.location.origin : 
-      (process.env.NEXT_PUBLIC_SITE_URL || 'devfe.st');
+      (process.env.NEXT_PUBLIC_SITE_URL || 'https://devfe.st');
     const url = `${baseUrl}/${slug}`;
     
+    // Remove "https://" from the URL for copying
+    const urlToCopy = url.replace(/^https?:\/\//, '');
+    
     try {
-      await navigator.clipboard.writeText(url);
+      await navigator.clipboard.writeText(urlToCopy);
       setCopyingSlug(slug);
       // Remove toast notification
       setTimeout(() => setCopyingSlug(null), 1000);
