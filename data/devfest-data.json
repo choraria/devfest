@@ -4141,7 +4141,7 @@
   },
   {
     "slug": "gombe",
-    "destinationUrl": "https://gdg.community.dev/gdg-gombe/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-gombe-presents-devfest-gombe-2025/",
     "gdgChapter": "GDG Gombe",
     "city": "Gombe",
     "countryName": "Nigeria",
@@ -4150,9 +4150,9 @@
     "longitude": 11.17,
     "gdgUrl": "https://gdg.community.dev/gdg-gombe/",
     "devfestName": "DevFest Gombe 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-17T18:24:40.170Z"
   },
   {
     "slug": "gradiska",
