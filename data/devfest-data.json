@@ -76,7 +76,7 @@
   },
   {
     "slug": "abeokuta",
-    "destinationUrl": "https://gdg.community.dev/gdg-abeokuta/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-abeokuta-presents-devfest-abeokuta-2025-building-the-future-with-ai-and-cloud/cohost-gdg-abeokuta",
     "gdgChapter": "GDG Abeokuta",
     "city": "Abeokuta",
     "countryName": "Nigeria",
@@ -84,10 +84,10 @@
     "latitude": 7.147502,
     "longitude": 3.3619356,
     "gdgUrl": "https://gdg.community.dev/gdg-abeokuta/",
-    "devfestName": "DevFest Abeokuta 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Abeokuta 2025: Building the Future with AI and Cloud!",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-08-17T12:51:39.232Z"
   },
   {
     "slug": "abomey-calavi",
