@@ -134,7 +134,7 @@ export default function DevfestDirectory({ redirects, initialFilter = "" }: Devf
     
     const baseUrl = typeof window !== 'undefined' ? 
       window.location.origin : 
-      (process.env.NEXT_PUBLIC_SITE_URL || 'https://devfe.st');
+      (process.env.NEXT_PUBLIC_SITE_URL || 'devfe.st');
     const url = `${baseUrl}/${slug}`;
     
     try {
