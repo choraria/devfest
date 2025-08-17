@@ -3661,7 +3661,7 @@
   },
   {
     "slug": "faro",
-    "destinationUrl": "https://gdg.community.dev/gdg-faro/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-faro-presents-devfest-2025-by-gdg-faro/",
     "gdgChapter": "GDG Faro",
     "city": "Faro",
     "countryName": "Portugal",
@@ -3669,10 +3669,10 @@
     "latitude": 37.03,
     "longitude": -7.94,
     "gdgUrl": "https://gdg.community.dev/gdg-faro/",
-    "devfestName": "DevFest Faro 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 by GDG Faro",
+    "devfestDate": "2025-11-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-08-17T12:34:24.328Z"
   },
   {
     "slug": "finistere",
