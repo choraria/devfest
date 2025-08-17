@@ -301,7 +301,7 @@
   },
   {
     "slug": "ajah",
-    "destinationUrl": "https://gdg.community.dev/gdg-ajah/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ajah-presents-devfest-ajah-2025/",
     "gdgChapter": "GDG Ajah",
     "city": "Lagos",
     "countryName": "Nigeria",
@@ -309,10 +309,10 @@
     "latitude": 6.45,
     "longitude": 3.47,
     "gdgUrl": "https://gdg.community.dev/gdg-ajah/",
-    "devfestName": "DevFest Lagos 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Ajah 2025",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-08-17T12:57:41.264Z"
   },
   {
     "slug": "ajax",
