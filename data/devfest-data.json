@@ -3871,7 +3871,7 @@
   },
   {
     "slug": "gaborone",
-    "destinationUrl": "https://gdg.community.dev/gdg-gaborone/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-gaborone-presents-devfest-gaborone-2025/",
     "gdgChapter": "GDG Gaborone",
     "city": "Gaborone",
     "countryName": "Botswana",
@@ -3879,10 +3879,10 @@
     "latitude": -24.65,
     "longitude": 25.91,
     "gdgUrl": "https://gdg.community.dev/gdg-gaborone/",
-    "devfestName": "DevFest Gaborone 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Gaborone 2025",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-18T20:44:07.160Z"
   },
   {
     "slug": "galway",
