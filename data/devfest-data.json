@@ -631,7 +631,7 @@
   },
   {
     "slug": "antsirabe",
-    "destinationUrl": "https://gdg.community.dev/gdg-antsirabe/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-antsirabe-presents-devfest-antsirabe-2025/",
     "gdgChapter": "GDG Antsirabe",
     "city": "Antsirabe",
     "countryName": "Madagascar",
@@ -640,9 +640,9 @@
     "longitude": 47.0291162,
     "gdgUrl": "https://gdg.community.dev/gdg-antsirabe/",
     "devfestName": "DevFest Antsirabe 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-08-19T12:46:03.135Z"
   },
   {
     "slug": "aqaba",
