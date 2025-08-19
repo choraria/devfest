@@ -7201,7 +7201,7 @@
   },
   {
     "slug": "minna",
-    "destinationUrl": "https://gdg.community.dev/gdg-minna/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-minna-presents-devfest-minna-2025/cohost-gdg-minna",
     "gdgChapter": "GDG Minna",
     "city": "Minna",
     "countryName": "Nigeria",
@@ -7210,9 +7210,9 @@
     "longitude": 6.55,
     "gdgUrl": "https://gdg.community.dev/gdg-minna/",
     "devfestName": "DevFest Minna 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-08-19T05:29:14.855Z"
   },
   {
     "slug": "minneapolis",
