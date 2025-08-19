@@ -11566,7 +11566,7 @@
   },
   {
     "slug": "xiamen",
-    "destinationUrl": "https://gdg.community.dev/gdg-xiamen/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-xiamen-presents-devfest-2025-gdg-xiamen/",
     "gdgChapter": "GDG Xiamen",
     "city": "Xiamen",
     "countryName": "China",
@@ -11574,10 +11574,10 @@
     "latitude": 24.45,
     "longitude": 118.08,
     "gdgUrl": "https://gdg.community.dev/gdg-xiamen/",
-    "devfestName": "DevFest Xiamen 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 2025 GDG Xiamen",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-08-19T05:26:24.115Z"
   },
   {
     "slug": "xian",
