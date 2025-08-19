@@ -11086,7 +11086,7 @@
   },
   {
     "slug": "uyo",
-    "destinationUrl": "https://gdg.community.dev/gdg-uyo/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-uyo-presents-devfest-uyo-2025/",
     "gdgChapter": "GDG Uyo",
     "city": "Uyo",
     "countryName": "Nigeria",
@@ -11095,9 +11095,9 @@
     "longitude": 7.85,
     "gdgUrl": "https://gdg.community.dev/gdg-uyo/",
     "devfestName": "DevFest Uyo 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-08-19T12:42:14.055Z"
   },
   {
     "slug": "valencia",
