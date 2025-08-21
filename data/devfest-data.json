@@ -1636,7 +1636,7 @@
   },
   {
     "slug": "boston",
-    "destinationUrl": "https://gdg.community.dev/gdg-boston-android/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cloud-boston-presents-devfest-boston-2025/cohost-gdg-boston-android",
     "gdgChapter": "GDG Boston Android",
     "city": "Boston",
     "countryName": "United States",
@@ -1645,9 +1645,9 @@
     "longitude": -71.07,
     "gdgUrl": "https://gdg.community.dev/gdg-boston-android/",
     "devfestName": "DevFest Boston 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-04",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-21T13:16:59.118Z"
   },
   {
     "slug": "bradford",
