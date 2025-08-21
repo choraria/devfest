@@ -8911,7 +8911,7 @@
   },
   {
     "slug": "pwani",
-    "destinationUrl": "https://gdg.community.dev/gdg-pwani/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pwani-presents-devfest-pwani-2025/",
     "gdgChapter": "GDG Pwani",
     "city": "Mombasa",
     "countryName": "Kenya",
@@ -8919,10 +8919,10 @@
     "latitude": -4.0434771,
     "longitude": 39.6682065,
     "gdgUrl": "https://gdg.community.dev/gdg-pwani/",
-    "devfestName": "DevFest Mombasa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Pwani 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-08-21T10:30:11.571Z"
   },
   {
     "slug": "qarshi",
