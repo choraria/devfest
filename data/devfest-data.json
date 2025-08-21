@@ -1396,7 +1396,7 @@
   },
   {
     "slug": "berlin",
-    "destinationUrl": "https://gdg.community.dev/gdg-berlin/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-berlin-presents-devfest-berlin-2025/cohost-gdg-berlin",
     "gdgChapter": "GDG Berlin",
     "city": "Berlin",
     "countryName": "Germany",
@@ -1405,9 +1405,9 @@
     "longitude": 13.38,
     "gdgUrl": "https://gdg.community.dev/gdg-berlin/",
     "devfestName": "DevFest Berlin 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-21T06:09:04.781Z"
   },
   {
     "slug": "bethesda",
