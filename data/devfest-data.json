@@ -3601,7 +3601,7 @@
   },
   {
     "slug": "enugu",
-    "destinationUrl": "https://gdg.community.dev/gdg-enugu/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-enugu-presents-devfest-enugu-2025/",
     "gdgChapter": "GDG Enugu",
     "city": "Enugu",
     "countryName": "Nigeria",
@@ -3610,9 +3610,9 @@
     "longitude": 7.5,
     "gdgUrl": "https://gdg.community.dev/gdg-enugu/",
     "devfestName": "DevFest Enugu 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-05",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-08-21T10:24:28.761Z"
   },
   {
     "slug": "erlangen",
