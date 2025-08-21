@@ -6361,7 +6361,7 @@
   },
   {
     "slug": "london",
-    "destinationUrl": "https://gdg.community.dev/gdg-london/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-london-presents-devfest-london-2025-1/cohost-gdg-london",
     "gdgChapter": "GDG London",
     "city": "London",
     "countryName": "United Kingdom",
@@ -6370,9 +6370,9 @@
     "longitude": -0.09,
     "gdgUrl": "https://gdg.community.dev/gdg-london/",
     "devfestName": "DevFest London 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-08-21T13:19:17.242Z"
   },
   {
     "slug": "londres",
