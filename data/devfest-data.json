@@ -9001,7 +9001,7 @@
   },
   {
     "slug": "raipur",
-    "destinationUrl": "https://gdg.community.dev/gdg-raipur/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-raipur-presents-devfest-raipur-2025-1/",
     "gdgChapter": "GDG Raipur",
     "city": "Raipur",
     "countryName": "India",
@@ -9010,9 +9010,9 @@
     "longitude": 81.6296413,
     "gdgUrl": "https://gdg.community.dev/gdg-raipur/",
     "devfestName": "DevFest Raipur 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-08-21T13:21:34.121Z"
   },
   {
     "slug": "rajkot",
