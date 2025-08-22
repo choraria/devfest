@@ -4726,7 +4726,7 @@
   },
   {
     "slug": "ibadan",
-    "destinationUrl": "https://gdg.community.dev/gdg-ibadan/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ibadan-presents-devfest-ibadan-2025-1/",
     "gdgChapter": "GDG Ibadan",
     "city": "Ibadan",
     "countryName": "Nigeria",
@@ -4735,9 +4735,9 @@
     "longitude": 3.93,
     "gdgUrl": "https://gdg.community.dev/gdg-ibadan/",
     "devfestName": "DevFest Ibadan 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-22T05:40:53.889Z"
   },
   {
     "slug": "ibanda",
