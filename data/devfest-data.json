@@ -8986,7 +8986,7 @@
   },
   {
     "slug": "quito",
-    "destinationUrl": "https://gdg.community.dev/gdg-quito/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-quito-presents-devfest-ecuador-2025/cohost-gdg-quito",
     "gdgChapter": "GDG Quito",
     "city": "Quito",
     "countryName": "Ecuador",
@@ -8994,10 +8994,10 @@
     "latitude": -0.1806532,
     "longitude": -78.4678382,
     "gdgUrl": "https://gdg.community.dev/gdg-quito/",
-    "devfestName": "DevFest Quito 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Ecuador 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-08-23T08:15:09.979Z"
   },
   {
     "slug": "raipur",
