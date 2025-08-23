@@ -7561,7 +7561,7 @@
   },
   {
     "slug": "nairobi",
-    "destinationUrl": "https://gdg.community.dev/gdg-nairobi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-nairobi-presents-devfest-nairobi-day-one-hands-on-workshops-amp-codelabs/",
     "gdgChapter": "GDG Nairobi",
     "city": "Nairobi",
     "countryName": "Kenya",
@@ -7569,10 +7569,10 @@
     "latitude": -1.29,
     "longitude": 36.82,
     "gdgUrl": "https://gdg.community.dev/gdg-nairobi/",
-    "devfestName": "DevFest Nairobi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Nairobi Day One: Hands-On Workshops & Codelabs",
+    "devfestDate": "2025-10-31",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-08-23T08:18:18.663Z"
   },
   {
     "slug": "nanjing",
