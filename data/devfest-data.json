@@ -5206,7 +5206,7 @@
   },
   {
     "slug": "johannesburg",
-    "destinationUrl": "https://gdg.community.dev/gdg-johannesburg/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-johannesburg-presents-devfest-johannesburg-2025/",
     "gdgChapter": "GDG Johannesburg",
     "city": "Johannesburg",
     "countryName": "South Africa",
@@ -5215,9 +5215,9 @@
     "longitude": 28.04,
     "gdgUrl": "https://gdg.community.dev/gdg-johannesburg/",
     "devfestName": "DevFest Johannesburg 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-23T11:54:59.131Z"
   },
   {
     "slug": "joinville",
