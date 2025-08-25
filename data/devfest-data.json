@@ -2371,7 +2371,7 @@
   },
   {
     "slug": "central-florida",
-    "destinationUrl": "https://gdg.community.dev/gdg-central-florida/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-central-florida-presents-devfest-gemjam/",
     "gdgChapter": "GDG Central Florida",
     "city": "Orlando",
     "countryName": "United States",
@@ -2379,10 +2379,10 @@
     "latitude": 28.54,
     "longitude": -81.37,
     "gdgUrl": "https://gdg.community.dev/gdg-central-florida/",
-    "devfestName": "DevFest Orlando 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest GemJam",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-25T15:56:00.315Z"
   },
   {
     "slug": "chandigarh",
