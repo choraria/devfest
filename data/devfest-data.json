@@ -4471,7 +4471,7 @@
   },
   {
     "slug": "harare",
-    "destinationUrl": "https://gdg.community.dev/gdg-harare/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-harare-presents-devfest-2025-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Harare",
     "city": "Harare",
     "countryName": "Zimbabwe",
@@ -4479,10 +4479,10 @@
     "latitude": -17.82,
     "longitude": 31.05,
     "gdgUrl": "https://gdg.community.dev/gdg-harare/",
-    "devfestName": "DevFest Harare 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025: Building Safe, Secure and Scalable Solutions with AI and Cloud.",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-25T15:57:31.536Z"
   },
   {
     "slug": "hefei",
