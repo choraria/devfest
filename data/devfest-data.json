@@ -1096,7 +1096,7 @@
   },
   {
     "slug": "banjul",
-    "destinationUrl": "https://gdg.community.dev/gdg-banjul/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-banjul-presents-devfest-banjul-2025-safe-secure-and-scalable-innovations/",
     "gdgChapter": "GDG Banjul",
     "city": "Banjul",
     "countryName": "Gambia",
@@ -1104,10 +1104,10 @@
     "latitude": 13.46,
     "longitude": -16.6,
     "gdgUrl": "https://gdg.community.dev/gdg-banjul/",
-    "devfestName": "DevFest Banjul 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Banjul 2025: Safe, Secure, and Scalable Innovations!",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-25T19:51:10.724Z"
   },
   {
     "slug": "barcelona",
