@@ -4291,7 +4291,7 @@
   },
   {
     "slug": "gurugram",
-    "destinationUrl": "https://gdg.community.dev/gdg-gurugram/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-gurugram-presents-devfest-gurugram-2025-build-connect-and-grow/",
     "gdgChapter": "GDG Gurugram",
     "city": "Gurugram",
     "countryName": "India",
@@ -4299,10 +4299,10 @@
     "latitude": 28.4594965,
     "longitude": 77.0266383,
     "gdgUrl": "https://gdg.community.dev/gdg-gurugram/",
-    "devfestName": "DevFest Gurugram 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Gurugram 2025: Build, Connect, and Grow",
+    "devfestDate": "2025-09-27",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-08-26T12:58:05.905Z"
   },
   {
     "slug": "guwahati",
