@@ -1141,7 +1141,7 @@
   },
   {
     "slug": "baroda",
-    "destinationUrl": "https://gdg.community.dev/gdg-baroda/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-baroda-presents-gdg-baroda-devfest-2025/",
     "gdgChapter": "GDG Baroda",
     "city": "Vadodara",
     "countryName": "India",
@@ -1149,10 +1149,10 @@
     "latitude": 22.31,
     "longitude": 73.18,
     "gdgUrl": "https://gdg.community.dev/gdg-baroda/",
-    "devfestName": "DevFest Vadodara 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Baroda : DevFest 2025",
+    "devfestDate": "2025-10-04",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-08-26T13:00:26.136Z"
   },
   {
     "slug": "barranquilla",
