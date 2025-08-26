@@ -8791,7 +8791,7 @@
   },
   {
     "slug": "pretoria",
-    "destinationUrl": "https://gdg.community.dev/gdg-pretoria/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pretoria-presents-devfest-pretoria-2025-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Pretoria",
     "city": "Pretoria",
     "countryName": "South Africa",
@@ -8799,10 +8799,10 @@
     "latitude": -25.73,
     "longitude": 28.22,
     "gdgUrl": "https://gdg.community.dev/gdg-pretoria/",
-    "devfestName": "DevFest Pretoria 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Pretoria 2025 : Building Safe, Secure and Scalable Solutions with AI and Cloud.",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-08-26T13:20:55.040Z"
   },
   {
     "slug": "pristina",
