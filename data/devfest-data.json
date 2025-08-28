@@ -7906,7 +7906,7 @@
   },
   {
     "slug": "nyc",
-    "destinationUrl": "https://gdg.community.dev/gdg-nyc/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-nyc-presents-devfest-new-york-city-2025/",
     "gdgChapter": "GDG NYC",
     "city": "New York",
     "countryName": "United States",
@@ -7914,10 +7914,10 @@
     "latitude": 40.75,
     "longitude": -73.99,
     "gdgUrl": "https://gdg.community.dev/gdg-nyc/",
-    "devfestName": "DevFest New York 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest New York City 2025",
+    "devfestDate": "2025-10-03",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-08-28T05:37:09.153Z"
   },
   {
     "slug": "nyeri",
