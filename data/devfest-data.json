@@ -481,7 +481,7 @@
   },
   {
     "slug": "almaty",
-    "destinationUrl": "https://gdg.community.dev/gdg-almaty/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-almaty-presents-google-devfest-almaty-2025/",
     "gdgChapter": "GDG Almaty",
     "city": "Almaty",
     "countryName": "Kazakhstan",
@@ -489,10 +489,10 @@
     "latitude": 43.32,
     "longitude": 76.92,
     "gdgUrl": "https://gdg.community.dev/gdg-almaty/",
-    "devfestName": "DevFest Almaty 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google DevFest Almaty 2025",
+    "devfestDate": "2025-11-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-08-28T20:37:11.587Z"
   },
   {
     "slug": "americana",
