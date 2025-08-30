@@ -7816,7 +7816,7 @@
   },
   {
     "slug": "noida",
-    "destinationUrl": "https://gdg.community.dev/gdg-noida/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-noida-presents-devfest-noida-2025/",
     "gdgChapter": "GDG Noida",
     "city": "Noida",
     "countryName": "India",
@@ -7825,9 +7825,9 @@
     "longitude": 77.3910265,
     "gdgUrl": "https://gdg.community.dev/gdg-noida/",
     "devfestName": "DevFest Noida 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-08-30T05:19:58.886Z"
   },
   {
     "slug": "north-lebanon",
