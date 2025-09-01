@@ -9691,7 +9691,7 @@
   },
   {
     "slug": "saskatoon",
-    "destinationUrl": "https://gdg.community.dev/gdg-saskatoon/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-saskatoon-presents-devfest-saskatoon-2025-code-connect-create/",
     "gdgChapter": "GDG Saskatoon",
     "city": "Saskatoon",
     "countryName": "Canada",
@@ -9699,10 +9699,10 @@
     "latitude": 52.157902,
     "longitude": -106.6701577,
     "gdgUrl": "https://gdg.community.dev/gdg-saskatoon/",
-    "devfestName": "DevFest Saskatoon 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Saskatoon 2025: Code. Connect. Create.",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-01T05:17:50.848Z"
   },
   {
     "slug": "savannah",
