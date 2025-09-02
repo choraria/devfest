@@ -7621,7 +7621,7 @@
   },
   {
     "slug": "nanyang",
-    "destinationUrl": "https://gdg.community.dev/gdg-nanyang/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-nanyang-presents-2025-gdg-devfest-zhong-guo-nan-yang-kai-fa-zhe-da-hui/",
     "gdgChapter": "GDG Nanyang",
     "city": "Nanyang",
     "countryName": "China",
@@ -7629,10 +7629,10 @@
     "latitude": 33,
     "longitude": 112.53,
     "gdgUrl": "https://gdg.community.dev/gdg-nanyang/",
-    "devfestName": "DevFest Nanyang 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "2025 GDG Devfest 中国（南阳）开发者大会",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-09-02T15:51:59.391Z"
   },
   {
     "slug": "napoli",
