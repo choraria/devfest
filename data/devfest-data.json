@@ -6481,7 +6481,7 @@
   },
   {
     "slug": "ludhiana",
-    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ludhiana-presents-devfest-ludhiana-2025/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ludhiana-presents-devfest-ludhiana-2025-train-the-trainer-edition/",
     "gdgChapter": "GDG Ludhiana",
     "city": "Ludhiana",
     "countryName": "India",
@@ -6489,10 +6489,10 @@
     "latitude": 30.900965,
     "longitude": 75.8572758,
     "gdgUrl": "https://gdg.community.dev/gdg-ludhiana/",
-    "devfestName": "DevFest Ludhiana 2025",
-    "devfestDate": "2025-09-07",
+    "devfestName": "DevFest Ludhiana 2025 - Train The Trainer Edition",
+    "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
-    "updatedAt": "2025-08-01T23:42:30.525Z"
+    "updatedAt": "2025-09-04T05:24:12.823Z"
   },
   {
     "slug": "lusaka",
