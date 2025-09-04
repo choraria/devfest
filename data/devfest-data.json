@@ -5596,7 +5596,7 @@
   },
   {
     "slug": "kisii",
-    "destinationUrl": "https://gdg.community.dev/gdg-kisii/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kisii-presents-devfest-kisii-2025/",
     "gdgChapter": "GDG Kisii",
     "city": "Kisii",
     "countryName": "Kenya",
@@ -5605,9 +5605,9 @@
     "longitude": 34.76,
     "gdgUrl": "https://gdg.community.dev/gdg-kisii/",
     "devfestName": "DevFest Kisii 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-09-04T15:35:42.596Z"
   },
   {
     "slug": "kisumu",
