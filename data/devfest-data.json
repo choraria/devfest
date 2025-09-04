@@ -6331,7 +6331,7 @@
   },
   {
     "slug": "lokoja",
-    "destinationUrl": "https://gdg.community.dev/gdg-lokoja/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lokoja-presents-devfest-lokoja-2025-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Lokoja",
     "city": "Lokoja",
     "countryName": "Nigeria",
@@ -6339,10 +6339,10 @@
     "latitude": 7.8023204,
     "longitude": 6.733343,
     "gdgUrl": "https://gdg.community.dev/gdg-lokoja/",
-    "devfestName": "DevFest Lokoja 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Lokoja 2025: Building Safe, Secure and Scalable Solutions with AI and Cloud.",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-09-04T12:52:04.967Z"
   },
   {
     "slug": "lome",
