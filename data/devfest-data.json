@@ -10021,7 +10021,7 @@
   },
   {
     "slug": "singapore",
-    "destinationUrl": "https://gdg.community.dev/gdg-singapore/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2025/",
     "gdgChapter": "GDG Singapore",
     "city": "Singapore",
     "countryName": "Singapore",
@@ -10030,9 +10030,9 @@
     "longitude": 103.85,
     "gdgUrl": "https://gdg.community.dev/gdg-singapore/",
     "devfestName": "DevFest Singapore 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-06T09:10:57.816Z"
   },
   {
     "slug": "sinop",
