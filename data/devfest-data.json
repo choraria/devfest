@@ -9856,7 +9856,7 @@
   },
   {
     "slug": "sharjah",
-    "destinationUrl": "https://gdg.community.dev/gdg-sharjah/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sharjah-presents-devfest-uae-2025/cohost-gdg-sharjah",
     "gdgChapter": "GDG Sharjah",
     "city": "Sharjah",
     "countryName": "United Arab Emirates",
@@ -9864,10 +9864,10 @@
     "latitude": 25.32,
     "longitude": 55.51,
     "gdgUrl": "https://gdg.community.dev/gdg-sharjah/",
-    "devfestName": "DevFest Sharjah 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest UAE 2025",
+    "devfestDate": "2025-10-04",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-06T17:07:23.548Z"
   },
   {
     "slug": "shenzhen",
