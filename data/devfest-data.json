@@ -10651,7 +10651,7 @@
   },
   {
     "slug": "tekirdag",
-    "destinationUrl": "https://gdg.community.dev/gdg-tekirdag/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-tekirdag-presents-devfest-2025-tekirdag/",
     "gdgChapter": "GDG Tekirdağ",
     "city": "Tekirdağ",
     "countryName": "Turkey",
@@ -10659,10 +10659,10 @@
     "latitude": 40.9780919,
     "longitude": 27.511674,
     "gdgUrl": "https://gdg.community.dev/gdg-tekirdag/",
-    "devfestName": "DevFest Tekirdağ 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Tekirdağ",
+    "devfestDate": "2025-12-20",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-08T10:07:58.615Z"
   },
   {
     "slug": "tel-aviv",
