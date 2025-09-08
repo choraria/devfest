@@ -9556,7 +9556,7 @@
   },
   {
     "slug": "santiago-de-compostela",
-    "destinationUrl": "https://gdg.community.dev/gdg-santiago-de-compostela/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-santiago-de-compostela-presents-devfest-santiago-de-compostela-2025/",
     "gdgChapter": "GDG Santiago de Compostela",
     "city": "Santiago de Compostela",
     "countryName": "Spain",
@@ -9565,9 +9565,9 @@
     "longitude": -8.54,
     "gdgUrl": "https://gdg.community.dev/gdg-santiago-de-compostela/",
     "devfestName": "DevFest Santiago de Compostela 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-08T09:34:22.746Z"
   },
   {
     "slug": "santo-domingo",
