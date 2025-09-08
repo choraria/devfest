@@ -9796,7 +9796,7 @@
   },
   {
     "slug": "setif",
-    "destinationUrl": "https://gdg.community.dev/gdg-setif/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-setif-presents-devfest-2025/",
     "gdgChapter": "GDG Setif",
     "city": "Setif",
     "countryName": "Algeria",
@@ -9804,10 +9804,10 @@
     "latitude": 36.19,
     "longitude": 5.41,
     "gdgUrl": "https://gdg.community.dev/gdg-setif/",
-    "devfestName": "DevFest Setif 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 2025",
+    "devfestDate": "2025-10-04",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-08T10:06:45.433Z"
   },
   {
     "slug": "sevilla",
