@@ -9871,7 +9871,7 @@
   },
   {
     "slug": "shenzhen",
-    "destinationUrl": "https://gdg.community.dev/gdg-shenzhen/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-shenzhen-presents-shenzhen-gdg-devfest-2025-building-with-google-ai-and-cloud/",
     "gdgChapter": "GDG Shenzhen",
     "city": "Shenzhen",
     "countryName": "China",
@@ -9879,10 +9879,10 @@
     "latitude": 22.53,
     "longitude": 114.13,
     "gdgUrl": "https://gdg.community.dev/gdg-shenzhen/",
-    "devfestName": "DevFest Shenzhen 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Shenzhen GDG DevFest 2025: Building with Google AI and Cloud",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-08T21:22:18.402Z"
   },
   {
     "slug": "shijiazhuang",
