@@ -4621,7 +4621,7 @@
   },
   {
     "slug": "hong-kong",
-    "destinationUrl": "https://gdg.community.dev/gdg-hong-kong/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-hong-kong-presents-devfest-2025-hong-kong/cohost-gdg-hong-kong",
     "gdgChapter": "GDG Hong Kong",
     "city": "Hong Kong",
     "countryName": "Hong Kong",
@@ -4629,10 +4629,10 @@
     "latitude": 22.27,
     "longitude": 114.14,
     "gdgUrl": "https://gdg.community.dev/gdg-hong-kong/",
-    "devfestName": "DevFest Hong Kong 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Hong Kong",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-09-09T09:08:09.022Z"
   },
   {
     "slug": "houston",
