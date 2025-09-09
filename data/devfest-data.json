@@ -10501,7 +10501,7 @@
   },
   {
     "slug": "taldykorgan",
-    "destinationUrl": "https://gdg.community.dev/gdg-taldykorgan/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-taldykorgan-presents-devfest-taldykorgan-2025/",
     "gdgChapter": "GDG Taldykorgan",
     "city": "Taldykorgan",
     "countryName": "Kazakhstan",
@@ -10510,9 +10510,9 @@
     "longitude": 78.3804417,
     "gdgUrl": "https://gdg.community.dev/gdg-taldykorgan/",
     "devfestName": "DevFest Taldykorgan 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-05",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-09T12:57:47.914Z"
   },
   {
     "slug": "tamale",
