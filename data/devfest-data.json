@@ -10111,7 +10111,7 @@
   },
   {
     "slug": "sophia-antipolis",
-    "destinationUrl": "https://gdg.community.dev/gdg-sophia-antipolis/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sophia-antipolis-presents-devfest-2025/",
     "gdgChapter": "GDG Sophia-Antipolis",
     "city": "Valbonne",
     "countryName": "France",
@@ -10119,10 +10119,10 @@
     "latitude": 43.64152,
     "longitude": 7.009186,
     "gdgUrl": "https://gdg.community.dev/gdg-sophia-antipolis/",
-    "devfestName": "DevFest Valbonne 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025",
+    "devfestDate": "2025-12-09",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-10T08:43:42.331Z"
   },
   {
     "slug": "sorocaba",
