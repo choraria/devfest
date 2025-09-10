@@ -691,7 +691,7 @@
   },
   {
     "slug": "arapiraca",
-    "destinationUrl": "https://gdg.community.dev/gdg-arapiraca/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-arapiraca-presents-devfest25-build-a-new-era-of-innovation/",
     "gdgChapter": "GDG Arapiraca",
     "city": "Arapiraca",
     "countryName": "Brazil",
@@ -699,10 +699,10 @@
     "latitude": -9.7555596,
     "longitude": -36.6639697,
     "gdgUrl": "https://gdg.community.dev/gdg-arapiraca/",
-    "devfestName": "DevFest Arapiraca 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest'25: Build a New Era of Innovation",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-09-10T08:44:59.836Z"
   },
   {
     "slug": "arequipa",
