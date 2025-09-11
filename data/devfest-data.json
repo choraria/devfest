@@ -11236,7 +11236,7 @@
   },
   {
     "slug": "vienna",
-    "destinationUrl": "https://gdg.community.dev/gdg-vienna/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-vienna-presents-devfest-vienna-2025-cfps-are-now-open/",
     "gdgChapter": "GDG Vienna",
     "city": "Vienna",
     "countryName": "Austria",
@@ -11245,9 +11245,9 @@
     "longitude": 16.37,
     "gdgUrl": "https://gdg.community.dev/gdg-vienna/",
     "devfestName": "DevFest Vienna 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-09-11T17:29:45.807Z"
   },
   {
     "slug": "vientiane",
