@@ -3151,7 +3151,7 @@
   },
   {
     "slug": "delhi",
-    "destinationUrl": "https://gdg.community.dev/gdg-new-delhi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-new-delhi-presents-devfest-new-delhi-2025/",
     "gdgChapter": "GDG New Delhi",
     "city": "Delhi",
     "countryName": "India",
@@ -3159,10 +3159,10 @@
     "latitude": 28.67,
     "longitude": 77.21,
     "gdgUrl": "https://gdg.community.dev/gdg-new-delhi/",
-    "devfestName": "DevFest Delhi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest New Delhi 2025",
+    "devfestDate": "2025-10-12",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-09-11T06:40:16.513Z"
   },
   {
     "slug": "denizli",
