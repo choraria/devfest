@@ -9061,7 +9061,7 @@
   },
   {
     "slug": "ranchi",
-    "destinationUrl": "https://gdg.community.dev/gdg-ranchi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ranchi-presents-devfest-2025-1/",
     "gdgChapter": "GDG Ranchi",
     "city": "Ranchi",
     "countryName": "India",
@@ -9069,10 +9069,10 @@
     "latitude": 23.36,
     "longitude": 85.33,
     "gdgUrl": "https://gdg.community.dev/gdg-ranchi/",
-    "devfestName": "DevFest Ranchi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025",
+    "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-09-12T09:52:19.110Z"
   },
   {
     "slug": "ratoma",
