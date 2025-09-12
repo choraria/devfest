@@ -10606,7 +10606,7 @@
   },
   {
     "slug": "tashkent",
-    "destinationUrl": "https://gdg.community.dev/gdg-tashkent/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-tashkent-presents-google-devfest-tashkent-2025-innovate-and-connect/",
     "gdgChapter": "GDG Tashkent",
     "city": "Tashkent",
     "countryName": "Uzbekistan",
@@ -10614,10 +10614,10 @@
     "latitude": 41.3,
     "longitude": 69.24,
     "gdgUrl": "https://gdg.community.dev/gdg-tashkent/",
-    "devfestName": "DevFest Tashkent 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google DevFest Tashkent 2025: Innovate and Connect",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-09-12T09:51:02.337Z"
   },
   {
     "slug": "tbilisi",
