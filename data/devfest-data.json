@@ -2506,7 +2506,7 @@
   },
   {
     "slug": "chennai",
-    "destinationUrl": "https://gdg.community.dev/gdg-chennai/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-chennai-presents-devfest-2025-chennai/cohost-gdg-chennai",
     "gdgChapter": "GDG Chennai",
     "city": "Chennai",
     "countryName": "India",
@@ -2514,10 +2514,10 @@
     "latitude": 13.09,
     "longitude": 80.27,
     "gdgUrl": "https://gdg.community.dev/gdg-chennai/",
-    "devfestName": "DevFest Chennai 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Chennai",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-09-13T21:47:10.841Z"
   },
   {
     "slug": "cherkasy",
