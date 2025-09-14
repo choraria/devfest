@@ -6496,7 +6496,7 @@
   },
   {
     "slug": "lusaka",
-    "destinationUrl": "https://gdg.community.dev/gdg-lusaka/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lusaka-presents-devfest-lusaka-2025/",
     "gdgChapter": "GDG Lusaka",
     "city": "Lusaka",
     "countryName": "Zambia",
@@ -6504,10 +6504,10 @@
     "latitude": -15.4154677,
     "longitude": 28.2773267,
     "gdgUrl": "https://gdg.community.dev/gdg-lusaka/",
-    "devfestName": "DevFest Lusaka 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Lusaka 2025",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-09-14T12:03:04.702Z"
   },
   {
     "slug": "luwero",
