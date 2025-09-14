@@ -4096,7 +4096,7 @@
   },
   {
     "slug": "goa",
-    "destinationUrl": "https://gdg.community.dev/gdg-goa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-goa-presents-devfest-goa-2025/",
     "gdgChapter": "GDG Goa",
     "city": "Panaji",
     "countryName": "India",
@@ -4104,10 +4104,10 @@
     "latitude": 15.5,
     "longitude": 73.81,
     "gdgUrl": "https://gdg.community.dev/gdg-goa/",
-    "devfestName": "DevFest Panaji 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Goa 2025",
+    "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-09-14T12:04:49.633Z"
   },
   {
     "slug": "goiania",
