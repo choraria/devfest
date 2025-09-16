@@ -8191,7 +8191,7 @@
   },
   {
     "slug": "ostrava",
-    "destinationUrl": "https://gdg.community.dev/gdg-ostrava/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-prague-presents-devfestcz-2025/cohost-gdg-ostrava",
     "gdgChapter": "GDG Ostrava",
     "city": "Ostrava",
     "countryName": "Czechia",
@@ -8199,10 +8199,10 @@
     "latitude": 49.83,
     "longitude": 18.27,
     "gdgUrl": "https://gdg.community.dev/gdg-ostrava/",
-    "devfestName": "DevFest Ostrava 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest.cz 2025",
+    "devfestDate": "2025-10-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-09-16T09:24:12.114Z"
   },
   {
     "slug": "ottawa",
