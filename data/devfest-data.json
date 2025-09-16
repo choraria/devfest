@@ -976,7 +976,7 @@
   },
   {
     "slug": "baku",
-    "destinationUrl": "https://gdg.community.dev/gdg-baku/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-baku-presents-devfest-2025-baku/",
     "gdgChapter": "GDG Baku",
     "city": "Baku",
     "countryName": "Azerbaijan",
@@ -984,10 +984,10 @@
     "latitude": 40.39,
     "longitude": 49.86,
     "gdgUrl": "https://gdg.community.dev/gdg-baku/",
-    "devfestName": "DevFest Baku 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 2025 Baku",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-09-16T09:20:57.689Z"
   },
   {
     "slug": "bali",
