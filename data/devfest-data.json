@@ -10786,7 +10786,7 @@
   },
   {
     "slug": "toledo",
-    "destinationUrl": "https://gdg.community.dev/gdg-toledo/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-toledo-presents-devfest-toledo-2025/",
     "gdgChapter": "GDG Toledo",
     "city": "Toledo",
     "countryName": "Spain",
@@ -10795,9 +10795,9 @@
     "longitude": -4.03,
     "gdgUrl": "https://gdg.community.dev/gdg-toledo/",
     "devfestName": "DevFest Toledo 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-09-17T20:03:04.519Z"
   },
   {
     "slug": "torino",
