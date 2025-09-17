@@ -4711,7 +4711,7 @@
   },
   {
     "slug": "hyderabad",
-    "destinationUrl": "https://gdg.community.dev/gdg-hyderabad/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-hyderabad-presents-devfest-2025/cohost-gdg-hyderabad",
     "gdgChapter": "GDG Hyderabad",
     "city": "Hyderabad",
     "countryName": "India",
@@ -4719,10 +4719,10 @@
     "latitude": 17.4,
     "longitude": 78.48,
     "gdgUrl": "https://gdg.community.dev/gdg-hyderabad/",
-    "devfestName": "DevFest Hyderabad 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025",
+    "devfestDate": "2025-10-12",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-09-17T20:05:15.457Z"
   },
   {
     "slug": "ibadan",
