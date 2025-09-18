@@ -8056,7 +8056,7 @@
   },
   {
     "slug": "onitsha",
-    "destinationUrl": "https://gdg.community.dev/gdg-onitsha/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-onitsha-presents-devfest-onitsha-2025/",
     "gdgChapter": "GDG Onitsha",
     "city": "Onitsha",
     "countryName": "Nigeria",
@@ -8065,9 +8065,9 @@
     "longitude": 6.78,
     "gdgUrl": "https://gdg.community.dev/gdg-onitsha/",
     "devfestName": "DevFest Onitsha 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-09-18T05:13:50.373Z"
   },
   {
     "slug": "open",
