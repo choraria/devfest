@@ -10861,7 +10861,7 @@
   },
   {
     "slug": "trabzon",
-    "destinationUrl": "https://gdg.community.dev/gdg-trabzon/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-trabzon-presents-devfest-trabzon/",
     "gdgChapter": "GDG Trabzon",
     "city": "Trabzon",
     "countryName": "Turkey",
@@ -10869,10 +10869,10 @@
     "latitude": 41,
     "longitude": 39.71,
     "gdgUrl": "https://gdg.community.dev/gdg-trabzon/",
-    "devfestName": "DevFest Trabzon 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Trabzon",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-09-19T07:45:02.623Z"
   },
   {
     "slug": "trento",
