@@ -766,7 +766,7 @@
   },
   {
     "slug": "assiut",
-    "destinationUrl": "https://gdg.community.dev/gdg-assiut/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-assiut-presents-devfest-25-assiut/",
     "gdgChapter": "GDG Assiut",
     "city": "Asyut",
     "countryName": "Egypt",
@@ -774,10 +774,10 @@
     "latitude": 27.1783117,
     "longitude": 31.1859257,
     "gdgUrl": "https://gdg.community.dev/gdg-assiut/",
-    "devfestName": "DevFest Asyut 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest '25 Assiut",
+    "devfestDate": "2025-12-10",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-09-19T07:42:53.846Z"
   },
   {
     "slug": "aswan",
