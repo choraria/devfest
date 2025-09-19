@@ -10846,7 +10846,7 @@
   },
   {
     "slug": "toulouse",
-    "destinationUrl": "https://gdg.community.dev/gdg-toulouse/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-toulouse-presents-devfest-toulouse-2025/",
     "gdgChapter": "GDG Toulouse",
     "city": "Toulouse",
     "countryName": "France",
@@ -10855,9 +10855,9 @@
     "longitude": 1.45,
     "gdgUrl": "https://gdg.community.dev/gdg-toulouse/",
     "devfestName": "DevFest Toulouse 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-09-19T07:47:56.425Z"
   },
   {
     "slug": "trabzon",
