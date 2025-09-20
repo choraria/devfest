@@ -1411,7 +1411,7 @@
   },
   {
     "slug": "bethesda",
-    "destinationUrl": "https://gdg.community.dev/gdg-bethesda/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bethesda-presents-devfest-bethesda/cohost-gdg-bethesda",
     "gdgChapter": "GDG Bethesda",
     "city": "Bethesda",
     "countryName": "United States",
@@ -1419,10 +1419,10 @@
     "latitude": 38.984652,
     "longitude": -77.0947092,
     "gdgUrl": "https://gdg.community.dev/gdg-bethesda/",
-    "devfestName": "DevFest Bethesda 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Bethesda",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-09-20T06:29:32.927Z"
   },
   {
     "slug": "bgl",
