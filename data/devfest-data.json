@@ -6016,7 +6016,7 @@
   },
   {
     "slug": "lanzhou",
-    "destinationUrl": "https://gdg.community.dev/gdg-lanzhou/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lanzhou-presents-devfest-2025-lanzhou-kickoff/",
     "gdgChapter": "GDG Lanzhou",
     "city": "Lanzhou",
     "countryName": "China",
@@ -6024,10 +6024,10 @@
     "latitude": 36.05,
     "longitude": 103.68,
     "gdgUrl": "https://gdg.community.dev/gdg-lanzhou/",
-    "devfestName": "DevFest Lanzhou 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Lanzhou Kickoff",
+    "devfestDate": "2025-11-14",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-09-20T06:20:22.780Z"
   },
   {
     "slug": "lauro-de-freitas",
