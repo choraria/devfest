@@ -1816,7 +1816,7 @@
   },
   {
     "slug": "brussels",
-    "destinationUrl": "https://gdg.community.dev/gdg-brussels/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-brussels-presents-devfest-belgium-2025/cohost-gdg-brussels",
     "gdgChapter": "GDG Brussels",
     "city": "Brussels",
     "countryName": "Belgium",
@@ -1824,10 +1824,10 @@
     "latitude": 50.8476424,
     "longitude": 4.3571696,
     "gdgUrl": "https://gdg.community.dev/gdg-brussels/",
-    "devfestName": "DevFest Brussels 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Belgium 2025",
+    "devfestDate": "2025-11-28",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-09-20T06:25:20.530Z"
   },
   {
     "slug": "brusubi",
