@@ -7336,7 +7336,7 @@
   },
   {
     "slug": "mons",
-    "destinationUrl": "https://gdg.community.dev/gdg-mons/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-brussels-presents-devfest-belgium-2025/cohost-gdg-mons",
     "gdgChapter": "GDG Mons",
     "city": "Mons",
     "countryName": "Belgium",
@@ -7344,10 +7344,10 @@
     "latitude": 50.4542408,
     "longitude": 3.956659,
     "gdgUrl": "https://gdg.community.dev/gdg-mons/",
-    "devfestName": "DevFest Mons 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Belgium 2025",
+    "devfestDate": "2025-11-28",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-09-20T06:27:22.963Z"
   },
   {
     "slug": "monterrey",
