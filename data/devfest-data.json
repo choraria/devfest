@@ -7966,7 +7966,7 @@
   },
   {
     "slug": "ogbomoso",
-    "destinationUrl": "https://gdg.community.dev/gdg-ogbomoso/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ogbomoso-presents-devfest-ogbomoso-2025/",
     "gdgChapter": "GDG Ogbomoso",
     "city": "Ogbomosho",
     "countryName": "Nigeria",
@@ -7974,10 +7974,10 @@
     "latitude": 8.08,
     "longitude": 4.18,
     "gdgUrl": "https://gdg.community.dev/gdg-ogbomoso/",
-    "devfestName": "DevFest Ogbomosho 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Ogbomoso 2025",
+    "devfestDate": "2025-12-05",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-09-21T06:19:20.691Z"
   },
   {
     "slug": "ohafia",
