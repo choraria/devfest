@@ -4936,7 +4936,7 @@
   },
   {
     "slug": "istanbul",
-    "destinationUrl": "https://gdg.community.dev/gdg-istanbul/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-istanbul-presents-devfest-istanbul-2025-team-kickoff-meeting/",
     "gdgChapter": "GDG Istanbul",
     "city": "Istanbul",
     "countryName": "Turkey",
@@ -4944,10 +4944,10 @@
     "latitude": 41.01,
     "longitude": 28.96,
     "gdgUrl": "https://gdg.community.dev/gdg-istanbul/",
-    "devfestName": "DevFest Istanbul 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Istanbul 2025 Team Kickoff Meeting",
+    "devfestDate": "2025-09-16",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-09-21T06:22:20.291Z"
   },
   {
     "slug": "itumbiara",
