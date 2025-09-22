@@ -4021,7 +4021,7 @@
   },
   {
     "slug": "george-town",
-    "destinationUrl": "https://gdg.community.dev/gdg-george-town/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-devfest-george-town-2025-1/",
     "gdgChapter": "GDG George Town",
     "city": "Georgetown",
     "countryName": "Malaysia",
@@ -4029,10 +4029,10 @@
     "latitude": 5.37,
     "longitude": 100.31,
     "gdgUrl": "https://gdg.community.dev/gdg-george-town/",
-    "devfestName": "DevFest Georgetown 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest George Town 2025",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-09-22T06:43:09.911Z"
   },
   {
     "slug": "georgetown",
