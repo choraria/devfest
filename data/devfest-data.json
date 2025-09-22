@@ -11371,7 +11371,7 @@
   },
   {
     "slug": "waterloo",
-    "destinationUrl": "https://gdg.community.dev/gdg-waterloo/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-waterloo-presents-watdev-fest/",
     "gdgChapter": "GDG Waterloo",
     "city": "Waterloo",
     "countryName": "Canada",
@@ -11379,10 +11379,10 @@
     "latitude": 43.47,
     "longitude": -80.52,
     "gdgUrl": "https://gdg.community.dev/gdg-waterloo/",
-    "devfestName": "DevFest Waterloo 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "WAT.DEV FEST",
+    "devfestDate": "2025-10-17",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-09-22T06:48:11.284Z"
   },
   {
     "slug": "wellington",
