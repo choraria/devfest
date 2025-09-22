@@ -7036,7 +7036,7 @@
   },
   {
     "slug": "medan",
-    "destinationUrl": "https://gdg.community.dev/gdg-medan/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-medan-presents-devfest-medan-2025-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Medan",
     "city": "Medan",
     "countryName": "Indonesia",
@@ -7044,10 +7044,10 @@
     "latitude": 3.5951956,
     "longitude": 98.6722227,
     "gdgUrl": "https://gdg.community.dev/gdg-medan/",
-    "devfestName": "DevFest Medan 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Medan 2025: Building Safe, Secure and Scalable Solutions with AI and Cloud",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-09-22T22:03:01.530Z"
   },
   {
     "slug": "medea",
