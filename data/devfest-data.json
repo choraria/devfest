@@ -7606,7 +7606,7 @@
   },
   {
     "slug": "nantes",
-    "destinationUrl": "https://gdg.community.dev/gdg-nantes/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-nantes-presents-devfest-nantes-2025/cohost-gdg-nantes",
     "gdgChapter": "GDG Nantes",
     "city": "Nantes",
     "countryName": "France",
@@ -7615,9 +7615,9 @@
     "longitude": -1.57,
     "gdgUrl": "https://gdg.community.dev/gdg-nantes/",
     "devfestName": "DevFest Nantes 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-16",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-09-22T22:00:10.629Z"
   },
   {
     "slug": "nanyang",
