@@ -1741,7 +1741,7 @@
   },
   {
     "slug": "brisbane",
-    "destinationUrl": "https://gdg.community.dev/gdg-brisbane/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-brisbane-presents-gdg-brisbane-devfest-2025/",
     "gdgChapter": "GDG Brisbane",
     "city": "Brisbane",
     "countryName": "Australia",
@@ -1749,10 +1749,10 @@
     "latitude": -27.46,
     "longitude": 153.02,
     "gdgUrl": "https://gdg.community.dev/gdg-brisbane/",
-    "devfestName": "DevFest Brisbane 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Brisbane DevFest 2025",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-09-23T09:18:59.334Z"
   },
   {
     "slug": "bronx",
