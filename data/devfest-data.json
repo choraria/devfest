@@ -106,7 +106,7 @@
   },
   {
     "slug": "abu-dhabi",
-    "destinationUrl": "https://gdg.community.dev/gdg-abu-dhabi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sharjah-presents-devfest-uae-2025/cohost-gdg-abu-dhabi",
     "gdgChapter": "GDG Abu Dhabi",
     "city": "Abu Dhabi",
     "countryName": "United Arab Emirates",
@@ -114,10 +114,10 @@
     "latitude": 24.48,
     "longitude": 54.37,
     "gdgUrl": "https://gdg.community.dev/gdg-abu-dhabi/",
-    "devfestName": "DevFest Abu Dhabi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest UAE 2025",
+    "devfestDate": "2025-10-04",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-09-24T08:29:15.579Z"
   },
   {
     "slug": "abuja",
