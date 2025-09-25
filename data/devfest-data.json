@@ -586,7 +586,7 @@
   },
   {
     "slug": "annapolis",
-    "destinationUrl": "https://gdg.community.dev/gdg-annapolis/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-annapolis-presents-chesapeake-devfest-2025/cohost-gdg-annapolis",
     "gdgChapter": "GDG Annapolis",
     "city": "Annapolis",
     "countryName": "United States",
@@ -594,10 +594,10 @@
     "latitude": 38.9784453,
     "longitude": -76.4921829,
     "gdgUrl": "https://gdg.community.dev/gdg-annapolis/",
-    "devfestName": "DevFest Annapolis 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Chesapeake DevFest 2025",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-09-25T18:05:30.555Z"
   },
   {
     "slug": "antalya",
