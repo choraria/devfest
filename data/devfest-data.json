@@ -5776,7 +5776,7 @@
   },
   {
     "slug": "kuala-lumpur",
-    "destinationUrl": "https://gdg.community.dev/gdg-kuala-lumpur/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-devfest-2025-kuala-lumpur/",
     "gdgChapter": "GDG Kuala Lumpur",
     "city": "Kuala Lumpur",
     "countryName": "Malaysia",
@@ -5784,10 +5784,10 @@
     "latitude": 3.16,
     "longitude": 101.71,
     "gdgUrl": "https://gdg.community.dev/gdg-kuala-lumpur/",
-    "devfestName": "DevFest Kuala Lumpur 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Kuala Lumpur",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-09-27T08:49:02.033Z"
   },
   {
     "slug": "kumasi",
