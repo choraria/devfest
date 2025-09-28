@@ -5191,7 +5191,7 @@
   },
   {
     "slug": "jogjakarta",
-    "destinationUrl": "https://gdg.community.dev/gdg-jogjakarta/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-jogjakarta-presents-road-to-devfest-jogjakarta-2025-x-innovative-academy-ugm/",
     "gdgChapter": "GDG Jogjakarta",
     "city": "Yogyakarta",
     "countryName": "Indonesia",
@@ -5199,10 +5199,10 @@
     "latitude": -7.78,
     "longitude": 110.37,
     "gdgUrl": "https://gdg.community.dev/gdg-jogjakarta/",
-    "devfestName": "DevFest Yogyakarta 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Road to DevFest Jogjakarta 2025 x Innovative Academy UGM",
+    "devfestDate": "2025-10-12",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-09-28T08:41:56.602Z"
   },
   {
     "slug": "johannesburg",
