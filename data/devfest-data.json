@@ -931,7 +931,7 @@
   },
   {
     "slug": "bacolod",
-    "destinationUrl": "https://gdg.community.dev/gdg-bacolod/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bacolod-presents-devfest-bacolod-2025-1/",
     "gdgChapter": "GDG Bacolod",
     "city": "Bacolod",
     "countryName": "Philippines",
@@ -940,9 +940,9 @@
     "longitude": 122.97,
     "gdgUrl": "https://gdg.community.dev/gdg-bacolod/",
     "devfestName": "DevFest Bacolod 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-09-29T05:13:37.404Z"
   },
   {
     "slug": "baghdad",
