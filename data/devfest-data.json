@@ -2311,7 +2311,7 @@
   },
   {
     "slug": "catania",
-    "destinationUrl": "https://gdg.community.dev/gdg-catania/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-catania-presents-devfest-catania-2025/",
     "gdgChapter": "GDG Catania",
     "city": "Catania",
     "countryName": "Italy",
@@ -2320,9 +2320,9 @@
     "longitude": 15.09,
     "gdgUrl": "https://gdg.community.dev/gdg-catania/",
     "devfestName": "DevFest Catania 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-09-30T06:05:53.500Z"
   },
   {
     "slug": "caxias-do-sul",
