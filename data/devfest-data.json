@@ -7081,7 +7081,7 @@
   },
   {
     "slug": "melbourne",
-    "destinationUrl": "https://gdg.community.dev/gdg-melbourne/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-melbourne-presents-gdg-melbourne-devfest-2025/",
     "gdgChapter": "GDG Melbourne",
     "city": "Melbourne",
     "countryName": "Australia",
@@ -7089,10 +7089,10 @@
     "latitude": -37.81,
     "longitude": 144.96,
     "gdgUrl": "https://gdg.community.dev/gdg-melbourne/",
-    "devfestName": "DevFest Melbourne 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Melbourne Devfest 2025",
+    "devfestDate": "2025-10-03",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-09-30T06:09:06.761Z"
   },
   {
     "slug": "merced",
