@@ -8491,7 +8491,7 @@
   },
   {
     "slug": "pescara",
-    "destinationUrl": "https://gdg.community.dev/gdg-pescara/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pescara-presents-devfest-pescara-2025/",
     "gdgChapter": "GDG Pescara",
     "city": "Pescara",
     "countryName": "Italy",
@@ -8499,10 +8499,10 @@
     "latitude": 42.47,
     "longitude": 14.22,
     "gdgUrl": "https://gdg.community.dev/gdg-pescara/",
-    "devfestName": "DevFest Pescara 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "devfestName": "Devfest Pescara 2025",
+    "devfestDate": "2025-11-08",
+    "updatedBy": "raffb",
+    "updatedAt": "2025-09-30T07:20:09.883Z"
   },
   {
     "slug": "peshawar",
