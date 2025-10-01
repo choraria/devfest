@@ -10321,7 +10321,7 @@
   },
   {
     "slug": "stuttgart",
-    "destinationUrl": "https://gdg.community.dev/gdg-stuttgart/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-stuttgart-presents-devfest-2025-stuttgart-exploring-cloud-innovations/",
     "gdgChapter": "GDG Stuttgart",
     "city": "Stuttgart",
     "countryName": "Germany",
@@ -10329,10 +10329,10 @@
     "latitude": 48.7758459,
     "longitude": 9.1829321,
     "gdgUrl": "https://gdg.community.dev/gdg-stuttgart/",
-    "devfestName": "DevFest Stuttgart 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Stuttgart: Exploring Cloud Innovations",
+    "devfestDate": "2025-10-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-10-01T16:43:51.140Z"
   },
   {
     "slug": "sucre",
