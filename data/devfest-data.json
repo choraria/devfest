@@ -2056,7 +2056,7 @@
   },
   {
     "slug": "cagayan-de-oro",
-    "destinationUrl": "https://gdg.community.dev/gdg-cagayan-de-oro/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cagayan-de-oro-presents-devfest-cagayan-de-oro-2025/",
     "gdgChapter": "GDG Cagayan de Oro",
     "city": "Cagayan de Oro",
     "countryName": "Philippines",
@@ -2064,10 +2064,10 @@
     "latitude": 8.45,
     "longitude": 124.67,
     "gdgUrl": "https://gdg.community.dev/gdg-cagayan-de-oro/",
-    "devfestName": "DevFest Cagayan de Oro 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Cagayan De Oro 2025",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-10-02T10:03:08.704Z"
   },
   {
     "slug": "cairo",
