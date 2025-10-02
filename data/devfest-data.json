@@ -4426,7 +4426,7 @@
   },
   {
     "slug": "hangzhou",
-    "destinationUrl": "https://gdg.community.dev/gdg-hangzhou/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-hangzhou-presents-google-devfest-2025-hangzhou/",
     "gdgChapter": "GDG Hangzhou",
     "city": "Hangzhou",
     "countryName": "China",
@@ -4434,10 +4434,10 @@
     "latitude": 30.25,
     "longitude": 120.17,
     "gdgUrl": "https://gdg.community.dev/gdg-hangzhou/",
-    "devfestName": "DevFest Hangzhou 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google DevFest 2025 Hangzhou",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-10-02T05:21:20.731Z"
   },
   {
     "slug": "hannover",
