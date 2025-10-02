@@ -5086,7 +5086,7 @@
   },
   {
     "slug": "jammu",
-    "destinationUrl": "https://gdg.community.dev/gdg-jammu/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-jammu-presents-devfest-jammu-2025/",
     "gdgChapter": "GDG Jammu",
     "city": "Jammu",
     "countryName": "India",
@@ -5094,10 +5094,10 @@
     "latitude": 32.7266016,
     "longitude": 74.8570259,
     "gdgUrl": "https://gdg.community.dev/gdg-jammu/",
-    "devfestName": "DevFest Jammu 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Jammu 2025",
+    "devfestDate": "2025-11-02",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-10-02T10:05:44.628Z"
   },
   {
     "slug": "jeju",
