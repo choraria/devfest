@@ -10531,7 +10531,7 @@
   },
   {
     "slug": "tampa-bay",
-    "destinationUrl": "https://gdg.community.dev/gdg-tampa-bay/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-south-florida-tampa-united-states-presents-devfest-tampa-bay/cohost-gdg-tampa-bay",
     "gdgChapter": "GDG Tampa Bay",
     "city": "Tampa",
     "countryName": "United States",
@@ -10539,10 +10539,10 @@
     "latitude": 27.96,
     "longitude": -82.46,
     "gdgUrl": "https://gdg.community.dev/gdg-tampa-bay/",
-    "devfestName": "DevFest Tampa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Tampa Bay",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-10-02T05:24:11.510Z"
   },
   {
     "slug": "taoyuan",
