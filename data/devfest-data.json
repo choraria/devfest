@@ -796,7 +796,7 @@
   },
   {
     "slug": "athens",
-    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-2025/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-athens-2025/cohost-gdg-athens",
     "gdgChapter": "GDG Athens",
     "city": "Athens",
     "countryName": "Greece",
@@ -804,10 +804,10 @@
     "latitude": 37.98,
     "longitude": 23.73,
     "gdgUrl": "https://gdg.community.dev/gdg-athens/",
-    "devfestName": "DevFest 2025",
+    "devfestName": "DevFest Athens 2025",
     "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-07-27T23:23:42.104Z"
+    "updatedAt": "2025-10-03T07:13:05.285Z"
   },
   {
     "slug": "athlone",
