@@ -11356,7 +11356,7 @@
   },
   {
     "slug": "washington-dc",
-    "destinationUrl": "https://gdg.community.dev/gdg-washington-dc/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-washington-dc-presents-devfest-dc-2025-ai-edition-friday-oct-3-registration-at-eventbrite-httpswwweventbritecomedevfest-dc-2025-tickets-1554105293769/cohost-gdg-washington-dc",
     "gdgChapter": "GDG Washington DC",
     "city": "Washington",
     "countryName": "United States",
@@ -11364,10 +11364,10 @@
     "latitude": 38.9071923,
     "longitude": -77.0368707,
     "gdgUrl": "https://gdg.community.dev/gdg-washington-dc/",
-    "devfestName": "DevFest Washington 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest DC 2025 - AI Edition",
+    "devfestDate": "2025-10-04",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-10-03T07:17:55.451Z"
   },
   {
     "slug": "waterloo",
