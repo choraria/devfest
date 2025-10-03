@@ -5611,7 +5611,7 @@
   },
   {
     "slug": "kisumu",
-    "destinationUrl": "https://gdg.community.dev/gdg-kisumu/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kisumu-presents-devfest-kisumu-2025/",
     "gdgChapter": "GDG Kisumu",
     "city": "Kisumu",
     "countryName": "Kenya",
@@ -5620,9 +5620,9 @@
     "longitude": 34.75,
     "gdgUrl": "https://gdg.community.dev/gdg-kisumu/",
     "devfestName": "DevFest Kisumu 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-10-03T07:11:38.687Z"
   },
   {
     "slug": "kitwe",
