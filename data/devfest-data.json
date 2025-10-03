@@ -2761,7 +2761,7 @@
   },
   {
     "slug": "coimbatore",
-    "destinationUrl": "https://gdg.community.dev/gdg-coimbatore/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-coimbatore-presents-devfest-coimbatore-2025/cohost-gdg-coimbatore",
     "gdgChapter": "GDG Coimbatore",
     "city": "Coimbatore",
     "countryName": "India",
@@ -2770,9 +2770,9 @@
     "longitude": 76.96,
     "gdgUrl": "https://gdg.community.dev/gdg-coimbatore/",
     "devfestName": "DevFest Coimbatore 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-10-03T18:30:52.218Z"
   },
   {
     "slug": "coimbra",
