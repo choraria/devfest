@@ -3556,7 +3556,7 @@
   },
   {
     "slug": "eldoret",
-    "destinationUrl": "https://gdg.community.dev/gdg-eldoret/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-eldoret-presents-gdg-devfest-rift-valley-2025/",
     "gdgChapter": "GDG Eldoret",
     "city": "Eldoret",
     "countryName": "Kenya",
@@ -3564,10 +3564,10 @@
     "latitude": 0.52,
     "longitude": 35.27,
     "gdgUrl": "https://gdg.community.dev/gdg-eldoret/",
-    "devfestName": "DevFest Eldoret 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG DevFest Rift Valley 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-10-03T07:10:18.754Z"
   },
   {
     "slug": "encarnacion",
