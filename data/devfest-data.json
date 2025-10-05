@@ -11311,7 +11311,7 @@
   },
   {
     "slug": "vizag",
-    "destinationUrl": "https://gdg.community.dev/gdg-vizag/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-vizag-presents-gdg-vizag-presents-devfest-vizag-2025/",
     "gdgChapter": "GDG Vizag",
     "city": "Visakhapatnam",
     "countryName": "India",
@@ -11319,10 +11319,10 @@
     "latitude": 17.73,
     "longitude": 83.3,
     "gdgUrl": "https://gdg.community.dev/gdg-vizag/",
-    "devfestName": "DevFest Visakhapatnam 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG VIZAG presents DEVFEST VIZAG 2025",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-10-05T19:07:57.358Z"
   },
   {
     "slug": "warri",
