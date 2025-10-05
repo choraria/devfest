@@ -2701,7 +2701,7 @@
   },
   {
     "slug": "cochabamba",
-    "destinationUrl": "https://gdg.community.dev/gdg-cochabamba/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cochabamba-presents-dev-fest-cochabamba-2025/",
     "gdgChapter": "GDG Cochabamba",
     "city": "Cochabamba",
     "countryName": "Bolivia",
@@ -2709,10 +2709,10 @@
     "latitude": -17.38,
     "longitude": -66.17,
     "gdgUrl": "https://gdg.community.dev/gdg-cochabamba/",
-    "devfestName": "DevFest Cochabamba 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Dev Fest Cochabamba 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.684Z"
+    "updatedAt": "2025-10-05T19:02:09.587Z"
   },
   {
     "slug": "cochin",
