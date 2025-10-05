@@ -9271,7 +9271,7 @@
   },
   {
     "slug": "salem",
-    "destinationUrl": "https://gdg.community.dev/gdg-salem/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-salem-presents-devfest-salem-2025/",
     "gdgChapter": "GDG Salem",
     "city": "Salem",
     "countryName": "India",
@@ -9280,9 +9280,9 @@
     "longitude": 78.15,
     "gdgUrl": "https://gdg.community.dev/gdg-salem/",
     "devfestName": "DevFest Salem 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-20",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-10-05T19:09:10.762Z"
   },
   {
     "slug": "salerno",
