@@ -11206,7 +11206,7 @@
   },
   {
     "slug": "venezia",
-    "destinationUrl": "https://gdg.community.dev/gdg-venezia/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-venezia-presents-devfest-venezia-2025/",
     "gdgChapter": "GDG Venezia",
     "city": "Venice",
     "countryName": "Italy",
@@ -11214,10 +11214,10 @@
     "latitude": 45.44,
     "longitude": 12.33,
     "gdgUrl": "https://gdg.community.dev/gdg-venezia/",
-    "devfestName": "DevFest Venice 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Venezia 2025",
+    "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.690Z"
+    "updatedAt": "2025-10-06T07:52:23.087Z"
   },
   {
     "slug": "vicenza",
