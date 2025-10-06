@@ -8806,7 +8806,7 @@
   },
   {
     "slug": "pristina",
-    "destinationUrl": "https://gdg.community.dev/gdg-prishtina/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-prishtina-presents-devfest-kosova-2025/",
     "gdgChapter": "GDG Prishtina",
     "city": "Pristina",
     "countryName": "Kosovo",
@@ -8814,10 +8814,10 @@
     "latitude": 42.6629,
     "longitude": 21.1655,
     "gdgUrl": "https://gdg.community.dev/gdg-prishtina/",
-    "devfestName": "DevFest Pristina 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Kosova 2025",
+    "devfestDate": "2025-12-05",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.688Z"
+    "updatedAt": "2025-10-06T07:49:33.218Z"
   },
   {
     "slug": "providence",
