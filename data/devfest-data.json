@@ -1876,7 +1876,7 @@
   },
   {
     "slug": "buea",
-    "destinationUrl": "https://gdg.community.dev/gdg-buea/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-buea-presents-devfest-buea-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Buea",
     "city": "Buea",
     "countryName": "Cameroon",
@@ -1884,10 +1884,10 @@
     "latitude": 4.16,
     "longitude": 9.23,
     "gdgUrl": "https://gdg.community.dev/gdg-buea/",
-    "devfestName": "DevFest Buea 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Buea: Building Safe, Secure and Scalable Solutions with AI and Cloud.",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-10-06T07:53:42.919Z"
   },
   {
     "slug": "buenos-aires",
