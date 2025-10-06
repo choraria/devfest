@@ -1696,7 +1696,7 @@
   },
   {
     "slug": "brasilia",
-    "destinationUrl": "https://gdg.community.dev/gdg-brasilia/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-brasilia-presents-devfest-brasilia-1/",
     "gdgChapter": "GDG Brasília",
     "city": "Brasília",
     "countryName": "Brazil",
@@ -1704,10 +1704,10 @@
     "latitude": -15.78,
     "longitude": -47.91,
     "gdgUrl": "https://gdg.community.dev/gdg-brasilia/",
-    "devfestName": "DevFest Brasília 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Brasília",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-10-06T07:50:34.444Z"
   },
   {
     "slug": "braunschweig",
