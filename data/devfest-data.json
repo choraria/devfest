@@ -256,7 +256,7 @@
   },
   {
     "slug": "agadir",
-    "destinationUrl": "https://gdg.community.dev/gdg-agadir/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-agadir-presents-devfest-212/cohost-gdg-agadir",
     "gdgChapter": "GDG Agadir",
     "city": "Agadir",
     "countryName": "Morocco",
@@ -264,10 +264,10 @@
     "latitude": 30.42,
     "longitude": -9.61,
     "gdgUrl": "https://gdg.community.dev/gdg-agadir/",
-    "devfestName": "DevFest Agadir 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 212",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-10-06T07:47:34.977Z"
   },
   {
     "slug": "ahlen",
