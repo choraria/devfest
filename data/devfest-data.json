@@ -7426,7 +7426,7 @@
   },
   {
     "slug": "msila",
-    "destinationUrl": "https://gdg.community.dev/gdg-msila/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-msila-presents-devfest25/",
     "gdgChapter": "GDG M'sila",
     "city": "M'Sila",
     "countryName": "Algeria",
@@ -7434,10 +7434,10 @@
     "latitude": 35.71,
     "longitude": 4.54,
     "gdgUrl": "https://gdg.community.dev/gdg-msila/",
-    "devfestName": "DevFest M'Sila 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest'25",
+    "devfestDate": "2025-11-03",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.687Z"
+    "updatedAt": "2025-10-07T06:26:29.819Z"
   },
   {
     "slug": "mumbai",
