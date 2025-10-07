@@ -4366,7 +4366,7 @@
   },
   {
     "slug": "haifa",
-    "destinationUrl": "https://gdg.community.dev/gdg-haifa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-haifa-presents-devfest-haifa-2025-the-intersection-between-cybersecurity-and-ai/",
     "gdgChapter": "GDG Haifa",
     "city": "Haifa",
     "countryName": "Israel",
@@ -4374,10 +4374,10 @@
     "latitude": 32.82,
     "longitude": 34.99,
     "gdgUrl": "https://gdg.community.dev/gdg-haifa/",
-    "devfestName": "DevFest Haifa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Haifa 2025 - The Intersection Between Cybersecurity and AI",
+    "devfestDate": "2025-10-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-10-07T06:27:43.439Z"
   },
   {
     "slug": "halifax",
