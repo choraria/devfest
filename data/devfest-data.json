@@ -6241,7 +6241,7 @@
   },
   {
     "slug": "lisbon",
-    "destinationUrl": "https://gdg.community.dev/gdg-lisbon/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lisbon-presents-devfest-lisbon-2025/",
     "gdgChapter": "GDG Lisbon",
     "city": "Lisbon",
     "countryName": "Portugal",
@@ -6250,9 +6250,9 @@
     "longitude": -9.1393366,
     "gdgUrl": "https://gdg.community.dev/gdg-lisbon/",
     "devfestName": "DevFest Lisbon 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.686Z"
+    "updatedAt": "2025-10-07T06:25:10.838Z"
   },
   {
     "slug": "little-rock",
