@@ -5041,7 +5041,7 @@
   },
   {
     "slug": "jakarta",
-    "destinationUrl": "https://gdg.community.dev/gdg-jakarta/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-jakarta-presents-road-to-devfest-jakarta-2025-season-1/",
     "gdgChapter": "GDG Jakarta",
     "city": "Jakarta",
     "countryName": "Indonesia",
@@ -5049,10 +5049,10 @@
     "latitude": -6.18,
     "longitude": 106.83,
     "gdgUrl": "https://gdg.community.dev/gdg-jakarta/",
-    "devfestName": "DevFest Jakarta 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Road to DevFest Jakarta 2025 - Season 1",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-10-08T06:52:03.078Z"
   },
   {
     "slug": "jalandhar",
