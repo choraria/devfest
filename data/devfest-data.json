@@ -10216,7 +10216,7 @@
   },
   {
     "slug": "st-johns",
-    "destinationUrl": "https://gdg.community.dev/gdg-st-johns/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-st-johns-presents-devfest-st-johns-2025/",
     "gdgChapter": "GDG St. John's",
     "city": "St. John's",
     "countryName": "Canada",
@@ -10225,9 +10225,9 @@
     "longitude": -52.7125768,
     "gdgUrl": "https://gdg.community.dev/gdg-st-johns/",
     "devfestName": "DevFest St. John's 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-10-08T15:25:50.879Z"
   },
   {
     "slug": "st-louis",
