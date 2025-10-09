@@ -1381,7 +1381,7 @@
   },
   {
     "slug": "benin",
-    "destinationUrl": "https://gdg.community.dev/gdg-benin/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-benin-presents-devfest-benin-2025/",
     "gdgChapter": "GDG Benin",
     "city": "Benin City",
     "countryName": "Nigeria",
@@ -1389,10 +1389,10 @@
     "latitude": 6.34,
     "longitude": 5.62,
     "gdgUrl": "https://gdg.community.dev/gdg-benin/",
-    "devfestName": "DevFest Benin City 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Benin 2025",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.683Z"
+    "updatedAt": "2025-10-09T05:19:36.426Z"
   },
   {
     "slug": "berlin",
