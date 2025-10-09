@@ -1770,6 +1770,21 @@
     "updatedAt": "2025-04-16T20:11:33.683Z"
   },
   {
+    "slug": "brooklyn",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-brooklyn-presents-save-the-date-devfest-brooklyn-queens-at-pier-57-tues-nov-18-1/",
+    "gdgChapter": "GDG Brooklyn",
+    "city": "New York",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 40.74,
+    "longitude": -74,
+    "gdgUrl": "https://gdg.community.dev/gdg-brooklyn/",
+    "devfestName": "Save the Date: DevFest Brooklyn/ Queens at Pier 57 - Tues. Nov. 18",
+    "devfestDate": "2025-11-18",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-08T20:11:33.689Z"
+  },
+  {
     "slug": "broward-county",
     "destinationUrl": "https://gdg.community.dev/gdg-broward-county-fl/",
     "gdgChapter": "GDG Broward County - FL",
