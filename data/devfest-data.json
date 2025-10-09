@@ -11236,7 +11236,7 @@
   },
   {
     "slug": "ourense",
-    "destinationUrl": "https://gdg.community.dev/gdg-ourense/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ourense-presents-google-devfest-2025/cohost-gdg-ourense",
     "gdgChapter": "GDG Ourense",
     "city": "Ourense",
     "countryName": "Spain",
@@ -11244,10 +11244,10 @@
     "latitude": 42.3357893,
     "longitude": -7.863881,
     "gdgUrl": "https://gdg.community.dev/gdg-ourense/",
-    "devfestName": "DevFest Ourense 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google DevFest 2025",
+    "devfestDate": "2025-11-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
+    "updatedAt": "2025-10-09T12:42:45.009Z"
   },
   {
     "slug": "ramnicu-valcea",
