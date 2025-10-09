@@ -286,7 +286,7 @@
   },
   {
     "slug": "ahmedabad",
-    "destinationUrl": "https://gdg.community.dev/gdg-ahmedabad/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ahmedabad-presents-gdg-ahmedabad-devfest-2025/",
     "gdgChapter": "GDG Ahmedabad",
     "city": "Ahmedabad",
     "countryName": "India",
@@ -294,10 +294,10 @@
     "latitude": 23.03,
     "longitude": 72.58,
     "gdgUrl": "https://gdg.community.dev/gdg-ahmedabad/",
-    "devfestName": "DevFest Ahmedabad 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Ahmedabad DevFest 2025",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.682Z"
+    "updatedAt": "2025-10-09T05:17:26.092Z"
   },
   {
     "slug": "ajah",
