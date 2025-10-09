@@ -1,20 +1,5 @@
 [
   {
-    "slug": "a-coruna",
-    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ourense-presents-google-devfest-2025/cohost-gdg-a-coruna",
-    "gdgChapter": "GDG A Coruña",
-    "city": "A Coruña",
-    "countryName": "Spain",
-    "countryCode": "ES",
-    "latitude": 43.3637626,
-    "longitude": -8.4103923,
-    "gdgUrl": "https://gdg.community.dev/gdg-a-coruna/",
-    "devfestName": "Google DevFest 2025",
-    "devfestDate": "2025-11-21",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09T12:37:16.650Z"
-  },
-  {
     "slug": "aachen",
     "destinationUrl": "https://gdg.community.dev/gdg-aachen/",
     "gdgChapter": "GDG Aachen",
@@ -165,6 +150,21 @@
     "updatedAt": "2025-08-01T13:32:37Z"
   },
   {
+    "slug": "a-coruna",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ourense-presents-google-devfest-2025/cohost-gdg-a-coruna",
+    "gdgChapter": "GDG A Coruña",
+    "city": "A Coruña",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "latitude": 43.3637626,
+    "longitude": -8.4103923,
+    "gdgUrl": "https://gdg.community.dev/gdg-a-coruna/",
+    "devfestName": "Google DevFest 2025",
+    "devfestDate": "2025-11-21",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T12:37:16Z"
+  },
+  {
     "slug": "adana",
     "destinationUrl": "https://gdg.community.dev/gdg-adana/",
     "gdgChapter": "GDG Adana",
@@ -241,7 +241,7 @@
   },
   {
     "slug": "afyon",
-    "destinationUrl": "https://gdg.community.dev/gdg-afyon/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-afyon-presents-devfest25-gdg-afyon/",
     "gdgChapter": "GDG Afyon",
     "city": "Afyonkarahisar",
     "countryName": "Turkey",
@@ -249,10 +249,10 @@
     "latitude": 38.7568852,
     "longitude": 30.5387038,
     "gdgUrl": "https://gdg.community.dev/gdg-afyon/",
-    "devfestName": "DevFest Afyonkarahisar 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DEVFEST'25 - GDG AFYON",
+    "devfestDate": "2025-10-31",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:08Z"
   },
   {
     "slug": "agadir",
@@ -268,6 +268,21 @@
     "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-06T07:47:34Z"
+  },
+  {
+    "slug": "agrigento",
+    "destinationUrl": "https://gdg.community.dev/gdg-agrigento/",
+    "gdgChapter": "GDG Agrigento",
+    "city": "Agrigento",
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "latitude": 37.3088381,
+    "longitude": 13.5857818,
+    "gdgUrl": "https://gdg.community.dev/gdg-agrigento/",
+    "devfestName": "DevFest Agrigento 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "ahlen",
@@ -481,7 +496,7 @@
   },
   {
     "slug": "americana",
-    "destinationUrl": "https://gdg.community.dev/gdg-americana/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-americana-presents-devfest-americana-2025/",
     "gdgChapter": "GDG Americana",
     "city": "Americana",
     "countryName": "Brazil",
@@ -490,9 +505,9 @@
     "longitude": -47.3335688,
     "gdgUrl": "https://gdg.community.dev/gdg-americana/",
     "devfestName": "DevFest Americana 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "amman",
@@ -526,7 +541,7 @@
   },
   {
     "slug": "andorra",
-    "destinationUrl": "https://gdg.community.dev/gdg-andorra/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-andorra-presents-devfest-andorra-2025/",
     "gdgChapter": "GDG Andorra",
     "city": "Andorra la Vella",
     "countryName": "Andorra",
@@ -534,10 +549,10 @@
     "latitude": 42.5063174,
     "longitude": 1.5218355,
     "gdgUrl": "https://gdg.community.dev/gdg-andorra/",
-    "devfestName": "DevFest Andorra la Vella 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Andorra 2025",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "ankara",
@@ -550,21 +565,6 @@
     "longitude": 32.85,
     "gdgUrl": "https://gdg.community.dev/gdg-ankara/",
     "devfestName": "DevFest Ankara 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
-    "slug": "ann-arbor",
-    "destinationUrl": "https://gdg.community.dev/gdg-ann-arbor/",
-    "gdgChapter": "GDG Ann Arbor",
-    "city": "Ann Arbor",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 42.26,
-    "longitude": -83.72,
-    "gdgUrl": "https://gdg.community.dev/gdg-ann-arbor/",
-    "devfestName": "DevFest Ann Arbor 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
@@ -583,6 +583,21 @@
     "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
     "updatedAt": "2025-09-25T18:05:30Z"
+  },
+  {
+    "slug": "ann-arbor",
+    "destinationUrl": "https://gdg.community.dev/gdg-ann-arbor/",
+    "gdgChapter": "GDG Ann Arbor",
+    "city": "Ann Arbor",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 42.26,
+    "longitude": -83.72,
+    "gdgUrl": "https://gdg.community.dev/gdg-ann-arbor/",
+    "devfestName": "DevFest Ann Arbor 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
     "slug": "antalya",
@@ -706,7 +721,7 @@
   },
   {
     "slug": "arusha",
-    "destinationUrl": "https://gdg.community.dev/gdg-arusha/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-arusha-presents-devfest-arusha-2025/",
     "gdgChapter": "GDG Arusha",
     "city": "Arusha",
     "countryName": "Tanzania",
@@ -715,9 +730,9 @@
     "longitude": 36.6829927,
     "gdgUrl": "https://gdg.community.dev/gdg-arusha/",
     "devfestName": "DevFest Arusha 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "asaba",
@@ -736,7 +751,7 @@
   },
   {
     "slug": "ashgabat",
-    "destinationUrl": "https://gdg.community.dev/gdg-ashgabat/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ashgabat-presents-devfest-ashgabat-2025-a-glimpse-into-the-future-of-tech/",
     "gdgChapter": "GDG Ashgabat",
     "city": "Ashgabat",
     "countryName": "Turkmenistan",
@@ -744,10 +759,10 @@
     "latitude": 37.95,
     "longitude": 58.38,
     "gdgUrl": "https://gdg.community.dev/gdg-ashgabat/",
-    "devfestName": "DevFest Ashgabat 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Ashgabat 2025: A Glimpse into the Future of Tech",
+    "devfestDate": "2025-10-24",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "assiut",
@@ -975,8 +990,38 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "baltimore",
+    "destinationUrl": "https://gdg.community.dev/gdg-baltimore/",
+    "gdgChapter": "GDG Baltimore",
+    "city": "Baltimore",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 39.2905023,
+    "longitude": -76.6104072,
+    "gdgUrl": "https://gdg.community.dev/gdg-baltimore/",
+    "devfestName": "DevFest Baltimore 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:40:22Z"
+  },
+  {
+    "slug": "bamako",
+    "destinationUrl": "https://gdg.community.dev/gdg-bamako/",
+    "gdgChapter": "GDG Bamako",
+    "city": "Bamako",
+    "countryName": "Mali",
+    "countryCode": "ML",
+    "latitude": 12.65,
+    "longitude": -7.99,
+    "gdgUrl": "https://gdg.community.dev/gdg-bamako/",
+    "devfestName": "DevFest Bamako 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "bambili",
-    "destinationUrl": "https://gdg.community.dev/gdg-bambili/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bambili-presents-devfest-2025-bambili-building-safe-secure-and-scalable-solutions/",
     "gdgChapter": "GDG Bambili",
     "city": "Bambili",
     "countryName": "Cameroon",
@@ -984,10 +1029,10 @@
     "latitude": 6.01,
     "longitude": 10.26,
     "gdgUrl": "https://gdg.community.dev/gdg-bambili/",
-    "devfestName": "DevFest Bambili 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 2025 Bambili: Building Safe, Secure and Scalable Solutions",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "bamenda",
@@ -1066,7 +1111,7 @@
   },
   {
     "slug": "barcelona",
-    "destinationUrl": "https://gdg.community.dev/gdg-barcelona/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-barcelona-presents-devfest-barcelona-2025-unete-a-la-revolucion-tecnologica/",
     "gdgChapter": "GDG Barcelona",
     "city": "Barcelona",
     "countryName": "Spain",
@@ -1074,14 +1119,14 @@
     "latitude": 41.4,
     "longitude": 2.17,
     "gdgUrl": "https://gdg.community.dev/gdg-barcelona/",
-    "devfestName": "DevFest Barcelona 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Barcelona 2025 - ¡Únete a la revolución tecnológica! 🚀",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "bari",
-    "destinationUrl": "https://gdg.community.dev/gdg-bari/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bari-presents-devfest-bari-2025/",
     "gdgChapter": "GDG Bari",
     "city": "Bari",
     "countryName": "Italy",
@@ -1090,9 +1135,9 @@
     "longitude": 16.87,
     "gdgUrl": "https://gdg.community.dev/gdg-bari/",
     "devfestName": "DevFest Bari 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "baroda",
@@ -1125,6 +1170,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "barueri",
+    "destinationUrl": "https://gdg.community.dev/gdg-barueri/",
+    "gdgChapter": "GDG Barueri",
+    "city": "Barueri",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -23.5035117,
+    "longitude": -46.8785468,
+    "gdgUrl": "https://gdg.community.dev/gdg-barueri/",
+    "devfestName": "DevFest Barueri 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "basra",
     "destinationUrl": "https://gdg.community.dev/gdg-basra/",
     "gdgChapter": "GDG Basra",
@@ -1141,7 +1201,7 @@
   },
   {
     "slug": "bassam",
-    "destinationUrl": "https://gdg.community.dev/gdg-bassam/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bassam-presents-devfest-bassam-de-lia-reactive-a-lia-native/",
     "gdgChapter": "GDG Bassam",
     "city": "Grand-Bassam",
     "countryName": "Côte d'Ivoire",
@@ -1149,10 +1209,10 @@
     "latitude": 5.2,
     "longitude": -3.75,
     "gdgUrl": "https://gdg.community.dev/gdg-bassam/",
-    "devfestName": "DevFest Grand-Bassam 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Bassam : de l'IA réactive à l'IA native",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "batna",
@@ -1171,7 +1231,7 @@
   },
   {
     "slug": "batumi",
-    "destinationUrl": "https://gdg.community.dev/gdg-batumi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-batumi-presents-devfest-batumi-2025/",
     "gdgChapter": "GDG Batumi",
     "city": "Batumi",
     "countryName": "Georgia",
@@ -1180,9 +1240,9 @@
     "longitude": 41.64049,
     "gdgUrl": "https://gdg.community.dev/gdg-batumi/",
     "devfestName": "DevFest Batumi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-26",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "bauchi",
@@ -1201,7 +1261,7 @@
   },
   {
     "slug": "beijing",
-    "destinationUrl": "https://gdg.community.dev/gdg-beijing/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-beijing-presents-2025-devfest-beijing/",
     "gdgChapter": "GDG Beijing",
     "city": "Beijing",
     "countryName": "China",
@@ -1209,10 +1269,10 @@
     "latitude": 39.93,
     "longitude": 116.4,
     "gdgUrl": "https://gdg.community.dev/gdg-beijing/",
-    "devfestName": "DevFest Beijing 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "2025 DevFest Beijing",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "beja",
@@ -1231,7 +1291,7 @@
   },
   {
     "slug": "belem",
-    "destinationUrl": "https://gdg.community.dev/gdg-belem/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-belem-presents-devfest-belem-2025-a-jornada-do-futuro/",
     "gdgChapter": "GDG Belém",
     "city": "Belém",
     "countryName": "Brazil",
@@ -1239,10 +1299,10 @@
     "latitude": -1.46,
     "longitude": -48.5,
     "gdgUrl": "https://gdg.community.dev/gdg-belem/",
-    "devfestName": "DevFest Belém 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Belém 2025: A Jornada do Futuro",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "belfast",
@@ -1275,6 +1335,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "belgrade",
+    "destinationUrl": "https://gdg.community.dev/gdg-belgrade/",
+    "gdgChapter": "GDG Belgrade",
+    "city": "Belgrade",
+    "countryName": "Serbia",
+    "countryCode": "RS",
+    "latitude": 44.8125449,
+    "longitude": 20.46123,
+    "gdgUrl": "https://gdg.community.dev/gdg-belgrade/",
+    "devfestName": "DevFest Belgrade 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "bellevue",
     "destinationUrl": "https://gdg.community.dev/gdg-bellevue/",
     "gdgChapter": "GDG Bellevue",
@@ -1291,7 +1366,7 @@
   },
   {
     "slug": "belo-horizonte",
-    "destinationUrl": "https://gdg.community.dev/gdg-belo-horizonte/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-devfest-belo-horizonte-1/",
     "gdgChapter": "GDG Belo Horizonte",
     "city": "Belo Horizonte",
     "countryName": "Brazil",
@@ -1299,10 +1374,10 @@
     "latitude": -19.92,
     "longitude": -43.94,
     "gdgUrl": "https://gdg.community.dev/gdg-belo-horizonte/",
-    "devfestName": "DevFest Belo Horizonte 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Belo Horizonte",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "benin",
@@ -1318,6 +1393,21 @@
     "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-09T05:19:36Z"
+  },
+  {
+    "slug": "bergen",
+    "destinationUrl": "https://gdg.community.dev/gdg-bergen/",
+    "gdgChapter": "GDG Bergen",
+    "city": "Bergen",
+    "countryName": "Norway",
+    "countryCode": "NO",
+    "latitude": 60.38,
+    "longitude": 5.34,
+    "gdgUrl": "https://gdg.community.dev/gdg-bergen/",
+    "devfestName": "DevFest Bergen 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "berlin",
@@ -1500,8 +1590,23 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "boise",
+    "destinationUrl": "https://gdg.community.dev/gdg-boise/",
+    "gdgChapter": "GDG Boise",
+    "city": "Boise",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 43.6150186,
+    "longitude": -116.2023137,
+    "gdgUrl": "https://gdg.community.dev/gdg-boise/",
+    "devfestName": "DevFest Boise 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "bonny-island",
-    "destinationUrl": "https://gdg.community.dev/gdg-bonny-island/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bonny-island-presents-devfest-bonny-2025/",
     "gdgChapter": "GDG Bonny Island",
     "city": "Bonny",
     "countryName": "Nigeria",
@@ -1510,9 +1615,9 @@
     "longitude": 7.17,
     "gdgUrl": "https://gdg.community.dev/gdg-bonny-island/",
     "devfestName": "DevFest Bonny 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "bordeaux",
@@ -1633,6 +1738,21 @@
     "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
     "updatedAt": "2025-09-23T09:18:59Z"
+  },
+  {
+    "slug": "bristol",
+    "destinationUrl": "https://gdg.community.dev/gdg-bristol/",
+    "gdgChapter": "GDG Bristol",
+    "city": "Bristol",
+    "countryName": "United Kingdom",
+    "countryCode": "GB",
+    "latitude": 51.454513,
+    "longitude": -2.58791,
+    "gdgUrl": "https://gdg.community.dev/gdg-bristol/",
+    "devfestName": "DevFest Bristol 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "bronx",
@@ -1771,7 +1891,7 @@
   },
   {
     "slug": "bugiri",
-    "destinationUrl": "https://gdg.community.dev/gdg-bugiri/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bugiri-presents-devfest-bugiri-2025/",
     "gdgChapter": "GDG Bugiri",
     "city": "Bugiri",
     "countryName": "Uganda",
@@ -1779,14 +1899,14 @@
     "latitude": 0.5671365,
     "longitude": 33.7461847,
     "gdgUrl": "https://gdg.community.dev/gdg-bugiri/",
-    "devfestName": "DevFest Bugiri 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Bugiri 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "bujumbura",
-    "destinationUrl": "https://gdg.community.dev/gdg-bujumbura/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bujumbura-presents-devfest-bujumbura-2025/",
     "gdgChapter": "GDG Bujumbura",
     "city": "Bujumbura",
     "countryName": "Burundi",
@@ -1795,13 +1915,13 @@
     "longitude": 29.35,
     "gdgUrl": "https://gdg.community.dev/gdg-bujumbura/",
     "devfestName": "DevFest Bujumbura 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-20",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "bukavu",
-    "destinationUrl": "https://gdg.community.dev/gdg-bukavu/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bukavu-presents-devfest-bukavu-2025/",
     "gdgChapter": "GDG Bukavu",
     "city": "Bukavu",
     "countryName": "Congo",
@@ -1810,9 +1930,9 @@
     "longitude": 28.84,
     "gdgUrl": "https://gdg.community.dev/gdg-bukavu/",
     "devfestName": "DevFest Bukavu 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-05",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "bukhara",
@@ -1876,7 +1996,7 @@
   },
   {
     "slug": "bursa",
-    "destinationUrl": "https://gdg.community.dev/gdg-bursa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bursa-presents-devfest-bursa-2025/",
     "gdgChapter": "GDG Bursa",
     "city": "Bursa",
     "countryName": "Turkey",
@@ -1884,14 +2004,14 @@
     "latitude": 40.2,
     "longitude": 29.08,
     "gdgUrl": "https://gdg.community.dev/gdg-bursa/",
-    "devfestName": "DevFest Bursa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Bursa 2025",
+    "devfestDate": "2025-12-20",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "busan",
-    "destinationUrl": "https://gdg.community.dev/gdg-busan/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-busan-presents-devfest-busan-2025-modureul-wihan-gemini-hwalyonghagi/",
     "gdgChapter": "GDG Busan",
     "city": "Pusan",
     "countryName": "Korea",
@@ -1899,10 +2019,10 @@
     "latitude": 35.11,
     "longitude": 129.03,
     "gdgUrl": "https://gdg.community.dev/gdg-busan/",
-    "devfestName": "DevFest Pusan 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "📣  DevFest Busan 2025 - 모두를 위한 Gemini 활용하기!",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "cagayan-de-oro",
@@ -1951,7 +2071,7 @@
   },
   {
     "slug": "cali",
-    "destinationUrl": "https://gdg.community.dev/gdg-cali/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cali-presents-data-dev-fest-2025-un-evento-doble-una-sola-experiencia-inolvidable-1/",
     "gdgChapter": "GDG Cali",
     "city": "Cali",
     "countryName": "Colombia",
@@ -1959,10 +2079,10 @@
     "latitude": 3.42,
     "longitude": -76.51,
     "gdgUrl": "https://gdg.community.dev/gdg-cali/",
-    "devfestName": "DevFest Cali 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Data Dev Fest 2025 — Un evento doble, una sola experiencia inolvidable",
+    "devfestDate": "2025-11-07",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "callao",
@@ -1980,8 +2100,23 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "campeche",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-devfest-campeche-2025/",
+    "gdgChapter": "GDG San Francisco de Campeche",
+    "city": "Campeche",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "latitude": 19.85,
+    "longitude": -90.53,
+    "gdgUrl": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
+    "devfestName": "DevFest Campeche 2025",
+    "devfestDate": "2025-11-15",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
     "slug": "campinas",
-    "destinationUrl": "https://gdg.community.dev/gdg-campinas/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-campinas-presents-devfest-campinas-2025/",
     "gdgChapter": "GDG Campinas",
     "city": "Campinas",
     "countryName": "Brazil",
@@ -1990,9 +2125,9 @@
     "longitude": -47.08,
     "gdgUrl": "https://gdg.community.dev/gdg-campinas/",
     "devfestName": "DevFest Campinas 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "campobasso",
@@ -2010,8 +2145,23 @@
     "updatedAt": "2025-08-01T23:48:18Z"
   },
   {
+    "slug": "campo-mourao",
+    "destinationUrl": "https://gdg.community.dev/gdg-campo-mourao/",
+    "gdgChapter": "GDG Campo Mourão",
+    "city": "Campo Mourão",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -24.0437988,
+    "longitude": -52.3810674,
+    "gdgUrl": "https://gdg.community.dev/gdg-campo-mourao/",
+    "devfestName": "DevFest Campo Mourão 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "campus-korea",
-    "destinationUrl": "https://gdg.community.dev/gdg-campus-korea/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-2025-devfest-moyeoseo-gagja-kodinghagi-gaebaljaneun-keomiseuro-saljjinda/",
     "gdgChapter": "GDG Campus Korea",
     "city": "Seoul",
     "countryName": "Korea",
@@ -2019,10 +2169,10 @@
     "latitude": 37.56,
     "longitude": 126.99,
     "gdgUrl": "https://gdg.community.dev/gdg-campus-korea/",
-    "devfestName": "DevFest Seoul 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "2025 DevFest: 모(여서) 각(자) 코(딩하기) - 개발자는 커밋으로 살찐다.",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "canakkale",
@@ -2176,7 +2326,7 @@
   },
   {
     "slug": "cebu",
-    "destinationUrl": "https://gdg.community.dev/gdg-cebu/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cebu-presents-devfest-cebu-2025/",
     "gdgChapter": "GDG Cebu",
     "city": "Cebu",
     "countryName": "Philippines",
@@ -2185,9 +2335,9 @@
     "longitude": 123.9,
     "gdgUrl": "https://gdg.community.dev/gdg-cebu/",
     "devfestName": "DevFest Cebu 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-30",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "central-florida",
@@ -2236,7 +2386,7 @@
   },
   {
     "slug": "changji",
-    "destinationUrl": "https://gdg.community.dev/gdg-changji/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-changji-presents-2025chang-ji-devfest/",
     "gdgChapter": "GDG Changji",
     "city": "Changji",
     "countryName": "China",
@@ -2244,10 +2394,10 @@
     "latitude": 44.02,
     "longitude": 87.32,
     "gdgUrl": "https://gdg.community.dev/gdg-changji/",
-    "devfestName": "DevFest Changji 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "2025昌吉DevFest",
+    "devfestDate": "2025-11-02",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "chapel-hill",
@@ -2311,7 +2461,7 @@
   },
   {
     "slug": "chengdu",
-    "destinationUrl": "https://gdg.community.dev/gdg-chengdu/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-chengdu-presents-devfest-kickoff-ignite-your-developer-journey/",
     "gdgChapter": "GDG Chengdu",
     "city": "Chengdu",
     "countryName": "China",
@@ -2319,10 +2469,10 @@
     "latitude": 30.67,
     "longitude": 104.07,
     "gdgUrl": "https://gdg.community.dev/gdg-chengdu/",
-    "devfestName": "DevFest Chengdu 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Kickoff: Ignite Your Developer Journey",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "chennai",
@@ -2401,7 +2551,7 @@
   },
   {
     "slug": "chimbote",
-    "destinationUrl": "https://gdg.community.dev/gdg-chimbote/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-chimbote-presents-devfest-chimbote-2025/",
     "gdgChapter": "GDG Chimbote",
     "city": "Chimbote",
     "countryName": "Peru",
@@ -2410,13 +2560,13 @@
     "longitude": -78.6,
     "gdgUrl": "https://gdg.community.dev/gdg-chimbote/",
     "devfestName": "DevFest Chimbote 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "choluteca",
-    "destinationUrl": "https://gdg.community.dev/gdg-choluteca/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-choluteca-presents-devfest-choluteca-2025/",
     "gdgChapter": "GDG Choluteca",
     "city": "Choluteca",
     "countryName": "Honduras",
@@ -2425,9 +2575,9 @@
     "longitude": -87.1928505,
     "gdgUrl": "https://gdg.community.dev/gdg-choluteca/",
     "devfestName": "DevFest Choluteca 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "chongqing",
@@ -2670,6 +2820,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "corupa",
+    "destinationUrl": "https://gdg.community.dev/gdg-corupa/",
+    "gdgChapter": "GDG Corupá",
+    "city": "Corupá",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -26.4279149,
+    "longitude": -49.2398122,
+    "gdgUrl": "https://gdg.community.dev/gdg-corupa/",
+    "devfestName": "DevFest Corupá 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "cotonou",
     "destinationUrl": "https://gdg.community.dev/gdg-cotonou/",
     "gdgChapter": "GDG Cotonou",
@@ -2686,7 +2851,7 @@
   },
   {
     "slug": "cucuta",
-    "destinationUrl": "https://gdg.community.dev/gdg-cucuta/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cucuta-presents-devfest-santanderes-2025-extended-version-como-usar-gemini-como-copiloto-en-decisiones-basadas-en-datos-con-silvercorp/",
     "gdgChapter": "GDG Cúcuta",
     "city": "Cúcuta",
     "countryName": "Colombia",
@@ -2694,14 +2859,14 @@
     "latitude": 7.8890971,
     "longitude": -72.4966896,
     "gdgUrl": "https://gdg.community.dev/gdg-cucuta/",
-    "devfestName": "DevFest Cúcuta 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Santanderes 2025 (Extended version) | Cómo usar Gemini como copiloto en decisiones basadas en datos con @silvercorp",
+    "devfestDate": "2025-11-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "cuenca",
-    "destinationUrl": "https://gdg.community.dev/gdg-cuenca/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cuenca-presents-road-to-devfest-ecuador-2025-cuenca-edition/",
     "gdgChapter": "GDG Cuenca",
     "city": "Cuenca",
     "countryName": "Ecuador",
@@ -2709,10 +2874,10 @@
     "latitude": -2.9001285,
     "longitude": -79.0058965,
     "gdgUrl": "https://gdg.community.dev/gdg-cuenca/",
-    "devfestName": "DevFest Cuenca 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Road to DevFest Ecuador 2025: Cuenca Edition",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "culver-city",
@@ -2731,7 +2896,7 @@
   },
   {
     "slug": "curitiba",
-    "destinationUrl": "https://gdg.community.dev/gdg-curitiba/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-curitiba-presents-devfest-parana-2025-o-maior-encontro-de-tecnologia-do-ano-inscricoes-em-breve/",
     "gdgChapter": "GDG Curitiba",
     "city": "Curitiba",
     "countryName": "Brazil",
@@ -2739,14 +2904,14 @@
     "latitude": -25.42,
     "longitude": -49.29,
     "gdgUrl": "https://gdg.community.dev/gdg-curitiba/",
-    "devfestName": "DevFest Curitiba 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Paraná 2025: O Maior Encontro de Tecnologia do Ano ( Inscrições em breve)",
+    "devfestDate": "2025-11-16",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "cyprus",
-    "destinationUrl": "https://gdg.community.dev/gdg-cyprus/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cyprus-presents-devfest-cyprus-2025/",
     "gdgChapter": "GDG Cyprus",
     "city": "Nicosia",
     "countryName": "Cyprus",
@@ -2754,10 +2919,10 @@
     "latitude": 35.16,
     "longitude": 33.38,
     "gdgUrl": "https://gdg.community.dev/gdg-cyprus/",
-    "devfestName": "DevFest Nicosia 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Cyprus 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "daegu",
@@ -2821,7 +2986,7 @@
   },
   {
     "slug": "damanhour",
-    "destinationUrl": "https://gdg.community.dev/gdg-damanhour/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-damanhour-presents-google-devfest-damanhour-2025/",
     "gdgChapter": "GDG Damanhour",
     "city": "Damanhour",
     "countryName": "Egypt",
@@ -2829,10 +2994,10 @@
     "latitude": 31.04,
     "longitude": 30.47,
     "gdgUrl": "https://gdg.community.dev/gdg-damanhour/",
-    "devfestName": "DevFest Damanhour 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google DevFest Damanhour 2025",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "damaturu",
@@ -2941,7 +3106,7 @@
   },
   {
     "slug": "denizli",
-    "destinationUrl": "https://gdg.community.dev/gdg-denizli/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-denizli-presents-devfest-denizli25/",
     "gdgChapter": "GDG Denizli",
     "city": "Denizli",
     "countryName": "Turkey",
@@ -2949,10 +3114,10 @@
     "latitude": 37.78,
     "longitude": 29.08,
     "gdgUrl": "https://gdg.community.dev/gdg-denizli/",
-    "devfestName": "DevFest Denizli 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Denizli'25",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "denver",
@@ -2986,7 +3151,7 @@
   },
   {
     "slug": "detroit",
-    "destinationUrl": "https://gdg.community.dev/gdg-detroit/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-michigan-devfest-2025/",
     "gdgChapter": "GDG Detroit",
     "city": "Detroit",
     "countryName": "United States",
@@ -2994,10 +3159,10 @@
     "latitude": 42.33,
     "longitude": -83.05,
     "gdgUrl": "https://gdg.community.dev/gdg-detroit/",
-    "devfestName": "DevFest Detroit 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Michigan DevFest 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "dhaka",
@@ -3046,7 +3211,7 @@
   },
   {
     "slug": "dongguan",
-    "destinationUrl": "https://gdg.community.dev/gdg-dongguan/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-dongguan-presents-devfest-2025-haikou/",
     "gdgChapter": "GDG Dongguan",
     "city": "Dongguan",
     "countryName": "China",
@@ -3054,14 +3219,14 @@
     "latitude": 23.05,
     "longitude": 113.73,
     "gdgUrl": "https://gdg.community.dev/gdg-dongguan/",
-    "devfestName": "DevFest Dongguan 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Haikou",
+    "devfestDate": "2025-12-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "douala",
-    "destinationUrl": "https://gdg.community.dev/gdg-douala/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-douala-presents-devfest-douala-2025/",
     "gdgChapter": "GDG Douala",
     "city": "Douala",
     "countryName": "Cameroon",
@@ -3069,10 +3234,10 @@
     "latitude": 4.06,
     "longitude": 9.71,
     "gdgUrl": "https://gdg.community.dev/gdg-douala/",
-    "devfestName": "DevFest Douala 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Douala 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "douglas",
@@ -3136,7 +3301,7 @@
   },
   {
     "slug": "dutse",
-    "destinationUrl": "https://gdg.community.dev/gdg-dutse/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-dutse-presents-devfest-dutse-2025-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Dutse",
     "city": "Dutse",
     "countryName": "Nigeria",
@@ -3144,14 +3309,14 @@
     "latitude": 11.8,
     "longitude": 9.33,
     "gdgUrl": "https://gdg.community.dev/gdg-dutse/",
-    "devfestName": "DevFest Dutse 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Dutse 2025: Building Safe, Secure and Scalable Solutions with AI and Cloud.",
+    "devfestDate": "2025-10-17",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "ebolowa",
-    "destinationUrl": "https://gdg.community.dev/gdg-ebolowa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ebolowa-presents-devfest-ebolowa-2025/",
     "gdgChapter": "GDG Ebolowa",
     "city": "Ebolowa",
     "countryName": "Cameroon",
@@ -3160,13 +3325,13 @@
     "longitude": 11.14,
     "gdgUrl": "https://gdg.community.dev/gdg-ebolowa/",
     "devfestName": "DevFest Ebolowa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "edinburgh",
-    "destinationUrl": "https://gdg.community.dev/gdg-edinburgh/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-edinburgh-presents-devfest-scotland-2025/",
     "gdgChapter": "GDG Edinburgh",
     "city": "Edinburgh",
     "countryName": "United Kingdom",
@@ -3174,10 +3339,10 @@
     "latitude": 55.95,
     "longitude": -3.2,
     "gdgUrl": "https://gdg.community.dev/gdg-edinburgh/",
-    "devfestName": "DevFest Edinburgh 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Scotland 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "edirne",
@@ -3226,7 +3391,7 @@
   },
   {
     "slug": "eket",
-    "destinationUrl": "https://gdg.community.dev/gdg-eket/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-eket-presents-devfest-eket-2025-building-safe-secure-amp-scalable-solutions/",
     "gdgChapter": "GDG Eket",
     "city": "Eket",
     "countryName": "Nigeria",
@@ -3234,14 +3399,14 @@
     "latitude": 4.63,
     "longitude": 7.93,
     "gdgUrl": "https://gdg.community.dev/gdg-eket/",
-    "devfestName": "DevFest Eket 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Eket 2025: Building Safe, Secure & Scalable Solutions",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "el-alto",
-    "destinationUrl": "https://gdg.community.dev/gdg-el-alto/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-el-alto-presents-devfest-el-alto-2025/",
     "gdgChapter": "GDG El Alto",
     "city": "El Alto",
     "countryName": "Bolivia",
@@ -3250,24 +3415,9 @@
     "longitude": -68.2081896,
     "gdgUrl": "https://gdg.community.dev/gdg-el-alto/",
     "devfestName": "DevFest El Alto 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
-    "slug": "el-jadida",
-    "destinationUrl": "https://gdg.community.dev/gdg-el-jadida/",
-    "gdgChapter": "GDG El Jadida",
-    "city": "El Jadida",
-    "countryName": "Morocco",
-    "countryCode": "MA",
-    "latitude": 33.2316326,
-    "longitude": -8.5007116,
-    "gdgUrl": "https://gdg.community.dev/gdg-el-jadida/",
-    "devfestName": "DevFest El Jadida 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "elazig",
@@ -3300,8 +3450,38 @@
     "updatedAt": "2025-10-03T07:10:18Z"
   },
   {
+    "slug": "el-jadida",
+    "destinationUrl": "https://gdg.community.dev/gdg-el-jadida/",
+    "gdgChapter": "GDG El Jadida",
+    "city": "El Jadida",
+    "countryName": "Morocco",
+    "countryCode": "MA",
+    "latitude": 33.2316326,
+    "longitude": -8.5007116,
+    "gdgUrl": "https://gdg.community.dev/gdg-el-jadida/",
+    "devfestName": "DevFest El Jadida 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "el-paso",
+    "destinationUrl": "https://gdg.community.dev/gdg-el-paso/",
+    "gdgChapter": "GDG El Paso",
+    "city": "El Paso",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 31.7618778,
+    "longitude": -106.4850217,
+    "gdgUrl": "https://gdg.community.dev/gdg-el-paso/",
+    "devfestName": "DevFest El Paso 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "encarnacion",
-    "destinationUrl": "https://gdg.community.dev/gdg-encarnacion/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-encarnacion-presents-devfest-2025-celebration/",
     "gdgChapter": "GDG Encarnacion",
     "city": "Encarnacion",
     "countryName": "Paraguay",
@@ -3309,10 +3489,10 @@
     "latitude": -27.2522918,
     "longitude": -55.9135867,
     "gdgUrl": "https://gdg.community.dev/gdg-encarnacion/",
-    "devfestName": "DevFest Encarnacion 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 2025 Celebration",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "enugu",
@@ -3346,7 +3526,7 @@
   },
   {
     "slug": "eskisehir",
-    "destinationUrl": "https://gdg.community.dev/gdg-eskisehir/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-eskisehir-presents-devfest-eskisehir-2025/",
     "gdgChapter": "GDG Eskişehir",
     "city": "Eskisehir",
     "countryName": "Turkey",
@@ -3354,14 +3534,14 @@
     "latitude": 39.79,
     "longitude": 30.52,
     "gdgUrl": "https://gdg.community.dev/gdg-eskisehir/",
-    "devfestName": "DevFest Eskisehir 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Eskişehir 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "evora",
-    "destinationUrl": "https://gdg.community.dev/gdg-evora/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-evora-presents-devfest-evora-alentejo-1/",
     "gdgChapter": "GDG Évora",
     "city": "Evora",
     "countryName": "Portugal",
@@ -3369,10 +3549,10 @@
     "latitude": 38.571431,
     "longitude": -7.913502,
     "gdgUrl": "https://gdg.community.dev/gdg-evora/",
-    "devfestName": "DevFest Evora 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest  Évora-Alentejo",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "faro",
@@ -3466,7 +3646,7 @@
   },
   {
     "slug": "fuzhou",
-    "destinationUrl": "https://gdg.community.dev/gdg-fuzhou/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-fuzhou-presents-aiqu-dong-an-quan-gao-xiao-de-ying-yong-luo-di/",
     "gdgChapter": "GDG Fuzhou",
     "city": "Fuzhou",
     "countryName": "China",
@@ -3474,14 +3654,14 @@
     "latitude": 26.08,
     "longitude": 119.3,
     "gdgUrl": "https://gdg.community.dev/gdg-fuzhou/",
-    "devfestName": "DevFest Fuzhou 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "AI驱动安全高效的应用落地",
+    "devfestDate": "2025-11-23",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "gabes",
-    "destinationUrl": "https://gdg.community.dev/gdg-gabes/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-gabes-presents-devfest-gabes-2025/",
     "gdgChapter": "GDG Gabes",
     "city": "Gabes",
     "countryName": "Tunisia",
@@ -3490,9 +3670,9 @@
     "longitude": 10.0975221,
     "gdgUrl": "https://gdg.community.dev/gdg-gabes/",
     "devfestName": "DevFest Gabes 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "gaborone",
@@ -3526,7 +3706,7 @@
   },
   {
     "slug": "gandhinagar",
-    "destinationUrl": "https://gdg.community.dev/gdg-gandhinagar/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-gandhinagar-presents-devfest-gandhinagar-1/",
     "gdgChapter": "GDG Gandhinagar",
     "city": "Gandhinagar",
     "countryName": "India",
@@ -3534,10 +3714,10 @@
     "latitude": 23.3,
     "longitude": 72.63,
     "gdgUrl": "https://gdg.community.dev/gdg-gandhinagar/",
-    "devfestName": "DevFest Gandhinagar 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Gandhinagar",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "ganzhou",
@@ -3555,8 +3735,23 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "garanhuns",
+    "destinationUrl": "https://gdg.community.dev/gdg-garanhuns/",
+    "gdgChapter": "GDG Garanhuns",
+    "city": "Garanhuns",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -8.8908765,
+    "longitude": -36.4964613,
+    "gdgUrl": "https://gdg.community.dev/gdg-garanhuns/",
+    "devfestName": "DevFest Garanhuns 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "garoua",
-    "destinationUrl": "https://gdg.community.dev/gdg-garoua/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-garoua-presents-devfest-garoua-2025-ignite-innovation-stimuler-linnovation/",
     "gdgChapter": "GDG Garoua",
     "city": "Garoua",
     "countryName": "Cameroon",
@@ -3564,10 +3759,10 @@
     "latitude": 9.3226016,
     "longitude": 13.393389,
     "gdgUrl": "https://gdg.community.dev/gdg-garoua/",
-    "devfestName": "DevFest Garoua 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Garoua 2025: Ignite Innovation (Stimuler l'innovation)",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "gaza",
@@ -3586,7 +3781,7 @@
   },
   {
     "slug": "gaziantep",
-    "destinationUrl": "https://gdg.community.dev/gdg-gaziantep/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-gaziantep-presents-devfest-gaziantep-2025/",
     "gdgChapter": "GDG Gaziantep",
     "city": "Gaziantep",
     "countryName": "Turkey",
@@ -3594,10 +3789,10 @@
     "latitude": 37.065953,
     "longitude": 37.37811,
     "gdgUrl": "https://gdg.community.dev/gdg-gaziantep/",
-    "devfestName": "DevFest Gaziantep 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Gaziantep 2025",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "gdansk",
@@ -3645,21 +3840,6 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
-    "slug": "george-town",
-    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-devfest-george-town-2025-1/",
-    "gdgChapter": "GDG George Town",
-    "city": "Georgetown",
-    "countryName": "Malaysia",
-    "countryCode": "MY",
-    "latitude": 5.37,
-    "longitude": 100.31,
-    "gdgUrl": "https://gdg.community.dev/gdg-george-town/",
-    "devfestName": "DevFest George Town 2025",
-    "devfestDate": "2025-12-13",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-09-22T06:43:09Z"
-  },
-  {
     "slug": "georgetown",
     "destinationUrl": "https://gdg.community.dev/gdg-georgetown/",
     "gdgChapter": "GDG Georgetown",
@@ -3673,6 +3853,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "george-town",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-devfest-george-town-2025-1/",
+    "gdgChapter": "GDG George Town",
+    "city": "Georgetown",
+    "countryName": "Malaysia",
+    "countryCode": "MY",
+    "latitude": 5.37,
+    "longitude": 100.31,
+    "gdgUrl": "https://gdg.community.dev/gdg-george-town/",
+    "devfestName": "DevFest George Town 2025",
+    "devfestDate": "2025-12-13",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-09-22T06:43:09Z"
   },
   {
     "slug": "ghardaia",
@@ -3691,7 +3886,7 @@
   },
   {
     "slug": "girona",
-    "destinationUrl": "https://gdg.community.dev/gdg-girona/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-girona-presents-dev-fest-girona/",
     "gdgChapter": "GDG Girona",
     "city": "Girona",
     "countryName": "Spain",
@@ -3699,10 +3894,10 @@
     "latitude": 41.98,
     "longitude": 2.81,
     "gdgUrl": "https://gdg.community.dev/gdg-girona/",
-    "devfestName": "DevFest Girona 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Dev-Fest Girona",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "glasgow",
@@ -3736,7 +3931,7 @@
   },
   {
     "slug": "goiania",
-    "destinationUrl": "https://gdg.community.dev/gdg-goiania/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-goiania-presents-devfest-cerrado/",
     "gdgChapter": "GDG Goiânia",
     "city": "Goiania",
     "countryName": "Brazil",
@@ -3744,10 +3939,10 @@
     "latitude": -16.72,
     "longitude": -49.26,
     "gdgUrl": "https://gdg.community.dev/gdg-goiania/",
-    "devfestName": "DevFest Goiania 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Cerrado",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "golang-korea",
@@ -3825,8 +4020,23 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "greater-kwansai",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-devfest-2025-in-kwansai/",
+    "gdgChapter": "GDG Greater Kwansai",
+    "city": "Kobe",
+    "countryName": "Japan",
+    "countryCode": "JP",
+    "latitude": 34.6900806,
+    "longitude": 135.1956311,
+    "gdgUrl": "https://gdg.community.dev/gdg-greater-kwansai/",
+    "devfestName": "DevFest 2025 in Kwansai",
+    "devfestDate": "2025-10-18",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
     "slug": "guadalajara",
-    "destinationUrl": "https://gdg.community.dev/gdg-guadalajara/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-guadalajara-presents-devfest-2025-kickoff-in-guadalajara/",
     "gdgChapter": "GDG Guadalajara",
     "city": "Guadalajara",
     "countryName": "Mexico",
@@ -3834,14 +4044,14 @@
     "latitude": 20.6751707,
     "longitude": -103.3473385,
     "gdgUrl": "https://gdg.community.dev/gdg-guadalajara/",
-    "devfestName": "DevFest Guadalajara 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 2025 Kickoff in Guadalajara",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "guangzhou",
-    "destinationUrl": "https://gdg.community.dev/gdg-guangzhou/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-guangzhou-presents-google-devfest-2025-yan-zhou-ke-ji-jia-nian-hua/",
     "gdgChapter": "GDG Guangzhou",
     "city": "Guangzhou",
     "countryName": "China",
@@ -3849,10 +4059,10 @@
     "latitude": 23.12,
     "longitude": 113.25,
     "gdgUrl": "https://gdg.community.dev/gdg-guangzhou/",
-    "devfestName": "DevFest Guangzhou 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google DevFest 2025 广州科技嘉年华",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "guatemala",
@@ -3885,6 +4095,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "gurjaani",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-gurjaani-presents-devfest-gurjaani/",
+    "gdgChapter": "GDG Gurjaani",
+    "city": "Gurdżaani",
+    "countryName": "Georgia",
+    "countryCode": "GE",
+    "latitude": 41.7438812,
+    "longitude": 45.7893806,
+    "gdgUrl": "https://gdg.community.dev/gdg-gurjaani/",
+    "devfestName": "DevFest Gurjaani",
+    "devfestDate": "2025-10-25",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
     "slug": "gurugram",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-gurugram-presents-devfest-gurugram-2025-build-connect-and-grow/",
     "gdgChapter": "GDG Gurugram",
@@ -3900,8 +4125,23 @@
     "updatedAt": "2025-08-26T12:58:05Z"
   },
   {
+    "slug": "guzelyurt",
+    "destinationUrl": "https://gdg.community.dev/gdg-guzelyurt/",
+    "gdgChapter": "GDG Güzelyurt",
+    "city": "Güzelyurt",
+    "countryName": "Turkey",
+    "countryCode": "TR",
+    "latitude": 35.2123165,
+    "longitude": 32.9775675,
+    "gdgUrl": "https://gdg.community.dev/gdg-guzelyurt/",
+    "devfestName": "DevFest Güzelyurt 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "gwagwalada",
-    "destinationUrl": "https://gdg.community.dev/gdg-gwagwalada/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-gwagwalada-presents-devfest-abuja-2025/",
     "gdgChapter": "GDG Gwagwalada",
     "city": "Gwagwalada",
     "countryName": "Nigeria",
@@ -3909,10 +4149,10 @@
     "latitude": 8.95,
     "longitude": 7.1,
     "gdgUrl": "https://gdg.community.dev/gdg-gwagwalada/",
-    "devfestName": "DevFest Gwagwalada 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Abuja 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "gwalior",
@@ -3925,21 +4165,6 @@
     "longitude": 78.17,
     "gdgUrl": "https://gdg.community.dev/gdg-gwalior/",
     "devfestName": "DevFest Gwalior 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
-    "slug": "ha-noi",
-    "destinationUrl": "https://gdg.community.dev/gdg-ha-noi/",
-    "gdgChapter": "GDG Ha Noi",
-    "city": "Hanoi",
-    "countryName": "Viet Nam",
-    "countryCode": "VN",
-    "latitude": 21.0277644,
-    "longitude": 105.8341598,
-    "gdgUrl": "https://gdg.community.dev/gdg-ha-noi/",
-    "devfestName": "DevFest Hanoi 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
@@ -3990,6 +4215,21 @@
     "updatedAt": "2025-08-01T03:58:13Z"
   },
   {
+    "slug": "hamilton",
+    "destinationUrl": "https://gdg.community.dev/gdg-hamilton/",
+    "gdgChapter": "GDG Hamilton",
+    "city": "Hamilton",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "latitude": 43.2557206,
+    "longitude": -79.8711024,
+    "gdgUrl": "https://gdg.community.dev/gdg-hamilton/",
+    "devfestName": "DevFest Hamilton 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "hangzhou",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-hangzhou-presents-google-devfest-2025-hangzhou/",
     "gdgChapter": "GDG Hangzhou",
@@ -4015,6 +4255,21 @@
     "longitude": 9.73,
     "gdgUrl": "https://gdg.community.dev/gdg-hannover/",
     "devfestName": "DevFest Hanover 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "ha-noi",
+    "destinationUrl": "https://gdg.community.dev/gdg-ha-noi/",
+    "gdgChapter": "GDG Ha Noi",
+    "city": "Hanoi",
+    "countryName": "Viet Nam",
+    "countryCode": "VN",
+    "latitude": 21.0277644,
+    "longitude": 105.8341598,
+    "gdgUrl": "https://gdg.community.dev/gdg-ha-noi/",
+    "devfestName": "DevFest Hanoi 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
@@ -4125,21 +4380,6 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
-    "slug": "ho-chi-minh-city",
-    "destinationUrl": "https://gdg.community.dev/gdg-ho-chi-minh-city/",
-    "gdgChapter": "GDG Ho Chi Minh City",
-    "city": "Ho Chi Minh City",
-    "countryName": "Viet Nam",
-    "countryCode": "VN",
-    "latitude": 10.82,
-    "longitude": 106.63,
-    "gdgUrl": "https://gdg.community.dev/gdg-ho-chi-minh-city/",
-    "devfestName": "DevFest Ho Chi Minh City 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
     "slug": "hobart",
     "destinationUrl": "https://gdg.community.dev/gdg-hobart/",
     "gdgChapter": "GDG Hobart",
@@ -4170,6 +4410,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "ho-chi-minh-city",
+    "destinationUrl": "https://gdg.community.dev/gdg-ho-chi-minh-city/",
+    "gdgChapter": "GDG Ho Chi Minh City",
+    "city": "Ho Chi Minh City",
+    "countryName": "Viet Nam",
+    "countryCode": "VN",
+    "latitude": 10.82,
+    "longitude": 106.63,
+    "gdgUrl": "https://gdg.community.dev/gdg-ho-chi-minh-city/",
+    "devfestName": "DevFest Ho Chi Minh City 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
     "slug": "hong-kong",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-hong-kong-presents-devfest-2025-hong-kong/cohost-gdg-hong-kong",
     "gdgChapter": "GDG Hong Kong",
@@ -4186,7 +4441,7 @@
   },
   {
     "slug": "huancayo",
-    "destinationUrl": "https://gdg.community.dev/gdg-huancayo/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-hyo-2025/",
     "gdgChapter": "GDG Huancayo",
     "city": "Huancayo",
     "countryName": "Peru",
@@ -4194,10 +4449,10 @@
     "latitude": -12.0686357,
     "longitude": -75.2102976,
     "gdgUrl": "https://gdg.community.dev/gdg-huancayo/",
-    "devfestName": "DevFest Huancayo 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest HYO 2025",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "hubli",
@@ -4276,7 +4531,7 @@
   },
   {
     "slug": "ibanda",
-    "destinationUrl": "https://gdg.community.dev/gdg-kivu/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kivu-presents-devfest-kivu-2025/",
     "gdgChapter": "GDG Kivu",
     "city": "Ibanda",
     "countryName": "Congo",
@@ -4284,14 +4539,14 @@
     "latitude": -2.216667,
     "longitude": 17.033333,
     "gdgUrl": "https://gdg.community.dev/gdg-kivu/",
-    "devfestName": "DevFest Ibanda 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Kivu 2025",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "ica",
-    "destinationUrl": "https://gdg.community.dev/gdg-ica/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2025/",
     "gdgChapter": "GDG Ica",
     "city": "Ica",
     "countryName": "Peru",
@@ -4300,13 +4555,13 @@
     "longitude": -75.75,
     "gdgUrl": "https://gdg.community.dev/gdg-ica/",
     "devfestName": "DevFest Ica 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "ikot-ekpene",
-    "destinationUrl": "https://gdg.community.dev/gdg-ikot-ekpene/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ikot-ekpene-presents-devfest-ikot-ekpene-2025-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Ikot-Ekpene",
     "city": "Ikot Ekpene",
     "countryName": "Nigeria",
@@ -4314,10 +4569,25 @@
     "latitude": 5.1744472,
     "longitude": 7.7145152,
     "gdgUrl": "https://gdg.community.dev/gdg-ikot-ekpene/",
-    "devfestName": "DevFest Ikot Ekpene 2025",
+    "devfestName": "DevFest Ikot-Ekpene 2025: Building Safe, Secure and Scalable Solutions with AI and Cloud.",
+    "devfestDate": "2025-11-22",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
+    "slug": "ilhabela",
+    "destinationUrl": "https://gdg.community.dev/gdg-ilhabela/",
+    "gdgChapter": "GDG Ilhabela",
+    "city": "Ilhabela",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -23.8165908,
+    "longitude": -45.3667925,
+    "gdgUrl": "https://gdg.community.dev/gdg-ilhabela/",
+    "devfestName": "DevFest Ilhabela 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "ilorin",
@@ -4426,7 +4696,7 @@
   },
   {
     "slug": "ismailia",
-    "destinationUrl": "https://gdg.community.dev/gdg-ismailia/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-ismailia-2025/",
     "gdgChapter": "GDG Ismailia",
     "city": "Ismailia",
     "countryName": "Egypt",
@@ -4435,9 +4705,9 @@
     "longitude": 32.27,
     "gdgUrl": "https://gdg.community.dev/gdg-ismailia/",
     "devfestName": "DevFest Ismailia 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "istanbul",
@@ -4590,6 +4860,21 @@
     "updatedAt": "2025-10-02T10:05:44Z"
   },
   {
+    "slug": "jeddah",
+    "destinationUrl": "https://gdg.community.dev/gdg-jeddah/",
+    "gdgChapter": "GDG Jeddah",
+    "city": "Jeddah",
+    "countryName": "Saudi Arabia",
+    "countryCode": "SA",
+    "latitude": 21.5,
+    "longitude": 39.17,
+    "gdgUrl": "https://gdg.community.dev/gdg-jeddah/",
+    "devfestName": "DevFest Jeddah 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "jeju",
     "destinationUrl": "https://gdg.community.dev/gdg-jeju/",
     "gdgChapter": "GDG Jeju",
@@ -4725,6 +5010,36 @@
     "updatedAt": "2025-06-05T07:45:36Z"
   },
   {
+    "slug": "juba",
+    "destinationUrl": "https://gdg.community.dev/gdg-juba/",
+    "gdgChapter": "GDG Juba",
+    "city": "Juba",
+    "countryName": "South Sudan",
+    "countryCode": "SS",
+    "latitude": 4.85,
+    "longitude": 31.6,
+    "gdgUrl": "https://gdg.community.dev/gdg-juba/",
+    "devfestName": "DevFest Juba 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
+    "slug": "juiz-de-fora",
+    "destinationUrl": "https://gdg.community.dev/gdg-juiz-de-fora/",
+    "gdgChapter": "GDG Juiz de Fora",
+    "city": "Juiz de Fora",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -21.75,
+    "longitude": -43.36,
+    "gdgUrl": "https://gdg.community.dev/gdg-juiz-de-fora/",
+    "devfestName": "DevFest Juiz de Fora 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "kaduna-city",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kaduna-city-presents-devfest-kaduna-2025/cohost-gdg-kaduna-city",
     "gdgChapter": "GDG Kaduna City",
@@ -4771,7 +5086,7 @@
   },
   {
     "slug": "kano",
-    "destinationUrl": "https://gdg.community.dev/gdg-kano/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kano-presents-devfest-kano-2025/",
     "gdgChapter": "GDG Kano",
     "city": "Kano",
     "countryName": "Nigeria",
@@ -4780,9 +5095,9 @@
     "longitude": 8.52,
     "gdgUrl": "https://gdg.community.dev/gdg-kano/",
     "devfestName": "DevFest Kano 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-02",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "kanpur",
@@ -4801,7 +5116,7 @@
   },
   {
     "slug": "kansas-city",
-    "destinationUrl": "https://gdg.community.dev/gdg-kansas-city/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kansas-city-presents-devfest-kc-2025/",
     "gdgChapter": "GDG Kansas City",
     "city": "Kansas City",
     "countryName": "United States",
@@ -4809,14 +5124,14 @@
     "latitude": 39.06,
     "longitude": -94.59,
     "gdgUrl": "https://gdg.community.dev/gdg-kansas-city/",
-    "devfestName": "DevFest Kansas City 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest KC 2025",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "kaohsiung",
-    "destinationUrl": "https://gdg.community.dev/gdg-kaohsiung/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-devfest-kaohsiung-x-s-tw-communities-gathering-2025/",
     "gdgChapter": "GDG Kaohsiung",
     "city": "Kaohsiung",
     "countryName": "Taiwan",
@@ -4824,10 +5139,10 @@
     "latitude": 22.63,
     "longitude": 120.27,
     "gdgUrl": "https://gdg.community.dev/gdg-kaohsiung/",
-    "devfestName": "DevFest Kaohsiung 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Kaohsiung X S. TW Communities Gathering 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "karlsruhe",
@@ -4846,7 +5161,7 @@
   },
   {
     "slug": "kastamonu",
-    "destinationUrl": "https://gdg.community.dev/gdg-kastamonu/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kastamonu-presents-devfest25-kastamonu/",
     "gdgChapter": "GDG Kastamonu",
     "city": "Kastamonu",
     "countryName": "Turkey",
@@ -4854,10 +5169,10 @@
     "latitude": 41.376625,
     "longitude": 33.776497,
     "gdgUrl": "https://gdg.community.dev/gdg-kastamonu/",
-    "devfestName": "DevFest Kastamonu 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest'25 Kastamonu",
+    "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "kathmandu",
@@ -4891,7 +5206,7 @@
   },
   {
     "slug": "kayseri",
-    "destinationUrl": "https://gdg.community.dev/gdg-kayseri/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kayseri-presents-devfest25-kayseri/",
     "gdgChapter": "GDG Kayseri",
     "city": "Kayseri",
     "countryName": "Turkey",
@@ -4899,10 +5214,10 @@
     "latitude": 38.74,
     "longitude": 35.48,
     "gdgUrl": "https://gdg.community.dev/gdg-kayseri/",
-    "devfestName": "DevFest Kayseri 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest'25 Kayseri",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "keffi",
@@ -4966,7 +5281,7 @@
   },
   {
     "slug": "khartoum",
-    "destinationUrl": "https://gdg.community.dev/gdg-khartoum/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-khartoum-presents-devfest-khartoum-2025/",
     "gdgChapter": "GDG Khartoum",
     "city": "Khartoum",
     "countryName": "Sudan",
@@ -4975,13 +5290,13 @@
     "longitude": 32.5598994,
     "gdgUrl": "https://gdg.community.dev/gdg-khartoum/",
     "devfestName": "DevFest Khartoum 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-23",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "khujand",
-    "destinationUrl": "https://gdg.community.dev/gdg-khujand/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-khujand-presents-devfest-khujand-2025/",
     "gdgChapter": "GDG Khujand",
     "city": "Khujand",
     "countryName": "Tajikistan",
@@ -4990,9 +5305,9 @@
     "longitude": 69.6392354,
     "gdgUrl": "https://gdg.community.dev/gdg-khujand/",
     "devfestName": "DevFest Khujand 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "kigali",
@@ -5011,7 +5326,7 @@
   },
   {
     "slug": "kinshasa",
-    "destinationUrl": "https://gdg.community.dev/gdg-kinshasa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kinshasa-presents-devfest-2025-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Kinshasa",
     "city": "Kinshasa",
     "countryName": "Congo",
@@ -5019,10 +5334,10 @@
     "latitude": -4.4419311,
     "longitude": 15.2662931,
     "gdgUrl": "https://gdg.community.dev/gdg-kinshasa/",
-    "devfestName": "DevFest Kinshasa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025: Building Safe, Secure and Scalable Solutions with AI and Cloud.",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "kirklareli",
@@ -5086,7 +5401,7 @@
   },
   {
     "slug": "kocaeli",
-    "destinationUrl": "https://gdg.community.dev/gdg-kocaeli/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kocaeli-presents-devfest25-kocaeli/",
     "gdgChapter": "GDG Kocaeli",
     "city": "Izmit",
     "countryName": "Turkey",
@@ -5094,10 +5409,25 @@
     "latitude": 40.77,
     "longitude": 29.93,
     "gdgUrl": "https://gdg.community.dev/gdg-kocaeli/",
-    "devfestName": "DevFest Izmit 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest'25 Kocaeli",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
+    "slug": "kokshetau",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kokshetau-presents-devfest-kokshetau/",
+    "gdgChapter": "GDG Kokshetau",
+    "city": "Kokshetau",
+    "countryName": "Kazakhstan",
+    "countryCode": "KZ",
+    "latitude": 53.2871307,
+    "longitude": 69.4044494,
+    "gdgUrl": "https://gdg.community.dev/gdg-kokshetau/",
+    "devfestName": "DevFest Kokshetau",
+    "devfestDate": "2025-10-10",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "kolachi",
@@ -5221,7 +5551,7 @@
   },
   {
     "slug": "kumasi",
-    "destinationUrl": "https://gdg.community.dev/gdg-kumasi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kumasi-presents-devfest-kumasi-2025/",
     "gdgChapter": "GDG KUMASI",
     "city": "Kumasi",
     "countryName": "Ghana",
@@ -5230,13 +5560,13 @@
     "longitude": -1.63,
     "gdgUrl": "https://gdg.community.dev/gdg-kumasi/",
     "devfestName": "DevFest Kumasi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "kutahya",
-    "destinationUrl": "https://gdg.community.dev/gdg-kutahya/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kutahya-presents-kutahya-devfest25/",
     "gdgChapter": "GDG Kütahya",
     "city": "Kütahya",
     "countryName": "Turkey",
@@ -5244,10 +5574,10 @@
     "latitude": 39.42,
     "longitude": 29.98,
     "gdgUrl": "https://gdg.community.dev/gdg-kutahya/",
-    "devfestName": "DevFest Kütahya 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Kütahya Devfest'25",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "kutaisi",
@@ -5325,53 +5655,8 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
-    "slug": "la-pampa",
-    "destinationUrl": "https://gdg.community.dev/gdg-la-pampa/",
-    "gdgChapter": "GDG La Pampa",
-    "city": "Ciudad de Santa Rosa",
-    "countryName": "Argentina",
-    "countryCode": "AR",
-    "latitude": -36.620922,
-    "longitude": -64.2912369,
-    "gdgUrl": "https://gdg.community.dev/gdg-la-pampa/",
-    "devfestName": "DevFest Ciudad de Santa Rosa 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
-    "slug": "la-paz",
-    "destinationUrl": "https://gdg.community.dev/gdg-la-paz/",
-    "gdgChapter": "GDG La Paz",
-    "city": "La Paz",
-    "countryName": "Bolivia",
-    "countryCode": "BO",
-    "latitude": -16.5,
-    "longitude": -68.15,
-    "gdgUrl": "https://gdg.community.dev/gdg-la-paz/",
-    "devfestName": "DevFest La Paz 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
-    "slug": "la-rioja",
-    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-la-rioja-presents-devfest-2025-innovate-and-inspire-in-la-rioja-coderioja/",
-    "gdgChapter": "GDG La Rioja",
-    "city": "La Rioja",
-    "countryName": "Spain",
-    "countryCode": "ES",
-    "latitude": 42.47,
-    "longitude": -2.44,
-    "gdgUrl": "https://gdg.community.dev/gdg-la-rioja/",
-    "devfestName": "DevFest 2025: Innovate and Inspire in La Rioja. [CodeRioja]",
-    "devfestDate": "2025-10-25",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-08-01T23:33:24Z"
-  },
-  {
     "slug": "lafia",
-    "destinationUrl": "https://gdg.community.dev/gdg-lafia/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lafia-presents-devfest-lafia/",
     "gdgChapter": "GDG Lafia",
     "city": "Lafia",
     "countryName": "Nigeria",
@@ -5379,14 +5664,14 @@
     "latitude": 8.49,
     "longitude": 8.52,
     "gdgUrl": "https://gdg.community.dev/gdg-lafia/",
-    "devfestName": "DevFest Lafia 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Lafia",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "lagos",
-    "destinationUrl": "https://gdg.community.dev/gdg-lagos/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lagos-presents-devfest-2025-ai-from-theory-to-action/",
     "gdgChapter": "GDG Lagos",
     "city": "Lagos",
     "countryName": "Nigeria",
@@ -5394,10 +5679,10 @@
     "latitude": 6.45,
     "longitude": 3.47,
     "gdgUrl": "https://gdg.community.dev/gdg-lagos/",
-    "devfestName": "DevFest Lagos 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 - AI: From Theory to Action",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "lahore",
@@ -5430,6 +5715,66 @@
     "updatedAt": "2025-09-20T06:20:22Z"
   },
   {
+    "slug": "la-pampa",
+    "destinationUrl": "https://gdg.community.dev/gdg-la-pampa/",
+    "gdgChapter": "GDG La Pampa",
+    "city": "Ciudad de Santa Rosa",
+    "countryName": "Argentina",
+    "countryCode": "AR",
+    "latitude": -36.620922,
+    "longitude": -64.2912369,
+    "gdgUrl": "https://gdg.community.dev/gdg-la-pampa/",
+    "devfestName": "DevFest Ciudad de Santa Rosa 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "la-paz",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-la-paz-presents-devfest-la-paz-2025/",
+    "gdgChapter": "GDG La Paz",
+    "city": "La Paz",
+    "countryName": "Bolivia",
+    "countryCode": "BO",
+    "latitude": -16.5,
+    "longitude": -68.15,
+    "gdgUrl": "https://gdg.community.dev/gdg-la-paz/",
+    "devfestName": "Devfest La Paz 2025",
+    "devfestDate": "2025-11-15",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
+    "slug": "la-rioja",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-la-rioja-presents-devfest-2025-innovate-and-inspire-in-la-rioja-coderioja/",
+    "gdgChapter": "GDG La Rioja",
+    "city": "La Rioja",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "latitude": 42.47,
+    "longitude": -2.44,
+    "gdgUrl": "https://gdg.community.dev/gdg-la-rioja/",
+    "devfestName": "DevFest 2025: Innovate and Inspire in La Rioja. [CodeRioja]",
+    "devfestDate": "2025-10-25",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-08-01T23:33:24Z"
+  },
+  {
+    "slug": "las-vegas",
+    "destinationUrl": "https://gdg.community.dev/gdg-las-vegas/",
+    "gdgChapter": "GDG Las Vegas",
+    "city": "Las Vegas",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 36.171563,
+    "longitude": -115.1391009,
+    "gdgUrl": "https://gdg.community.dev/gdg-las-vegas/",
+    "devfestName": "DevFest Las Vegas 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "lauro-de-freitas",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lauro-de-freitas-presents-devfest-lauro-de-freitas-2025/",
     "gdgChapter": "GDG Lauro de Freitas",
@@ -5455,21 +5800,6 @@
     "longitude": -71.16,
     "gdgUrl": "https://gdg.community.dev/gdg-lawrence/",
     "devfestName": "DevFest Lawrence 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
-    "slug": "le-mans",
-    "destinationUrl": "https://gdg.community.dev/gdg-le-mans/",
-    "gdgChapter": "GDG Le Mans",
-    "city": "Le Mans",
-    "countryName": "France",
-    "countryCode": "FR",
-    "latitude": 48,
-    "longitude": 0.2,
-    "gdgUrl": "https://gdg.community.dev/gdg-le-mans/",
-    "devfestName": "DevFest Le Mans 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
@@ -5506,7 +5836,7 @@
   },
   {
     "slug": "leicester",
-    "destinationUrl": "https://gdg.community.dev/gdg-leicester/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-leicester-presents-gdg-leicester-devfest-2025/",
     "gdgChapter": "GDG Leicester",
     "city": "Leicester",
     "countryName": "United Kingdom",
@@ -5514,7 +5844,22 @@
     "latitude": 52.6368778,
     "longitude": -1.1397592,
     "gdgUrl": "https://gdg.community.dev/gdg-leicester/",
-    "devfestName": "DevFest Leicester 2025",
+    "devfestName": "GDG Leicester DevFest 2025",
+    "devfestDate": "2025-10-25",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
+    "slug": "le-mans",
+    "destinationUrl": "https://gdg.community.dev/gdg-le-mans/",
+    "gdgChapter": "GDG Le Mans",
+    "city": "Le Mans",
+    "countryName": "France",
+    "countryCode": "FR",
+    "latitude": 48,
+    "longitude": 0.2,
+    "gdgUrl": "https://gdg.community.dev/gdg-le-mans/",
+    "devfestName": "DevFest Le Mans 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
@@ -5535,8 +5880,23 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "letterkenny",
+    "destinationUrl": "https://gdg.community.dev/gdg-letterkenny/",
+    "gdgChapter": "GDG Letterkenny",
+    "city": "Letterkenny",
+    "countryName": "Ireland",
+    "countryCode": "IE",
+    "latitude": 54.9533201,
+    "longitude": -7.7287972,
+    "gdgUrl": "https://gdg.community.dev/gdg-letterkenny/",
+    "devfestName": "DevFest Letterkenny 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "libreville",
-    "destinationUrl": "https://gdg.community.dev/gdg-libreville/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-libreville-presents-devfest-2025-libreville-construire-des-solutions-sures-securisees-et-scalables-pour-le-gabon-avec-lia-et-le-cloud/",
     "gdgChapter": "GDG Libreville",
     "city": "Libreville",
     "countryName": "Gabon",
@@ -5544,10 +5904,10 @@
     "latitude": 0.39,
     "longitude": 9.45,
     "gdgUrl": "https://gdg.community.dev/gdg-libreville/",
-    "devfestName": "DevFest Libreville 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Libreville: Construire des solutions sûres, sécurisées et scalables pour le Gabon avec l’IA et le Cloud",
+    "devfestDate": "2025-12-20",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "lille",
@@ -5671,7 +6031,7 @@
   },
   {
     "slug": "lleida",
-    "destinationUrl": "https://gdg.community.dev/gdg-lleida/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-devfest-lleida-2025-xii-edicion-conjuntamente-con-ilerna-startup-days/",
     "gdgChapter": "GDG Lleida",
     "city": "Lleida",
     "countryName": "Spain",
@@ -5679,25 +6039,10 @@
     "latitude": 41.62,
     "longitude": 0.63,
     "gdgUrl": "https://gdg.community.dev/gdg-lleida/",
-    "devfestName": "DevFest Lleida 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Lleida 2025, XII edición, conjuntamente con Ilerna Startup Days",
+    "devfestDate": "2025-12-16",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
-    "slug": "łódź",
-    "destinationUrl": "https://gdg.community.dev/gdg-lodz/",
-    "gdgChapter": "GDG Łódź",
-    "city": "Łódź",
-    "countryName": "Poland",
-    "countryCode": "PL",
-    "latitude": 51.7592485,
-    "longitude": 19.4559833,
-    "gdgUrl": "https://gdg.community.dev/gdg-lodz/",
-    "devfestName": "DevFest Łódź 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "lokoja",
@@ -5716,7 +6061,7 @@
   },
   {
     "slug": "lome",
-    "destinationUrl": "https://gdg.community.dev/gdg-lome/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lome-presents-devfest-lome-2025/",
     "gdgChapter": "GDG Lome",
     "city": "Lomé",
     "countryName": "Togo",
@@ -5724,10 +6069,10 @@
     "latitude": 6.1256261,
     "longitude": 1.2254183,
     "gdgUrl": "https://gdg.community.dev/gdg-lome/",
-    "devfestName": "DevFest Lomé 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Lome 2025",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "london",
@@ -6000,8 +6345,23 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "magdeburg",
+    "destinationUrl": "https://gdg.community.dev/gdg-magdeburg/",
+    "gdgChapter": "GDG Magdeburg",
+    "city": "Magdeburg",
+    "countryName": "Germany",
+    "countryCode": "DE",
+    "latitude": 52.1131758,
+    "longitude": 11.6080863,
+    "gdgUrl": "https://gdg.community.dev/gdg-magdeburg/",
+    "devfestName": "DevFest Magdeburg 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "mahon",
-    "destinationUrl": "https://gdg.community.dev/gdg-menorca/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-menorca-presents-devfest-menorca-2025/",
     "gdgChapter": "GDG Menorca",
     "city": "Mahon",
     "countryName": "Spain",
@@ -6009,14 +6369,14 @@
     "latitude": 39.89,
     "longitude": 4.25,
     "gdgUrl": "https://gdg.community.dev/gdg-menorca/",
-    "devfestName": "DevFest Mahon 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Menorca 2025",
+    "devfestDate": "2025-11-14",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "maiduguri",
-    "destinationUrl": "https://gdg.community.dev/gdg-maiduguri/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-maiduguri-presents-devfest-maiduguri-2025/",
     "gdgChapter": "GDG Maiduguri",
     "city": "Maiduguri",
     "countryName": "Nigeria",
@@ -6025,9 +6385,9 @@
     "longitude": 13.16,
     "gdgUrl": "https://gdg.community.dev/gdg-maiduguri/",
     "devfestName": "DevFest Maiduguri 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "makassar",
@@ -6091,7 +6451,7 @@
   },
   {
     "slug": "managua",
-    "destinationUrl": "https://gdg.community.dev/gdg-managua/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-managua-presents-devfest-managua-2025-unleashing-innovation/",
     "gdgChapter": "GDG Managua",
     "city": "Managua",
     "countryName": "Nicaragua",
@@ -6099,10 +6459,10 @@
     "latitude": 12.15,
     "longitude": -86.27,
     "gdgUrl": "https://gdg.community.dev/gdg-managua/",
-    "devfestName": "DevFest Managua 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Managua 2025 - Unleashing Innovation",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "manama",
@@ -6301,7 +6661,7 @@
   },
   {
     "slug": "maseru",
-    "destinationUrl": "https://gdg.community.dev/gdg-maseru/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-maseru-presents-devfest-maseru-2025-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Maseru",
     "city": "Maseru",
     "countryName": "Lesotho",
@@ -6309,10 +6669,10 @@
     "latitude": -29.3150767,
     "longitude": 27.4869229,
     "gdgUrl": "https://gdg.community.dev/gdg-maseru/",
-    "devfestName": "DevFest Maseru 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Maseru 2025:  Building Safe, Secure and Scalable Solutions with AI and Cloud.",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "mauritius",
@@ -6451,7 +6811,7 @@
   },
   {
     "slug": "milano",
-    "destinationUrl": "https://gdg.community.dev/gdg-milano/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-milano-presents-devfest-milano-2025/",
     "gdgChapter": "GDG Milano",
     "city": "Milan",
     "countryName": "Italy",
@@ -6459,10 +6819,10 @@
     "latitude": 45.4642035,
     "longitude": 9.189982,
     "gdgUrl": "https://gdg.community.dev/gdg-milano/",
-    "devfestName": "DevFest Milan 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Milano 2025",
+    "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "minia",
@@ -6600,6 +6960,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "moncton",
+    "destinationUrl": "https://gdg.community.dev/gdg-moncton/",
+    "gdgChapter": "GDG Moncton",
+    "city": "Moncton",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "latitude": 46.0878165,
+    "longitude": -64.7782313,
+    "gdgUrl": "https://gdg.community.dev/gdg-moncton/",
+    "devfestName": "DevFest Moncton 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "mons",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-brussels-presents-devfest-belgium-2025/cohost-gdg-mons",
     "gdgChapter": "GDG Mons",
@@ -6616,7 +6991,7 @@
   },
   {
     "slug": "monterrey",
-    "destinationUrl": "https://gdg.community.dev/gdg-monterrey/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-monterrey-presents-devfest-monterrey-2025/",
     "gdgChapter": "GDG Monterrey",
     "city": "Monterrey",
     "countryName": "Mexico",
@@ -6625,9 +7000,9 @@
     "longitude": -100.3161126,
     "gdgUrl": "https://gdg.community.dev/gdg-monterrey/",
     "devfestName": "DevFest Monterrey 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "montevideo",
@@ -6825,8 +7200,23 @@
     "updatedAt": "2025-08-23T08:18:18Z"
   },
   {
+    "slug": "najaf",
+    "destinationUrl": "https://gdg.community.dev/gdg-najaf/",
+    "gdgChapter": "GDG Najaf",
+    "city": "Najaf",
+    "countryName": "Iraq",
+    "countryCode": "IQ",
+    "latitude": 31.99,
+    "longitude": 44.33,
+    "gdgUrl": "https://gdg.community.dev/gdg-najaf/",
+    "devfestName": "DevFest Najaf 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "nanjing",
-    "destinationUrl": "https://gdg.community.dev/gdg-nanjing/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-nanjing-presents-devfest-2025-a-surprise-journey-into-ai-and-agents/",
     "gdgChapter": "GDG Nanjing",
     "city": "Nanjing",
     "countryName": "China",
@@ -6834,14 +7224,14 @@
     "latitude": 32.0583799,
     "longitude": 118.79647,
     "gdgUrl": "https://gdg.community.dev/gdg-nanjing/",
-    "devfestName": "DevFest Nanjing 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 2025: A Surprise Journey into AI and Agents",
+    "devfestDate": "2025-11-16",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "nanning",
-    "destinationUrl": "https://gdg.community.dev/gdg-nanning/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-nanning-presents-google-devfest-2025-nanning/",
     "gdgChapter": "GDG Nanning",
     "city": "Nanning",
     "countryName": "China",
@@ -6849,10 +7239,10 @@
     "latitude": 22.82,
     "longitude": 108.32,
     "gdgUrl": "https://gdg.community.dev/gdg-nanning/",
-    "devfestName": "DevFest Nanning 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google DevFest 2025 Nanning",
+    "devfestDate": "2025-11-30",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "nantes",
@@ -6886,7 +7276,7 @@
   },
   {
     "slug": "napoli",
-    "destinationUrl": "https://gdg.community.dev/gdg-napoli/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-napoli-presents-napoli-devfest-2025-fiera-internazionale-developers-amp-startup/",
     "gdgChapter": "GDG Napoli",
     "city": "Naples",
     "countryName": "Italy",
@@ -6894,10 +7284,10 @@
     "latitude": 40.8517746,
     "longitude": 14.2681244,
     "gdgUrl": "https://gdg.community.dev/gdg-napoli/",
-    "devfestName": "DevFest Naples 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Napoli DevFest 2025 - Fiera Internazionale Developers & Startup",
+    "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "nara",
@@ -6976,7 +7366,7 @@
   },
   {
     "slug": "nebrodi",
-    "destinationUrl": "https://gdg.community.dev/gdg-nebrodi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-nebrodi-presents-devfest-mediterranean-2025-1/",
     "gdgChapter": "GDG Nebrodi",
     "city": "Sant'Agata di Militello",
     "countryName": "Italy",
@@ -6984,10 +7374,25 @@
     "latitude": 38.07,
     "longitude": 14.64,
     "gdgUrl": "https://gdg.community.dev/gdg-nebrodi/",
-    "devfestName": "DevFest Sant'Agata di Militello 2025",
+    "devfestName": "DevFest Mediterranean 2025",
+    "devfestDate": "2025-12-12",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
+    "slug": "neiva",
+    "destinationUrl": "https://gdg.community.dev/gdg-neiva/",
+    "gdgChapter": "GDG Neiva",
+    "city": "Neiva",
+    "countryName": "Colombia",
+    "countryCode": "CO",
+    "latitude": 2.9344837,
+    "longitude": -75.2809001,
+    "gdgUrl": "https://gdg.community.dev/gdg-neiva/",
+    "devfestName": "DevFest Neiva 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "netherlands",
@@ -7003,6 +7408,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "neuquen",
+    "destinationUrl": "https://gdg.community.dev/gdg-neuquen/",
+    "gdgChapter": "GDG Neuquen",
+    "city": "Neuquen",
+    "countryName": "Argentina",
+    "countryCode": "AR",
+    "latitude": -38.9516784,
+    "longitude": -68.0591888,
+    "gdgUrl": "https://gdg.community.dev/gdg-neuquen/",
+    "devfestName": "DevFest Neuquen 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "new-brunswick",
@@ -7035,6 +7455,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "newport-beach",
+    "destinationUrl": "https://gdg.community.dev/gdg-newport-beach/",
+    "gdgChapter": "GDG Newport Beach",
+    "city": "Newport Beach",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 33.6041944,
+    "longitude": -117.8738554,
+    "gdgUrl": "https://gdg.community.dev/gdg-newport-beach/",
+    "devfestName": "DevFest Newport Beach 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "niamey",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-niamey-presents-devfest-niamey-du-code-a-limpact-maitriser-lia-le-cloud-et-le-mobile-avec-google/",
     "gdgChapter": "GDG Niamey",
@@ -7048,6 +7483,21 @@
     "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
     "updatedAt": "2025-07-22T06:08:24Z"
+  },
+  {
+    "slug": "nizwa",
+    "destinationUrl": "https://gdg.community.dev/gdg-nizwa/",
+    "gdgChapter": "GDG Nizwa",
+    "city": "Nizwa",
+    "countryName": "Oman",
+    "countryCode": "OM",
+    "latitude": 22.9171031,
+    "longitude": 57.536292,
+    "gdgUrl": "https://gdg.community.dev/gdg-nizwa/",
+    "devfestName": "DevFest Nizwa 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "noida",
@@ -7110,21 +7560,6 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
-    "slug": "nur-sultan-astana",
-    "destinationUrl": "https://gdg.community.dev/gdg-nur-sultan-astana/",
-    "gdgChapter": "GDG Nur-Sultan (Astana)",
-    "city": "Astana",
-    "countryName": "Kazakhstan",
-    "countryCode": "KZ",
-    "latitude": 51.17,
-    "longitude": 71.47,
-    "gdgUrl": "https://gdg.community.dev/gdg-nur-sultan-astana/",
-    "devfestName": "DevFest Astana 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
     "slug": "nuremberg",
     "destinationUrl": "https://gdg.community.dev/gdg-nuremberg/",
     "gdgChapter": "GDG Nuremberg",
@@ -7135,6 +7570,21 @@
     "longitude": 11.05,
     "gdgUrl": "https://gdg.community.dev/gdg-nuremberg/",
     "devfestName": "DevFest Nürnberg 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "nur-sultan-astana",
+    "destinationUrl": "https://gdg.community.dev/gdg-nur-sultan-astana/",
+    "gdgChapter": "GDG Nur-Sultan (Astana)",
+    "city": "Astana",
+    "countryName": "Kazakhstan",
+    "countryCode": "KZ",
+    "latitude": 51.17,
+    "longitude": 71.47,
+    "gdgUrl": "https://gdg.community.dev/gdg-nur-sultan-astana/",
+    "devfestName": "DevFest Astana 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
@@ -7213,6 +7663,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "oklahoma-city",
+    "destinationUrl": "https://gdg.community.dev/gdg-oklahoma-city/",
+    "gdgChapter": "GDG Oklahoma City",
+    "city": "Oklahoma City",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 35.4688692,
+    "longitude": -97.519539,
+    "gdgUrl": "https://gdg.community.dev/gdg-oklahoma-city/",
+    "devfestName": "DevFest Oklahoma City 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "omaha",
@@ -7305,6 +7770,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "oruro",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-oruro-presents-devfest-oruro/",
+    "gdgChapter": "GDG Oruro",
+    "city": "Oruro",
+    "countryName": "Bolivia",
+    "countryCode": "BO",
+    "latitude": -17.9716723,
+    "longitude": -67.0931378,
+    "gdgUrl": "https://gdg.community.dev/gdg-oruro/",
+    "devfestName": "DevFest Oruro",
+    "devfestDate": "2025-11-29",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
     "slug": "osaka",
     "destinationUrl": "https://gdg.community.dev/gdg-osaka/",
     "gdgChapter": "GDG Osaka",
@@ -7318,6 +7798,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "oskemen",
+    "destinationUrl": "https://gdg.community.dev/gdg-oskemen/",
+    "gdgChapter": "GDG Oskemen",
+    "city": "Öskemen",
+    "countryName": "Kazakhstan",
+    "countryCode": "KZ",
+    "latitude": 49.9749295,
+    "longitude": 82.6017244,
+    "gdgUrl": "https://gdg.community.dev/gdg-oskemen/",
+    "devfestName": "DevFest Öskemen 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "osnabrück",
@@ -7366,7 +7861,7 @@
   },
   {
     "slug": "ottawa",
-    "destinationUrl": "https://gdg.community.dev/gdg-ottawa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ottawa-presents-devfest-ottawa-2025-code-connect-create/",
     "gdgChapter": "GDG Ottawa",
     "city": "Ottawa",
     "countryName": "Canada",
@@ -7374,14 +7869,14 @@
     "latitude": 45.45,
     "longitude": -75.69,
     "gdgUrl": "https://gdg.community.dev/gdg-ottawa/",
-    "devfestName": "DevFest Ottawa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Ottawa 2025: Code. Connect. Create.",
+    "devfestDate": "2025-11-02",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "ouaga",
-    "destinationUrl": "https://gdg.community.dev/gdg-ouaga/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ouaga-presents-devfest-2025/",
     "gdgChapter": "GDG Ouaga",
     "city": "Ouagadougou",
     "countryName": "Burkina Faso",
@@ -7389,10 +7884,25 @@
     "latitude": 12.37,
     "longitude": -1.53,
     "gdgUrl": "https://gdg.community.dev/gdg-ouaga/",
-    "devfestName": "DevFest Ouagadougou 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
+    "slug": "ourense",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ourense-presents-google-devfest-2025/cohost-gdg-ourense",
+    "gdgChapter": "GDG Ourense",
+    "city": "Ourense",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "latitude": 42.3357893,
+    "longitude": -7.863881,
+    "gdgUrl": "https://gdg.community.dev/gdg-ourense/",
+    "devfestName": "Google DevFest 2025",
+    "devfestDate": "2025-11-21",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T12:42:45Z"
   },
   {
     "slug": "owerri",
@@ -7441,7 +7951,7 @@
   },
   {
     "slug": "panama",
-    "destinationUrl": "https://gdg.community.dev/gdg-panama/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-panama-presents-devfest-panama-2025/",
     "gdgChapter": "GDG Panamá",
     "city": "Panamá",
     "countryName": "Panama",
@@ -7450,9 +7960,9 @@
     "longitude": -79.53,
     "gdgUrl": "https://gdg.community.dev/gdg-panama/",
     "devfestName": "DevFest Panamá 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "pangyo",
@@ -7501,7 +8011,7 @@
   },
   {
     "slug": "parnaiba",
-    "destinationUrl": "https://gdg.community.dev/gdg-parnaiba/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-parnaiba-presents-devfest-parnaiba-presencial/",
     "gdgChapter": "GDG Parnaíba",
     "city": "Parnaíba",
     "countryName": "Brazil",
@@ -7509,10 +8019,10 @@
     "latitude": -2.9096093,
     "longitude": -41.7537178,
     "gdgUrl": "https://gdg.community.dev/gdg-parnaiba/",
-    "devfestName": "DevFest Parnaíba 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Parnaíba - Presencial",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "passo-fundo",
@@ -7546,7 +8056,7 @@
   },
   {
     "slug": "pato-branco",
-    "destinationUrl": "https://gdg.community.dev/gdg-pato-branco/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pato-branco-presents-devfest-pato-branco-2025-google-tech-hackathon/",
     "gdgChapter": "GDG Pato Branco",
     "city": "Pato Branco",
     "countryName": "Brazil",
@@ -7554,10 +8064,10 @@
     "latitude": -26.229188,
     "longitude": -52.6696111,
     "gdgUrl": "https://gdg.community.dev/gdg-pato-branco/",
-    "devfestName": "DevFest Pato Branco 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Pato Branco 2025 - Google Tech Hackathon",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "patos",
@@ -7591,7 +8101,7 @@
   },
   {
     "slug": "pelotas",
-    "destinationUrl": "https://gdg.community.dev/gdg-pelotas/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pelotas-presents-devfest-pelotas-2025/",
     "gdgChapter": "GDG Pelotas",
     "city": "Pelotas",
     "countryName": "Brazil",
@@ -7599,14 +8109,14 @@
     "latitude": -31.76,
     "longitude": -52.34,
     "gdgUrl": "https://gdg.community.dev/gdg-pelotas/",
-    "devfestName": "DevFest Pelotas 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Pelotas 2025",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "pereira",
-    "destinationUrl": "https://gdg.community.dev/gdg-pereira/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pereira-presents-devfest/",
     "gdgChapter": "GDG Pereira",
     "city": "Pereira",
     "countryName": "Colombia",
@@ -7614,14 +8124,14 @@
     "latitude": 4.8087174,
     "longitude": -75.690601,
     "gdgUrl": "https://gdg.community.dev/gdg-pereira/",
-    "devfestName": "DevFest Pereira 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "perth",
-    "destinationUrl": "https://gdg.community.dev/gdg-perth/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-perth-presents-devfest-perth-2025/",
     "gdgChapter": "GDG Perth",
     "city": "Perth",
     "countryName": "Australia",
@@ -7629,10 +8139,10 @@
     "latitude": -31.9523123,
     "longitude": 115.861309,
     "gdgUrl": "https://gdg.community.dev/gdg-perth/",
-    "devfestName": "DevFest Perth 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Perth 2025",
+    "devfestDate": "2025-11-07",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "pescara",
@@ -7663,6 +8173,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "petropolis",
+    "destinationUrl": "https://gdg.community.dev/gdg-petropolis/",
+    "gdgChapter": "GDG Petropolis",
+    "city": "Petrópolis",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -22.5120883,
+    "longitude": -43.1795083,
+    "gdgUrl": "https://gdg.community.dev/gdg-petropolis/",
+    "devfestName": "DevFest Petrópolis 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "philadelphia",
@@ -7710,8 +8235,23 @@
     "updatedAt": "2025-04-17T13:10:46Z"
   },
   {
+    "slug": "pittsburgh",
+    "destinationUrl": "https://gdg.community.dev/gdg-pittsburgh/",
+    "gdgChapter": "GDG Pittsburgh",
+    "city": "Pittsburgh",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 40.4386612,
+    "longitude": -79.9972352,
+    "gdgUrl": "https://gdg.community.dev/gdg-pittsburgh/",
+    "devfestName": "DevFest Pittsburgh 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "piura",
-    "destinationUrl": "https://gdg.community.dev/gdg-piura/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-piura-presents-devfest-piura-2025/",
     "gdgChapter": "GDG Piura",
     "city": "Piura",
     "countryName": "Peru",
@@ -7719,10 +8259,10 @@
     "latitude": -5.19,
     "longitude": -80.63,
     "gdgUrl": "https://gdg.community.dev/gdg-piura/",
-    "devfestName": "DevFest Piura 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DEVFEST PIURA 2025",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "plovdiv",
@@ -7785,21 +8325,6 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
-    "slug": "port-said",
-    "destinationUrl": "https://gdg.community.dev/gdg-port-said/",
-    "gdgChapter": "GDG Port Said",
-    "city": "Port Said",
-    "countryName": "Egypt",
-    "countryCode": "EG",
-    "latitude": 31.2652893,
-    "longitude": 32.3018661,
-    "gdgUrl": "https://gdg.community.dev/gdg-port-said/",
-    "devfestName": "DevFest Port Said 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
     "slug": "portlaoise",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-portlaoise-presents-devfest-ireland-2025/cohost-gdg-portlaoise",
     "gdgChapter": "GDG Portlaoise",
@@ -7831,7 +8356,7 @@
   },
   {
     "slug": "porto-alegre",
-    "destinationUrl": "https://gdg.community.dev/gdg-porto-alegre/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-dev-fest-porto-alegre-2025-1/",
     "gdgChapter": "GDG Porto Alegre",
     "city": "Porto Alegre",
     "countryName": "Brazil",
@@ -7839,7 +8364,37 @@
     "latitude": -30.0368176,
     "longitude": -51.2089887,
     "gdgUrl": "https://gdg.community.dev/gdg-porto-alegre/",
-    "devfestName": "DevFest Porto Alegre 2025",
+    "devfestName": "Dev Fest Porto Alegre 2025",
+    "devfestDate": "2025-12-06",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
+    "slug": "porto-velho",
+    "destinationUrl": "https://gdg.community.dev/gdg-porto-velho/",
+    "gdgChapter": "GDG Porto Velho",
+    "city": "Porto Velho",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -8.7635475,
+    "longitude": -63.8971723,
+    "gdgUrl": "https://gdg.community.dev/gdg-porto-velho/",
+    "devfestName": "DevFest Porto Velho 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
+    "slug": "port-said",
+    "destinationUrl": "https://gdg.community.dev/gdg-port-said/",
+    "gdgChapter": "GDG Port Said",
+    "city": "Port Said",
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "latitude": 31.2652893,
+    "longitude": 32.3018661,
+    "gdgUrl": "https://gdg.community.dev/gdg-port-said/",
+    "devfestName": "DevFest Port Said 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
@@ -7951,7 +8506,7 @@
   },
   {
     "slug": "providence",
-    "destinationUrl": "https://gdg.community.dev/gdg-providence/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-providence-presents-building-ai-powered-web-apps-with-chromes-built-in-ai-apis/",
     "gdgChapter": "GDG Providence",
     "city": "Providence",
     "countryName": "United States",
@@ -7959,10 +8514,10 @@
     "latitude": 41.8239891,
     "longitude": -71.4128343,
     "gdgUrl": "https://gdg.community.dev/gdg-providence/",
-    "devfestName": "DevFest Providence 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Building AI-Powered Web Apps with Chrome's Built-in AI APIs",
+    "devfestDate": "2025-10-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "puebla",
@@ -7996,7 +8551,7 @@
   },
   {
     "slug": "pura-vida",
-    "destinationUrl": "https://gdg.community.dev/gdg-pura-vida/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pura-vida-presents-devfest-pura-vida-2025/",
     "gdgChapter": "GDG Pura Vida",
     "city": "San Jose",
     "countryName": "Costa Rica",
@@ -8004,10 +8559,10 @@
     "latitude": 9.93,
     "longitude": -84.08,
     "gdgUrl": "https://gdg.community.dev/gdg-pura-vida/",
-    "devfestName": "DevFest San Jose 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Pura Vida 2025",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "pwani",
@@ -8026,7 +8581,7 @@
   },
   {
     "slug": "qarshi",
-    "destinationUrl": "https://gdg.community.dev/gdg-qarshi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-qarshi-presents-devfest-kashkadarya-2025-gdg-karshi/",
     "gdgChapter": "GDG Qarshi",
     "city": "Qarshi",
     "countryName": "Uzbekistan",
@@ -8034,10 +8589,10 @@
     "latitude": 38.8611918,
     "longitude": 65.7847269,
     "gdgUrl": "https://gdg.community.dev/gdg-qarshi/",
-    "devfestName": "DevFest Qarshi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Kashkadarya 2025 | GDG Karshi",
+    "devfestDate": "2025-11-20",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "quebec",
@@ -8056,7 +8611,7 @@
   },
   {
     "slug": "queens",
-    "destinationUrl": "https://gdg.community.dev/gdg-queens/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-queens-presents-devfest-2025-ai-will-never-replace-1/",
     "gdgChapter": "GDG Queens",
     "city": "New York",
     "countryName": "United States",
@@ -8064,10 +8619,10 @@
     "latitude": 40.7127753,
     "longitude": -74.0059728,
     "gdgUrl": "https://gdg.community.dev/gdg-queens/",
-    "devfestName": "DevFest New York 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025: AI Will Never Replace [...]",
+    "devfestDate": "2025-11-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "queretaro",
@@ -8160,6 +8715,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "ramnicu-valcea",
+    "destinationUrl": "https://gdg.community.dev/gdg-ramnicu-valcea/",
+    "gdgChapter": "GDG Râmnicu Vâlcea",
+    "city": "Râmnicu Vâlcea",
+    "countryName": "Romania",
+    "countryCode": "RO",
+    "latitude": 45.0996753,
+    "longitude": 24.3693179,
+    "gdgUrl": "https://gdg.community.dev/gdg-ramnicu-valcea/",
+    "devfestName": "DevFest Râmnicu Vâlcea 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "ranchi",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ranchi-presents-devfest-2025-1/",
     "gdgChapter": "GDG Ranchi",
@@ -8191,7 +8761,7 @@
   },
   {
     "slug": "recife",
-    "destinationUrl": "https://gdg.community.dev/gdg-recife/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-recife-presents-dev-fest-pernambuco-2025-conectando-desenvolvedores/",
     "gdgChapter": "GDG Recife",
     "city": "Recife",
     "countryName": "Brazil",
@@ -8199,10 +8769,10 @@
     "latitude": -8.0578381,
     "longitude": -34.8828969,
     "gdgUrl": "https://gdg.community.dev/gdg-recife/",
-    "devfestName": "DevFest Recife 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Dev Fest Pernambuco 2025: Conectando Desenvolvedores",
+    "devfestDate": "2025-11-26",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "rehovot",
@@ -8251,7 +8821,7 @@
   },
   {
     "slug": "rio-de-janeiro",
-    "destinationUrl": "https://gdg.community.dev/gdg-rio-de-janeiro/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2025/",
     "gdgChapter": "GDG Rio de Janeiro",
     "city": "Rio de Janeiro",
     "countryName": "Brazil",
@@ -8260,9 +8830,9 @@
     "longitude": -43.2,
     "gdgUrl": "https://gdg.community.dev/gdg-rio-de-janeiro/",
     "devfestName": "DevFest Rio de Janeiro 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "rio-verde",
@@ -8296,7 +8866,7 @@
   },
   {
     "slug": "rome",
-    "destinationUrl": "https://gdg.community.dev/gdg-roma-citta/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-roma-citta-presents-devfest-roma-2025/",
     "gdgChapter": "GDG Roma Città",
     "city": "Rome",
     "countryName": "Italy",
@@ -8304,10 +8874,10 @@
     "latitude": 41.8967068,
     "longitude": 12.4822025,
     "gdgUrl": "https://gdg.community.dev/gdg-roma-citta/",
-    "devfestName": "DevFest Rome 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Roma 2025",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "rottweil",
@@ -8370,6 +8940,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "salalah",
+    "destinationUrl": "https://gdg.community.dev/gdg-salalah/",
+    "gdgChapter": "GDG Salalah",
+    "city": "Salalah",
+    "countryName": "Oman",
+    "countryCode": "OM",
+    "latitude": 17.0193843,
+    "longitude": 54.1107505,
+    "gdgUrl": "https://gdg.community.dev/gdg-salalah/",
+    "devfestName": "DevFest Salalah 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "salem",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-salem-presents-devfest-salem-2025/",
     "gdgChapter": "GDG Salem",
@@ -8383,6 +8968,21 @@
     "devfestDate": "2025-12-20",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-05T19:09:10Z"
+  },
+  {
+    "slug": "salt-lake-city",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-salt-lake-city-presents-devfest-slc-2025/",
+    "gdgChapter": "GDG Salt Lake City",
+    "city": "Salt Lake City",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 40.7605601,
+    "longitude": -111.8881397,
+    "gdgUrl": "https://gdg.community.dev/gdg-salt-lake-city/",
+    "devfestName": "DevFest SLC 2025",
+    "devfestDate": "2025-10-11",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "salvador",
@@ -8430,6 +9030,21 @@
     "updatedAt": "2025-07-25T16:28:34Z"
   },
   {
+    "slug": "sanaa",
+    "destinationUrl": "https://gdg.community.dev/gdg-sanaa/",
+    "gdgChapter": "GDG Sana'a",
+    "city": "Sana'a",
+    "countryName": "Yemen",
+    "countryCode": "YE",
+    "latitude": 15.38,
+    "longitude": 44.21,
+    "gdgUrl": "https://gdg.community.dev/gdg-sanaa/",
+    "devfestName": "DevFest Sana'a 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
     "slug": "san-antonio",
     "destinationUrl": "https://gdg.community.dev/gdg-san-antonio/",
     "gdgChapter": "GDG San Antonio",
@@ -8475,21 +9090,6 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
-    "slug": "campeche",
-    "destinationUrl": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
-    "gdgChapter": "GDG San Francisco de Campeche",
-    "city": "Campeche",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "latitude": 19.85,
-    "longitude": -90.53,
-    "gdgUrl": "https://gdg.community.dev/gdg-san-francisco-de-campeche/",
-    "devfestName": "DevFest Campeche 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
     "slug": "san-jose",
     "destinationUrl": "https://gdg.community.dev/gdg-san-jose/",
     "gdgChapter": "GDG San Jose",
@@ -8521,7 +9121,7 @@
   },
   {
     "slug": "san-pedro-sula",
-    "destinationUrl": "https://gdg.community.dev/gdg-san-pedro-sula/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-san-pedro-sula-presents-devfest-san-pedro-sula-2025-day-2/",
     "gdgChapter": "GDG San Pedro Sula",
     "city": "San Pedro Sula",
     "countryName": "Honduras",
@@ -8529,29 +9129,14 @@
     "latitude": 15.47,
     "longitude": -88.03,
     "gdgUrl": "https://gdg.community.dev/gdg-san-pedro-sula/",
-    "devfestName": "DevFest San Pedro Sula 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest San Pedro Sula 2025 - Day #2",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
-    "slug": "sanaa",
-    "destinationUrl": "https://gdg.community.dev/gdg-sanaa/",
-    "gdgChapter": "GDG Sana'a",
-    "city": "Sana'a",
-    "countryName": "Yemen",
-    "countryCode": "YE",
-    "latitude": 15.38,
-    "longitude": 44.21,
-    "gdgUrl": "https://gdg.community.dev/gdg-sanaa/",
-    "devfestName": "DevFest Sana'a 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "santa-barbara",
-    "destinationUrl": "https://gdg.community.dev/gdg-santa-barbara/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-santa-barbara-presents-devfest-santa-barbara-2025/",
     "gdgChapter": "GDG Santa Barbara",
     "city": "Santa Barbara",
     "countryName": "Honduras",
@@ -8559,10 +9144,10 @@
     "latitude": 14.9219177,
     "longitude": -88.2375991,
     "gdgUrl": "https://gdg.community.dev/gdg-santa-barbara/",
-    "devfestName": "DevFest Santa Barbara 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Santa Bárbara 2025",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "santa-cruz",
@@ -8596,7 +9181,7 @@
   },
   {
     "slug": "santiago-de-chile",
-    "destinationUrl": "https://gdg.community.dev/gdg-santiago-de-chile/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-santiago-de-chile-presents-devfest-santiago-2025/",
     "gdgChapter": "GDG Santiago de Chile",
     "city": "Santiago",
     "countryName": "Chile",
@@ -8605,9 +9190,9 @@
     "longitude": -70.64,
     "gdgUrl": "https://gdg.community.dev/gdg-santiago-de-chile/",
     "devfestName": "DevFest Santiago 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "santiago-de-compostela",
@@ -8640,6 +9225,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "santo-domingo-de-los-tsachilas",
+    "destinationUrl": "https://gdg.community.dev/gdg-santo-domingo-de-los-tsachilas/",
+    "gdgChapter": "GDG Santo Domingo de los Tsachilas",
+    "city": "Santo Domingo",
+    "countryName": "Ecuador",
+    "countryCode": "EC",
+    "latitude": -0.2538414,
+    "longitude": -79.1763307,
+    "gdgUrl": "https://gdg.community.dev/gdg-santo-domingo-de-los-tsachilas/",
+    "devfestName": "DevFest Santo Domingo 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "santos",
     "destinationUrl": "https://gdg.community.dev/gdg-santos/",
     "gdgChapter": "GDG Santos",
@@ -8656,7 +9256,7 @@
   },
   {
     "slug": "sao-jose-dos-campos",
-    "destinationUrl": "https://gdg.community.dev/gdg-sao-jose-dos-campos/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sao-jose-dos-campos-presents-devfest-sjc-2025/",
     "gdgChapter": "GDG São José dos Campos",
     "city": "São José dos Campos",
     "countryName": "Brazil",
@@ -8664,10 +9264,10 @@
     "latitude": -23.2,
     "longitude": -45.88,
     "gdgUrl": "https://gdg.community.dev/gdg-sao-jose-dos-campos/",
-    "devfestName": "DevFest São José dos Campos 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest SJC 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "sao-paulo",
@@ -8821,7 +9421,7 @@
   },
   {
     "slug": "shanghai",
-    "destinationUrl": "https://gdg.community.dev/gdg-shanghai/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-shanghai-presents-2025-google-devfest-shanghai-station/",
     "gdgChapter": "GDG Shanghai",
     "city": "Shanghai",
     "countryName": "China",
@@ -8829,10 +9429,10 @@
     "latitude": 31.23,
     "longitude": 121.47,
     "gdgUrl": "https://gdg.community.dev/gdg-shanghai/",
-    "devfestName": "DevFest Shanghai 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "2025 Google DevFest Shanghai Station",
+    "devfestDate": "2025-08-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "sharjah",
@@ -8866,7 +9466,7 @@
   },
   {
     "slug": "shijiazhuang",
-    "destinationUrl": "https://gdg.community.dev/gdg-shijiazhuang/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-shijiazhuang-presents-devfest-2025-gdg-shijiazhuang/",
     "gdgChapter": "GDG Shijiazhuang",
     "city": "Shijiazhuang",
     "countryName": "China",
@@ -8874,10 +9474,10 @@
     "latitude": 38.05,
     "longitude": 114.48,
     "gdgUrl": "https://gdg.community.dev/gdg-shijiazhuang/",
-    "devfestName": "DevFest Shijiazhuang 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 GDG Shijiazhuang",
+    "devfestDate": "2025-12-07",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "shikoku",
@@ -8971,7 +9571,7 @@
   },
   {
     "slug": "siliguri",
-    "destinationUrl": "https://gdg.community.dev/gdg-siliguri/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-siliguri-presents-devfest-siliguri-2025/",
     "gdgChapter": "GDG Siliguri",
     "city": "Siliguri",
     "countryName": "India",
@@ -8980,13 +9580,13 @@
     "longitude": 88.42,
     "gdgUrl": "https://gdg.community.dev/gdg-siliguri/",
     "devfestName": "DevFest Siliguri 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-16",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "sincelejo",
-    "destinationUrl": "https://gdg.community.dev/gdg-sincelejo/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sincelejo-presents-devfest-sincelejo-2025/",
     "gdgChapter": "GDG Sincelejo",
     "city": "Sincelejo",
     "countryName": "Colombia",
@@ -8995,9 +9595,9 @@
     "longitude": -75.3905567,
     "gdgUrl": "https://gdg.community.dev/gdg-sincelejo/",
     "devfestName": "DevFest Sincelejo 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "singapore",
@@ -9061,7 +9661,7 @@
   },
   {
     "slug": "sonargaon",
-    "destinationUrl": "https://gdg.community.dev/gdg-sonargaon/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sonargaon-presents-devfest-2025-bangladesh/",
     "gdgChapter": "GDG Sonargaon",
     "city": "Dhaka",
     "countryName": "Bangladesh",
@@ -9069,10 +9669,10 @@
     "latitude": 23.7,
     "longitude": 90.39,
     "gdgUrl": "https://gdg.community.dev/gdg-sonargaon/",
-    "devfestName": "DevFest Dhaka 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 2025 Bangladesh",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "sophia-antipolis",
@@ -9091,7 +9691,7 @@
   },
   {
     "slug": "sorocaba",
-    "destinationUrl": "https://gdg.community.dev/gdg-sorocaba/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sorocaba-presents-devfest-sorocaba-2025/",
     "gdgChapter": "GDG Sorocaba",
     "city": "Sorocaba",
     "countryName": "Brazil",
@@ -9100,13 +9700,13 @@
     "longitude": -47.47,
     "gdgUrl": "https://gdg.community.dev/gdg-sorocaba/",
     "devfestName": "DevFest Sorocaba 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "sousse",
-    "destinationUrl": "https://gdg.community.dev/gdg-sousse/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sousse-presents-devfest-sousse-2025/",
     "gdgChapter": "GDG Sousse",
     "city": "Sousse",
     "countryName": "Tunisia",
@@ -9115,13 +9715,13 @@
     "longitude": 10.64,
     "gdgUrl": "https://gdg.community.dev/gdg-sousse/",
     "devfestName": "DevFest Sousse 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-09",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "soweto",
-    "destinationUrl": "https://gdg.community.dev/gdg-soweto/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-soweto-presents-devfest-soweto-2025/",
     "gdgChapter": "GDG Soweto",
     "city": "Soweto",
     "countryName": "South Africa",
@@ -9129,10 +9729,10 @@
     "latitude": -26.28,
     "longitude": 27.84,
     "gdgUrl": "https://gdg.community.dev/gdg-soweto/",
-    "devfestName": "DevFest Soweto 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DEVFEST SOWETO 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "space-coast",
@@ -9165,6 +9765,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "stanford",
+    "destinationUrl": "https://gdg.community.dev/gdg-stanford/",
+    "gdgChapter": "GDG Stanford",
+    "city": "Stanford",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 37.424106,
+    "longitude": -122.1660756,
+    "gdgUrl": "https://gdg.community.dev/gdg-stanford/",
+    "devfestName": "DevFest Stanford 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
     "slug": "st-johns",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-st-johns-presents-devfest-st-johns-2025/",
     "gdgChapter": "GDG St. John's",
@@ -9190,21 +9805,6 @@
     "longitude": -90.46,
     "gdgUrl": "https://gdg.community.dev/gdg-st-louis/",
     "devfestName": "DevFest Saint Louis 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
-  },
-  {
-    "slug": "stanford",
-    "destinationUrl": "https://gdg.community.dev/gdg-stanford/",
-    "gdgChapter": "GDG Stanford",
-    "city": "Stanford",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 37.424106,
-    "longitude": -122.1660756,
-    "gdgUrl": "https://gdg.community.dev/gdg-stanford/",
-    "devfestName": "DevFest Stanford 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
@@ -9241,7 +9841,7 @@
   },
   {
     "slug": "strasbourg",
-    "destinationUrl": "https://gdg.community.dev/gdg-strasbourg/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-strasbourg-presents-devfest-strasbourg-2025/",
     "gdgChapter": "GDG Strasbourg",
     "city": "Strasbourg",
     "countryName": "France",
@@ -9249,10 +9849,10 @@
     "latitude": 48.58,
     "longitude": 7.75,
     "gdgUrl": "https://gdg.community.dev/gdg-strasbourg/",
-    "devfestName": "DevFest Strasbourg 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Strasbourg 2025",
+    "devfestDate": "2025-11-27",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "stuttgart",
@@ -9271,7 +9871,7 @@
   },
   {
     "slug": "sucre",
-    "destinationUrl": "https://gdg.community.dev/gdg-sucre/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sucre-presents-devfest-sucre-2025/",
     "gdgChapter": "GDG Sucre",
     "city": "Sucre",
     "countryName": "Bolivia",
@@ -9280,9 +9880,9 @@
     "longitude": -65.26,
     "gdgUrl": "https://gdg.community.dev/gdg-sucre/",
     "devfestName": "DevFest Sucre 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "sudbury",
@@ -9298,6 +9898,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "sunderland",
+    "destinationUrl": "https://gdg.community.dev/gdg-sunderland/",
+    "gdgChapter": "GDG Sunderland",
+    "city": "Sunderland",
+    "countryName": "United Kingdom",
+    "countryCode": "GB",
+    "latitude": 54.9044161,
+    "longitude": -1.3811746,
+    "gdgUrl": "https://gdg.community.dev/gdg-sunderland/",
+    "devfestName": "DevFest Sunderland 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "surabaya",
@@ -9346,7 +9961,7 @@
   },
   {
     "slug": "suzhou",
-    "destinationUrl": "https://gdg.community.dev/gdg-suzhou/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-suzhou-presents-google-devfest-2025-su-zhou-zhan/",
     "gdgChapter": "GDG Suzhou",
     "city": "Suzhou",
     "countryName": "China",
@@ -9354,14 +9969,14 @@
     "latitude": 34.27,
     "longitude": 117.18,
     "gdgUrl": "https://gdg.community.dev/gdg-suzhou/",
-    "devfestName": "DevFest Suzhou 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Google DevFest 2025 苏州站",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "tacna",
-    "destinationUrl": "https://gdg.community.dev/gdg-tacna/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-tacna-presents-devfest-tacna-2025/",
     "gdgChapter": "GDG Tacna",
     "city": "Tacna",
     "countryName": "Peru",
@@ -9370,13 +9985,13 @@
     "longitude": -70.2460246,
     "gdgUrl": "https://gdg.community.dev/gdg-tacna/",
     "devfestName": "DevFest Tacna 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "taichung",
-    "destinationUrl": "https://gdg.community.dev/gdg-taichung/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2025/",
     "gdgChapter": "GDG Taichung",
     "city": "Taichung",
     "countryName": "Taiwan",
@@ -9385,9 +10000,9 @@
     "longitude": 120.68,
     "gdgUrl": "https://gdg.community.dev/gdg-taichung/",
     "devfestName": "DevFest Taichung 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "tainan",
@@ -9436,7 +10051,7 @@
   },
   {
     "slug": "tamale",
-    "destinationUrl": "https://gdg.community.dev/gdg-tamale/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-tamale-presents-gdg-tamale-devfest-2025/",
     "gdgChapter": "GDG Tamale",
     "city": "Tamale",
     "countryName": "Ghana",
@@ -9444,10 +10059,10 @@
     "latitude": 9.4034226,
     "longitude": -0.842416,
     "gdgUrl": "https://gdg.community.dev/gdg-tamale/",
-    "devfestName": "DevFest Tamale 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Tamale DevFest 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "tampa-bay",
@@ -9478,6 +10093,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "tapachula-chiapas",
+    "destinationUrl": "https://gdg.community.dev/gdg-tapachula-chiapas/",
+    "gdgChapter": "GDG Tapachula Chiapas",
+    "city": "Tapachula",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "latitude": 14.9055567,
+    "longitude": -92.2634136,
+    "gdgUrl": "https://gdg.community.dev/gdg-tapachula-chiapas/",
+    "devfestName": "DevFest Tapachula 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "tarija",
@@ -9541,7 +10171,7 @@
   },
   {
     "slug": "tegucigalpa",
-    "destinationUrl": "https://gdg.community.dev/gdg-tegucigalpa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-tegucigalpa-presents-devfest-tegucigalpa-2025/",
     "gdgChapter": "GDG Tegucigalpa",
     "city": "Tegucigalpa",
     "countryName": "Honduras",
@@ -9550,9 +10180,9 @@
     "longitude": -87.22,
     "gdgUrl": "https://gdg.community.dev/gdg-tegucigalpa/",
     "devfestName": "DevFest Tegucigalpa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "tekirdag",
@@ -9583,6 +10213,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-04-16T20:11:33Z"
+  },
+  {
+    "slug": "tepic",
+    "destinationUrl": "https://gdg.community.dev/gdg-tepic/",
+    "gdgChapter": "GDG Tepic",
+    "city": "Tepic",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "latitude": 21.5041651,
+    "longitude": -104.8945887,
+    "gdgUrl": "https://gdg.community.dev/gdg-tepic/",
+    "devfestName": "DevFest Tepic 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
   },
   {
     "slug": "teramo",
@@ -9645,6 +10290,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "tijuana",
+    "destinationUrl": "https://gdg.community.dev/gdg-tijuana/",
+    "gdgChapter": "GDG Tijuana",
+    "city": "Tijuana",
+    "countryName": "Mexico",
+    "countryCode": "MX",
+    "latitude": 32.5331957,
+    "longitude": -117.0192784,
+    "gdgUrl": "https://gdg.community.dev/gdg-tijuana/",
+    "devfestName": "DevFest Tijuana 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "tizi-ouzou",
     "destinationUrl": "https://gdg.community.dev/gdg-tizi-ouzou/",
     "gdgChapter": "GDG Tizi Ouzou",
@@ -9661,7 +10321,7 @@
   },
   {
     "slug": "tokyo",
-    "destinationUrl": "https://gdg.community.dev/gdg-tokyo/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-tokyo-presents-gdg-devfest-tokyo-2025/",
     "gdgChapter": "GDG Tokyo",
     "city": "Tokyo",
     "countryName": "Japan",
@@ -9669,10 +10329,10 @@
     "latitude": 35.67,
     "longitude": 139.77,
     "gdgUrl": "https://gdg.community.dev/gdg-tokyo/",
-    "devfestName": "DevFest Tokyo 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG DevFest Tokyo 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "toledo",
@@ -9826,7 +10486,7 @@
   },
   {
     "slug": "uberlandia",
-    "destinationUrl": "https://gdg.community.dev/gdg-uberlandia/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-devfest-triangulo-2025/",
     "gdgChapter": "GDG Uberlândia",
     "city": "Uberlandia",
     "countryName": "Brazil",
@@ -9834,10 +10494,10 @@
     "latitude": -18.9,
     "longitude": -48.28,
     "gdgUrl": "https://gdg.community.dev/gdg-uberlandia/",
-    "devfestName": "DevFest Uberlandia 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Triângulo 2025",
+    "devfestDate": "2025-11-22",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "udaipur",
@@ -9871,7 +10531,7 @@
   },
   {
     "slug": "umuahia",
-    "destinationUrl": "https://gdg.community.dev/gdg-umuahia/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-umuahia-presents-devfest-umuahia-2025/",
     "gdgChapter": "GDG Umuahia",
     "city": "Umuahia",
     "countryName": "Nigeria",
@@ -9880,9 +10540,9 @@
     "longitude": 7.48,
     "gdgUrl": "https://gdg.community.dev/gdg-umuahia/",
     "devfestName": "DevFest Umuahia 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "urumuqi",
@@ -9946,7 +10606,7 @@
   },
   {
     "slug": "valencia",
-    "destinationUrl": "https://gdg.community.dev/gdg-valencia/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-valencia-presents-devfest-gdg-valencia-1/",
     "gdgChapter": "GDG Valencia",
     "city": "Valencia",
     "countryName": "Spain",
@@ -9954,14 +10614,14 @@
     "latitude": 39.48,
     "longitude": -0.39,
     "gdgUrl": "https://gdg.community.dev/gdg-valencia/",
-    "devfestName": "DevFest Valencia 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DEVFEST - GDG Valencia",
+    "devfestDate": "2025-11-14",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "valladolid",
-    "destinationUrl": "https://gdg.community.dev/gdg-valladolid/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-valladolid-presents-vallatech-summit-2025-devfest-valladolid-2025/",
     "gdgChapter": "GDG Valladolid",
     "city": "Valladolid",
     "countryName": "Spain",
@@ -9969,10 +10629,10 @@
     "latitude": 41.652251,
     "longitude": -4.7245321,
     "gdgUrl": "https://gdg.community.dev/gdg-valladolid/",
-    "devfestName": "DevFest Valladolid 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "VallaTech Summit 2025 (DevFest Valladolid 2025)",
+    "devfestDate": "2025-11-07",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "valle-daosta",
@@ -10020,6 +10680,21 @@
     "updatedAt": "2025-08-17T13:00:41Z"
   },
   {
+    "slug": "varginha",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-varginha-presents-devfest-sul-de-minas/",
+    "gdgChapter": "GDG Varginha",
+    "city": "Varginha",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -21.5560459,
+    "longitude": -45.4363875,
+    "gdgUrl": "https://gdg.community.dev/gdg-varginha/",
+    "devfestName": "DevFest Sul de Minas",
+    "devfestDate": "2025-12-06",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
     "slug": "växjö",
     "destinationUrl": "https://gdg.community.dev/gdg-vaxjo/",
     "gdgChapter": "GDG Växjö",
@@ -10065,6 +10740,21 @@
     "updatedAt": "2025-06-13T07:37:06Z"
   },
   {
+    "slug": "victoria",
+    "destinationUrl": "https://gdg.community.dev/gdg-victoria/",
+    "gdgChapter": "GDG Victoria",
+    "city": "Victoria",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "latitude": 48.46,
+    "longitude": -123.29,
+    "gdgUrl": "https://gdg.community.dev/gdg-victoria/",
+    "devfestName": "DevFest Victoria 2025",
+    "devfestDate": "2025-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-09T10:43:48Z"
+  },
+  {
     "slug": "vienna",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-vienna-presents-devfest-vienna-2025-cfps-are-now-open/",
     "gdgChapter": "GDG Vienna",
@@ -10096,7 +10786,7 @@
   },
   {
     "slug": "vijayawada",
-    "destinationUrl": "https://gdg.community.dev/gdg-vijayawada/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-vijayawada-presents-devfest-vijayawada-where-innovation-meets-inspiration/",
     "gdgChapter": "GDG Vijayawada",
     "city": "Vijayawada",
     "countryName": "India",
@@ -10104,14 +10794,14 @@
     "latitude": 16.5061743,
     "longitude": 80.6480153,
     "gdgUrl": "https://gdg.community.dev/gdg-vijayawada/",
-    "devfestName": "DevFest Vijayawada 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Vijayawada: Where Innovation Meets Inspiration",
+    "devfestDate": "2025-10-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "villahermosa",
-    "destinationUrl": "https://gdg.community.dev/gdg-villahermosa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2025-sureste-de-mexico/",
     "gdgChapter": "GDG Villahermosa",
     "city": "Villahermosa",
     "countryName": "Mexico",
@@ -10119,10 +10809,10 @@
     "latitude": 17.98,
     "longitude": -92.92,
     "gdgUrl": "https://gdg.community.dev/gdg-villahermosa/",
-    "devfestName": "DevFest Villahermosa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Sureste de México",
+    "devfestDate": "2025-10-21",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "virginia-beach",
@@ -10156,7 +10846,7 @@
   },
   {
     "slug": "warri",
-    "destinationUrl": "https://gdg.community.dev/gdg-warri/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-warri-presents-devfest-warri-2025/",
     "gdgChapter": "GDG Warri",
     "city": "Warri",
     "countryName": "Nigeria",
@@ -10165,9 +10855,9 @@
     "longitude": 5.75,
     "gdgUrl": "https://gdg.community.dev/gdg-warri/",
     "devfestName": "DevFest Warri 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "warszawa",
@@ -10231,7 +10921,7 @@
   },
   {
     "slug": "wenzhou",
-    "destinationUrl": "https://gdg.community.dev/gdg-wenzhou/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-wenzhou-presents-devfest-2025/",
     "gdgChapter": "GDG Wenzhou",
     "city": "Wenzhou",
     "countryName": "China",
@@ -10239,10 +10929,10 @@
     "latitude": 28.02,
     "longitude": 120.65,
     "gdgUrl": "https://gdg.community.dev/gdg-wenzhou/",
-    "devfestName": "DevFest Wenzhou 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "west-vancouver",
@@ -10336,7 +11026,7 @@
   },
   {
     "slug": "xalapa",
-    "destinationUrl": "https://gdg.community.dev/gdg-xalapa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-xalapa-presents-devfest-2025-xalapa/",
     "gdgChapter": "GDG Xalapa",
     "city": "Xalapa",
     "countryName": "Mexico",
@@ -10344,14 +11034,14 @@
     "latitude": 19.5437751,
     "longitude": -96.9101806,
     "gdgUrl": "https://gdg.community.dev/gdg-xalapa/",
-    "devfestName": "DevFest Xalapa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Xalapa",
+    "devfestDate": "2025-12-05",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "xela",
-    "destinationUrl": "https://gdg.community.dev/gdg-xela/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-xela-presents-devfest-xela-2025/",
     "gdgChapter": "GDG Xela",
     "city": "Quetzaltenango",
     "countryName": "Guatemala",
@@ -10359,10 +11049,10 @@
     "latitude": 14.8446068,
     "longitude": -91.5231866,
     "gdgUrl": "https://gdg.community.dev/gdg-xela/",
-    "devfestName": "DevFest Quetzaltenango 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Xela 2025",
+    "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "xiamen",
@@ -10381,7 +11071,7 @@
   },
   {
     "slug": "xian",
-    "destinationUrl": "https://gdg.community.dev/gdg-xian/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-xian-presents-devfest-2025-xian-building-safe-secure-and-scalable-solutions-with-ai-and-cloud/",
     "gdgChapter": "GDG Xian",
     "city": "Xi'An",
     "countryName": "China",
@@ -10389,10 +11079,10 @@
     "latitude": 34.27,
     "longitude": 108.9,
     "gdgUrl": "https://gdg.community.dev/gdg-xian/",
-    "devfestName": "DevFest Xi'An 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 Xi’an: Building Safe, Secure and Scalable Solutions with AI and Cloud",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "yamagata",
@@ -10411,7 +11101,7 @@
   },
   {
     "slug": "yamoussoukro",
-    "destinationUrl": "https://gdg.community.dev/gdg-yamoussoukro/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-yamoussoukro-presents-devfest-yamoussoukro-2025/",
     "gdgChapter": "GDG Yamoussoukro",
     "city": "Yamoussoukro",
     "countryName": "Côte d'Ivoire",
@@ -10420,9 +11110,9 @@
     "longitude": -5.28,
     "gdgUrl": "https://gdg.community.dev/gdg-yamoussoukro/",
     "devfestName": "DevFest Yamoussoukro 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "yangon",
@@ -10456,7 +11146,7 @@
   },
   {
     "slug": "yenagoa",
-    "destinationUrl": "https://gdg.community.dev/gdg-yenagoa/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-yenagoa-presents-devfest-yenagoa-2025/",
     "gdgChapter": "GDG Yenagoa",
     "city": "Yenagoa",
     "countryName": "Nigeria",
@@ -10465,13 +11155,13 @@
     "longitude": 6.25,
     "gdgUrl": "https://gdg.community.dev/gdg-yenagoa/",
     "devfestName": "DevFest Yenagoa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-27",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "yola",
-    "destinationUrl": "https://gdg.community.dev/gdg-yola/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-yola-presents-devfest-yola-2025/",
     "gdgChapter": "GDG Yola",
     "city": "Jimeta",
     "countryName": "Nigeria",
@@ -10479,10 +11169,10 @@
     "latitude": 9.28,
     "longitude": 12.46,
     "gdgUrl": "https://gdg.community.dev/gdg-yola/",
-    "devfestName": "DevFest Jimeta 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Yola 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "zagreb",
@@ -10561,7 +11251,7 @@
   },
   {
     "slug": "zhangjiakou",
-    "destinationUrl": "https://gdg.community.dev/gdg-zhangjiakou/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-zhangjiakou-presents-devfest-cn-2025-zhangjiakou/",
     "gdgChapter": "GDG Zhangjiakou",
     "city": "Zhangjiakou",
     "countryName": "China",
@@ -10569,14 +11259,14 @@
     "latitude": 40.83,
     "longitude": 114.93,
     "gdgUrl": "https://gdg.community.dev/gdg-zhangjiakou/",
-    "devfestName": "DevFest Zhangjiakou 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest CN 2025 Zhangjiakou",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "zhengzhou",
-    "destinationUrl": "https://gdg.community.dev/gdg-zhengzhou/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-zhengzhou-presents-zheng-zhou-gdg-2025-devfest/",
     "gdgChapter": "GDG Zhengzhou",
     "city": "Zhengzhou",
     "countryName": "China",
@@ -10584,10 +11274,10 @@
     "latitude": 34.75,
     "longitude": 113.67,
     "gdgUrl": "https://gdg.community.dev/gdg-zhengzhou/",
-    "devfestName": "DevFest Zhengzhou 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "郑州GDG 2025 Devfest",
+    "devfestDate": "2025-11-30",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:01:10Z"
   },
   {
     "slug": "zhuhai",
@@ -10635,708 +11325,18 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
-    "slug": "baltimore",
-    "destinationUrl": "https://gdg.community.dev/gdg-baltimore/",
-    "gdgChapter": "GDG Baltimore",
-    "city": "Baltimore",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 39.2905023,
-    "longitude": -76.6104072,
-    "gdgUrl": "https://gdg.community.dev/gdg-baltimore/",
-    "devfestName": "DevFest Baltimore 2025",
+    "slug": "lodz",
+    "destinationUrl": "https://gdg.community.dev/gdg-lodz/",
+    "gdgChapter": "GDG Łódź",
+    "city": "Łódź",
+    "countryName": "Poland",
+    "countryCode": "PL",
+    "latitude": 51.7592485,
+    "longitude": 19.4559833,
+    "gdgUrl": "https://gdg.community.dev/gdg-lodz/",
+    "devfestName": "DevFest Łódź 2025",
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:40:22"
-  },
-  {
-    "slug": "boise",
-    "destinationUrl": "https://gdg.community.dev/gdg-boise/",
-    "gdgChapter": "GDG Boise",
-    "city": "Boise",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 43.6150186,
-    "longitude": -116.2023137,
-    "gdgUrl": "https://gdg.community.dev/gdg-boise/",
-    "devfestName": "DevFest Boise 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "el-paso",
-    "destinationUrl": "https://gdg.community.dev/gdg-el-paso/",
-    "gdgChapter": "GDG El Paso",
-    "city": "El Paso",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 31.7618778,
-    "longitude": -106.4850217,
-    "gdgUrl": "https://gdg.community.dev/gdg-el-paso/",
-    "devfestName": "DevFest El Paso 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "hamilton",
-    "destinationUrl": "https://gdg.community.dev/gdg-hamilton/",
-    "gdgChapter": "GDG Hamilton",
-    "city": "Hamilton",
-    "countryName": "Canada",
-    "countryCode": "CA",
-    "latitude": 43.2557206,
-    "longitude": -79.8711024,
-    "gdgUrl": "https://gdg.community.dev/gdg-hamilton/",
-    "devfestName": "DevFest Hamilton 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "las-vegas",
-    "destinationUrl": "https://gdg.community.dev/gdg-las-vegas/",
-    "gdgChapter": "GDG Las Vegas",
-    "city": "Las Vegas",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 36.171563,
-    "longitude": -115.1391009,
-    "gdgUrl": "https://gdg.community.dev/gdg-las-vegas/",
-    "devfestName": "DevFest Las Vegas 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "moncton",
-    "destinationUrl": "https://gdg.community.dev/gdg-moncton/",
-    "gdgChapter": "GDG Moncton",
-    "city": "Moncton",
-    "countryName": "Canada",
-    "countryCode": "CA",
-    "latitude": 46.0878165,
-    "longitude": -64.7782313,
-    "gdgUrl": "https://gdg.community.dev/gdg-moncton/",
-    "devfestName": "DevFest Moncton 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "newport-beach",
-    "destinationUrl": "https://gdg.community.dev/gdg-newport-beach/",
-    "gdgChapter": "GDG Newport Beach",
-    "city": "Newport Beach",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 33.6041944,
-    "longitude": -117.8738554,
-    "gdgUrl": "https://gdg.community.dev/gdg-newport-beach/",
-    "devfestName": "DevFest Newport Beach 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "oklahoma-city",
-    "destinationUrl": "https://gdg.community.dev/gdg-oklahoma-city/",
-    "gdgChapter": "GDG Oklahoma City",
-    "city": "Oklahoma City",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 35.4688692,
-    "longitude": -97.519539,
-    "gdgUrl": "https://gdg.community.dev/gdg-oklahoma-city/",
-    "devfestName": "DevFest Oklahoma City 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "pittsburgh",
-    "destinationUrl": "https://gdg.community.dev/gdg-pittsburgh/",
-    "gdgChapter": "GDG Pittsburgh",
-    "city": "Pittsburgh",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 40.4386612,
-    "longitude": -79.9972352,
-    "gdgUrl": "https://gdg.community.dev/gdg-pittsburgh/",
-    "devfestName": "DevFest Pittsburgh 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "salt-lake-city",
-    "destinationUrl": "https://gdg.community.dev/gdg-salt-lake-city/",
-    "gdgChapter": "GDG Salt Lake City",
-    "city": "Salt Lake City",
-    "countryName": "United States",
-    "countryCode": "US",
-    "latitude": 40.7605601,
-    "longitude": -111.8881397,
-    "gdgUrl": "https://gdg.community.dev/gdg-salt-lake-city/",
-    "devfestName": "DevFest Salt Lake City 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "tapachula-chiapas",
-    "destinationUrl": "https://gdg.community.dev/gdg-tapachula-chiapas/",
-    "gdgChapter": "GDG Tapachula Chiapas",
-    "city": "Tapachula",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "latitude": 14.9055567,
-    "longitude": -92.2634136,
-    "gdgUrl": "https://gdg.community.dev/gdg-tapachula-chiapas/",
-    "devfestName": "DevFest Tapachula 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "tepic",
-    "destinationUrl": "https://gdg.community.dev/gdg-tepic/",
-    "gdgChapter": "GDG Tepic",
-    "city": "Tepic",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "latitude": 21.5041651,
-    "longitude": -104.8945887,
-    "gdgUrl": "https://gdg.community.dev/gdg-tepic/",
-    "devfestName": "DevFest Tepic 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "tijuana",
-    "destinationUrl": "https://gdg.community.dev/gdg-tijuana/",
-    "gdgChapter": "GDG Tijuana",
-    "city": "Tijuana",
-    "countryName": "Mexico",
-    "countryCode": "MX",
-    "latitude": 32.5331957,
-    "longitude": -117.0192784,
-    "gdgUrl": "https://gdg.community.dev/gdg-tijuana/",
-    "devfestName": "DevFest Tijuana 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "victoria",
-    "destinationUrl": "https://gdg.community.dev/gdg-victoria/",
-    "gdgChapter": "GDG Victoria",
-    "city": "Victoria",
-    "countryName": "Canada",
-    "countryCode": "CA",
-    "latitude": 48.46,
-    "longitude": -123.29,
-    "gdgUrl": "https://gdg.community.dev/gdg-victoria/",
-    "devfestName": "DevFest Victoria 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "barueri",
-    "destinationUrl": "https://gdg.community.dev/gdg-barueri/",
-    "gdgChapter": "GDG Barueri",
-    "city": "Barueri",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "latitude": -23.5035117,
-    "longitude": -46.8785468,
-    "gdgUrl": "https://gdg.community.dev/gdg-barueri/",
-    "devfestName": "DevFest Barueri 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "campo-mourao",
-    "destinationUrl": "https://gdg.community.dev/gdg-campo-mourao/",
-    "gdgChapter": "GDG Campo Mourão",
-    "city": "Campo Mourão",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "latitude": -24.0437988,
-    "longitude": -52.3810674,
-    "gdgUrl": "https://gdg.community.dev/gdg-campo-mourao/",
-    "devfestName": "DevFest Campo Mourão 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "corupa",
-    "destinationUrl": "https://gdg.community.dev/gdg-corupa/",
-    "gdgChapter": "GDG Corupá",
-    "city": "Corupá",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "latitude": -26.4279149,
-    "longitude": -49.2398122,
-    "gdgUrl": "https://gdg.community.dev/gdg-corupa/",
-    "devfestName": "DevFest Corupá 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "garanhuns",
-    "destinationUrl": "https://gdg.community.dev/gdg-garanhuns/",
-    "gdgChapter": "GDG Garanhuns",
-    "city": "Garanhuns",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "latitude": -8.8908765,
-    "longitude": -36.4964613,
-    "gdgUrl": "https://gdg.community.dev/gdg-garanhuns/",
-    "devfestName": "DevFest Garanhuns 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "ilhabela",
-    "destinationUrl": "https://gdg.community.dev/gdg-ilhabela/",
-    "gdgChapter": "GDG Ilhabela",
-    "city": "Ilhabela",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "latitude": -23.8165908,
-    "longitude": -45.3667925,
-    "gdgUrl": "https://gdg.community.dev/gdg-ilhabela/",
-    "devfestName": "DevFest Ilhabela 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "juiz-de-fora",
-    "destinationUrl": "https://gdg.community.dev/gdg-juiz-de-fora/",
-    "gdgChapter": "GDG Juiz de Fora",
-    "city": "Juiz de Fora",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "latitude": -21.75,
-    "longitude": -43.36,
-    "gdgUrl": "https://gdg.community.dev/gdg-juiz-de-fora/",
-    "devfestName": "DevFest Juiz de Fora 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "neiva",
-    "destinationUrl": "https://gdg.community.dev/gdg-neiva/",
-    "gdgChapter": "GDG Neiva",
-    "city": "Neiva",
-    "countryName": "Colombia",
-    "countryCode": "CO",
-    "latitude": 2.9344837,
-    "longitude": -75.2809001,
-    "gdgUrl": "https://gdg.community.dev/gdg-neiva/",
-    "devfestName": "DevFest Neiva 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "neuquen",
-    "destinationUrl": "https://gdg.community.dev/gdg-neuquen/",
-    "gdgChapter": "GDG Neuquen",
-    "city": "Neuquen",
-    "countryName": "Argentina",
-    "countryCode": "AR",
-    "latitude": -38.9516784,
-    "longitude": -68.0591888,
-    "gdgUrl": "https://gdg.community.dev/gdg-neuquen/",
-    "devfestName": "DevFest Neuquen 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "oruro",
-    "destinationUrl": "https://gdg.community.dev/gdg-oruro/",
-    "gdgChapter": "GDG Oruro",
-    "city": "Oruro",
-    "countryName": "Bolivia",
-    "countryCode": "BO",
-    "latitude": -17.9716723,
-    "longitude": -67.0931378,
-    "gdgUrl": "https://gdg.community.dev/gdg-oruro/",
-    "devfestName": "DevFest Oruro 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "petropolis",
-    "destinationUrl": "https://gdg.community.dev/gdg-petropolis/",
-    "gdgChapter": "GDG Petropolis",
-    "city": "Petrópolis",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "latitude": -22.5120883,
-    "longitude": -43.1795083,
-    "gdgUrl": "https://gdg.community.dev/gdg-petropolis/",
-    "devfestName": "DevFest Petrópolis 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "porto-velho",
-    "destinationUrl": "https://gdg.community.dev/gdg-porto-velho/",
-    "gdgChapter": "GDG Porto Velho",
-    "city": "Porto Velho",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "latitude": -8.7635475,
-    "longitude": -63.8971723,
-    "gdgUrl": "https://gdg.community.dev/gdg-porto-velho/",
-    "devfestName": "DevFest Porto Velho 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "santo-domingo-de-los-tsachilas",
-    "destinationUrl": "https://gdg.community.dev/gdg-santo-domingo-de-los-tsachilas/",
-    "gdgChapter": "GDG Santo Domingo de los Tsachilas",
-    "city": "Santo Domingo",
-    "countryName": "Ecuador",
-    "countryCode": "EC",
-    "latitude": -0.2538414,
-    "longitude": -79.1763307,
-    "gdgUrl": "https://gdg.community.dev/gdg-santo-domingo-de-los-tsachilas/",
-    "devfestName": "DevFest Santo Domingo 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "varginha",
-    "destinationUrl": "https://gdg.community.dev/gdg-varginha/",
-    "gdgChapter": "GDG Varginha",
-    "city": "Varginha",
-    "countryName": "Brazil",
-    "countryCode": "BR",
-    "latitude": -21.5560459,
-    "longitude": -45.4363875,
-    "gdgUrl": "https://gdg.community.dev/gdg-varginha/",
-    "devfestName": "DevFest Varginha 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "agrigento",
-    "destinationUrl": "https://gdg.community.dev/gdg-agrigento/",
-    "gdgChapter": "GDG Agrigento",
-    "city": "Agrigento",
-    "countryName": "Italy",
-    "countryCode": "IT",
-    "latitude": 37.3088381,
-    "longitude": 13.5857818,
-    "gdgUrl": "https://gdg.community.dev/gdg-agrigento/",
-    "devfestName": "DevFest Agrigento 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "belgrade",
-    "destinationUrl": "https://gdg.community.dev/gdg-belgrade/",
-    "gdgChapter": "GDG Belgrade",
-    "city": "Belgrade",
-    "countryName": "Serbia",
-    "countryCode": "RS",
-    "latitude": 44.8125449,
-    "longitude": 20.46123,
-    "gdgUrl": "https://gdg.community.dev/gdg-belgrade/",
-    "devfestName": "DevFest Belgrade 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "bergen",
-    "destinationUrl": "https://gdg.community.dev/gdg-bergen/",
-    "gdgChapter": "GDG Bergen",
-    "city": "Bergen",
-    "countryName": "Norway",
-    "countryCode": "NO",
-    "latitude": 60.38,
-    "longitude": 5.34,
-    "gdgUrl": "https://gdg.community.dev/gdg-bergen/",
-    "devfestName": "DevFest Bergen 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "bristol",
-    "destinationUrl": "https://gdg.community.dev/gdg-bristol/",
-    "gdgChapter": "GDG Bristol",
-    "city": "Bristol",
-    "countryName": "United Kingdom",
-    "countryCode": "GB",
-    "latitude": 51.454513,
-    "longitude": -2.58791,
-    "gdgUrl": "https://gdg.community.dev/gdg-bristol/",
-    "devfestName": "DevFest Bristol 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "gurjaani",
-    "destinationUrl": "https://gdg.community.dev/gdg-gurjaani/",
-    "gdgChapter": "GDG Gurjaani",
-    "city": "Gurdżaani",
-    "countryName": "Georgia",
-    "countryCode": "GE",
-    "latitude": 41.7438812,
-    "longitude": 45.7893806,
-    "gdgUrl": "https://gdg.community.dev/gdg-gurjaani/",
-    "devfestName": "DevFest Gurdżaani 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "guzelyurt",
-    "destinationUrl": "https://gdg.community.dev/gdg-guzelyurt/",
-    "gdgChapter": "GDG Güzelyurt",
-    "city": "Güzelyurt",
-    "countryName": "Turkey",
-    "countryCode": "TR",
-    "latitude": 35.2123165,
-    "longitude": 32.9775675,
-    "gdgUrl": "https://gdg.community.dev/gdg-guzelyurt/",
-    "devfestName": "DevFest Güzelyurt 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "jeddah",
-    "destinationUrl": "https://gdg.community.dev/gdg-jeddah/",
-    "gdgChapter": "GDG Jeddah",
-    "city": "Jeddah",
-    "countryName": "Saudi Arabia",
-    "countryCode": "SA",
-    "latitude": 21.5,
-    "longitude": 39.17,
-    "gdgUrl": "https://gdg.community.dev/gdg-jeddah/",
-    "devfestName": "DevFest Jeddah 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "kokshetau",
-    "destinationUrl": "https://gdg.community.dev/gdg-kokshetau/",
-    "gdgChapter": "GDG Kokshetau",
-    "city": "Kokshetau",
-    "countryName": "Kazakhstan",
-    "countryCode": "KZ",
-    "latitude": 53.2871307,
-    "longitude": 69.4044494,
-    "gdgUrl": "https://gdg.community.dev/gdg-kokshetau/",
-    "devfestName": "DevFest Kokshetau 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "letterkenny",
-    "destinationUrl": "https://gdg.community.dev/gdg-letterkenny/",
-    "gdgChapter": "GDG Letterkenny",
-    "city": "Letterkenny",
-    "countryName": "Ireland",
-    "countryCode": "IE",
-    "latitude": 54.9533201,
-    "longitude": -7.7287972,
-    "gdgUrl": "https://gdg.community.dev/gdg-letterkenny/",
-    "devfestName": "DevFest Letterkenny 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "magdeburg",
-    "destinationUrl": "https://gdg.community.dev/gdg-magdeburg/",
-    "gdgChapter": "GDG Magdeburg",
-    "city": "Magdeburg",
-    "countryName": "Germany",
-    "countryCode": "DE",
-    "latitude": 52.1131758,
-    "longitude": 11.6080863,
-    "gdgUrl": "https://gdg.community.dev/gdg-magdeburg/",
-    "devfestName": "DevFest Magdeburg 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "najaf",
-    "destinationUrl": "https://gdg.community.dev/gdg-najaf/",
-    "gdgChapter": "GDG Najaf",
-    "city": "Najaf",
-    "countryName": "Iraq",
-    "countryCode": "IQ",
-    "latitude": 31.99,
-    "longitude": 44.33,
-    "gdgUrl": "https://gdg.community.dev/gdg-najaf/",
-    "devfestName": "DevFest Najaf 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "nizwa",
-    "destinationUrl": "https://gdg.community.dev/gdg-nizwa/",
-    "gdgChapter": "GDG Nizwa",
-    "city": "Nizwa",
-    "countryName": "Oman",
-    "countryCode": "OM",
-    "latitude": 22.9171031,
-    "longitude": 57.536292,
-    "gdgUrl": "https://gdg.community.dev/gdg-nizwa/",
-    "devfestName": "DevFest Nizwa 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "oskemen",
-    "destinationUrl": "https://gdg.community.dev/gdg-oskemen/",
-    "gdgChapter": "GDG Oskemen",
-    "city": "Öskemen",
-    "countryName": "Kazakhstan",
-    "countryCode": "KZ",
-    "latitude": 49.9749295,
-    "longitude": 82.6017244,
-    "gdgUrl": "https://gdg.community.dev/gdg-oskemen/",
-    "devfestName": "DevFest Öskemen 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "ourense",
-    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ourense-presents-google-devfest-2025/cohost-gdg-ourense",
-    "gdgChapter": "GDG Ourense",
-    "city": "Ourense",
-    "countryName": "Spain",
-    "countryCode": "ES",
-    "latitude": 42.3357893,
-    "longitude": -7.863881,
-    "gdgUrl": "https://gdg.community.dev/gdg-ourense/",
-    "devfestName": "Google DevFest 2025",
-    "devfestDate": "2025-11-21",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09T12:42:45.009Z"
-  },
-  {
-    "slug": "ramnicu-valcea",
-    "destinationUrl": "https://gdg.community.dev/gdg-ramnicu-valcea/",
-    "gdgChapter": "GDG Râmnicu Vâlcea",
-    "city": "Râmnicu Vâlcea",
-    "countryName": "Romania",
-    "countryCode": "RO",
-    "latitude": 45.0996753,
-    "longitude": 24.3693179,
-    "gdgUrl": "https://gdg.community.dev/gdg-ramnicu-valcea/",
-    "devfestName": "DevFest Râmnicu Vâlcea 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "salalah",
-    "destinationUrl": "https://gdg.community.dev/gdg-salalah/",
-    "gdgChapter": "GDG Salalah",
-    "city": "Salalah",
-    "countryName": "Oman",
-    "countryCode": "OM",
-    "latitude": 17.0193843,
-    "longitude": 54.1107505,
-    "gdgUrl": "https://gdg.community.dev/gdg-salalah/",
-    "devfestName": "DevFest Salalah 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "sunderland",
-    "destinationUrl": "https://gdg.community.dev/gdg-sunderland/",
-    "gdgChapter": "GDG Sunderland",
-    "city": "Sunderland",
-    "countryName": "United Kingdom",
-    "countryCode": "GB",
-    "latitude": 54.9044161,
-    "longitude": -1.3811746,
-    "gdgUrl": "https://gdg.community.dev/gdg-sunderland/",
-    "devfestName": "DevFest Sunderland 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "bamako",
-    "destinationUrl": "https://gdg.community.dev/gdg-bamako/",
-    "gdgChapter": "GDG Bamako",
-    "city": "Bamako",
-    "countryName": "Mali",
-    "countryCode": "ML",
-    "latitude": 12.65,
-    "longitude": -7.99,
-    "gdgUrl": "https://gdg.community.dev/gdg-bamako/",
-    "devfestName": "DevFest Bamako 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "juba",
-    "destinationUrl": "https://gdg.community.dev/gdg-juba/",
-    "gdgChapter": "GDG Juba",
-    "city": "Juba",
-    "countryName": "South Sudan",
-    "countryCode": "SS",
-    "latitude": 4.85,
-    "longitude": 31.6,
-    "gdgUrl": "https://gdg.community.dev/gdg-juba/",
-    "devfestName": "DevFest Juba 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
-  },
-  {
-    "slug": "greater-kwansai",
-    "destinationUrl": "https://gdg.community.dev/gdg-greater-kwansai/",
-    "gdgChapter": "GDG Greater Kwansai",
-    "city": "Kobe",
-    "countryName": "Japan",
-    "countryCode": "JP",
-    "latitude": 34.6900806,
-    "longitude": 135.1956311,
-    "gdgUrl": "https://gdg.community.dev/gdg-greater-kwansai/",
-    "devfestName": "DevFest Kobe 2025",
-    "devfestDate": "2025-06-01",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-09 10:43:48"
+    "updatedAt": "2025-04-16T20:11:33Z"
   }
 ]
