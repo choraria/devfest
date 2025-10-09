@@ -9526,7 +9526,7 @@
   },
   {
     "slug": "santa-cruz",
-    "destinationUrl": "https://gdg.community.dev/gdg-santa-cruz/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-santa-cruz-presents-devfest-santa-cruz-2025/",
     "gdgChapter": "GDG Santa Cruz",
     "city": "Santa Cruz",
     "countryName": "Bolivia",
@@ -9534,10 +9534,10 @@
     "latitude": -17.77,
     "longitude": -63.21,
     "gdgUrl": "https://gdg.community.dev/gdg-santa-cruz/",
-    "devfestName": "DevFest Santa Cruz 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DEVFEST SANTA CRUZ 2025",
+    "devfestDate": "2025-11-30",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.689Z"
+    "updatedAt": "2025-10-09T09:25:54.113Z"
   },
   {
     "slug": "santander",
