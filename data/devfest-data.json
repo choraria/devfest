@@ -9225,8 +9225,8 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
-    "slug": "santo-domingo-de-los-tsachilas",
-    "destinationUrl": "https://gdg.community.dev/gdg-santo-domingo-de-los-tsachilas/",
+    "slug": "santo-domingo-tsachilas",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-quito-presents-devfest-ecuador-2025/cohost-gdg-santo-domingo-de-los-tsachilas",
     "gdgChapter": "GDG Santo Domingo de los Tsachilas",
     "city": "Santo Domingo",
     "countryName": "Ecuador",
@@ -9234,8 +9234,8 @@
     "latitude": -0.2538414,
     "longitude": -79.1763307,
     "gdgUrl": "https://gdg.community.dev/gdg-santo-domingo-de-los-tsachilas/",
-    "devfestName": "DevFest Santo Domingo 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Ecuador 2025",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-09T10:43:48Z"
   },
