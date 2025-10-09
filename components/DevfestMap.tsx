@@ -1,6 +1,6 @@
 'use client';
 
-import { RedirectEntry } from '@/lib/redis';
+import { RedirectEntry } from '@/lib/data';
 import dynamic from 'next/dynamic';
 
 interface DevfestMapProps {

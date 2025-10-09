@@ -4,7 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
-import { RedirectEntry } from "@/lib/redis";
+import { RedirectEntry } from "@/lib/data";
 import { Copy, Github, Check, ArrowUpDown } from "lucide-react";
 import { Combobox } from "@/components/ui/combobox";
 

@@ -2,7 +2,7 @@
 
 import { useEffect, useState, useRef, useMemo } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet';
-import { RedirectEntry } from '@/lib/redis';
+import { RedirectEntry } from '@/lib/data';
 import { Button } from './ui/button';
 import { Combobox } from './ui/combobox';
 import 'leaflet/dist/leaflet.css';

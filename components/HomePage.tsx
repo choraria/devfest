@@ -2,7 +2,7 @@
 
 import DevfestDirectory from "@/components/DevfestDirectory";
 import DevfestMap from "@/components/DevfestMap";
-import { RedirectEntry } from "@/lib/redis";
+import { RedirectEntry } from "@/lib/data";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { MapPin, Table2, SearchCode } from "lucide-react";
 import { ThemeToggle } from "@/components/ThemeToggle";

@@ -16,7 +16,7 @@ A simple, open-source directory and URL redirector for Google Developer Group (G
 
 - **Frontend**: Next.js, TypeScript, Tailwind CSS, shadcn/ui
 - **Backend**: Next.js API routes
-- **Data Storage**: Upstash Redis
+- **Data Storage**: Static JSON file
 - **Deployment**: Vercel
 - **Automation**: GitHub Actions for updates
 - **Mapping**: Leaflet with theme-aware tiles
@@ -26,7 +26,6 @@ A simple, open-source directory and URL redirector for Google Developer Group (G
 ### Prerequisites
 
 - Node.js 18+ and npm
-- Upstash Redis account
 
 ### Installation
 
@@ -41,19 +40,12 @@ A simple, open-source directory and URL redirector for Google Developer Group (G
    npm install
    ```
 
-3. Create a `.env.local` file with your Upstash Redis credentials:
+3. Create a `.env.local` file with your site configuration:
    ```
-   UPSTASH_REDIS_REST_URL=your-redis-url
-   UPSTASH_REDIS_REST_TOKEN=your-redis-token
    NEXT_PUBLIC_SITE_URL=https://devfe.st
    ```
 
-4. Seed the database with sample data (optional, for development):
-   ```
-   npm run seed
-   ```
-
-5. Start the development server:
+4. Start the development server:
    ```
    npm run dev
    ```
@@ -69,7 +61,7 @@ Each redirect entry contains:
 - `updatedBy`: GitHub username of last updater
 - `updatedAt`: ISO timestamp of last update
 
-Note: The `slug` is used as the Redis key and is required in the issue title but not stored in the entry data.
+Note: The `slug` is used as the identifier for the redirect and is required in the issue title but not stored in the entry data.
 
 ### Optional Fields:
 - `gdgChapter`: GDG chapter name
