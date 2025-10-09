@@ -5281,7 +5281,7 @@
   },
   {
     "slug": "kampala",
-    "destinationUrl": "https://gdg.community.dev/gdg-kampala/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kampala-presents-devfest-kampala-2025/",
     "gdgChapter": "GDG Kampala",
     "city": "Kampala",
     "countryName": "Uganda",
@@ -5290,9 +5290,9 @@
     "longitude": 32.58,
     "gdgUrl": "https://gdg.community.dev/gdg-kampala/",
     "devfestName": "DevFest Kampala 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33.685Z"
+    "updatedAt": "2025-10-09T05:14:58.559Z"
   },
   {
     "slug": "kano",
