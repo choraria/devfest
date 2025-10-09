@@ -8161,7 +8161,7 @@
   },
   {
     "slug": "peshawar",
-    "destinationUrl": "https://gdg.community.dev/gdg-peshawar/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-peshawar-presents-devfest-peshawar-2025-amplifai/",
     "gdgChapter": "GDG Peshawar",
     "city": "Peshawar",
     "countryName": "Pakistan",
@@ -8169,10 +8169,10 @@
     "latitude": 34.01,
     "longitude": 71.54,
     "gdgUrl": "https://gdg.community.dev/gdg-peshawar/",
-    "devfestName": "DevFest Peshawar 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Peshawar 2025: AmplifAI",
+    "devfestDate": "2025-12-28",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:55:22.170Z"
   },
   {
     "slug": "petropolis",
