@@ -166,7 +166,7 @@
   },
   {
     "slug": "adana",
-    "destinationUrl": "https://gdg.community.dev/gdg-adana/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-adana-presents-devfest-adana-2025/",
     "gdgChapter": "GDG Adana",
     "city": "Adana",
     "countryName": "Turkey",
@@ -175,9 +175,9 @@
     "longitude": 35.3308285,
     "gdgUrl": "https://gdg.community.dev/gdg-adana/",
     "devfestName": "DevFest Adana 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-09T13:52:05.079Z"
   },
   {
     "slug": "addis",
