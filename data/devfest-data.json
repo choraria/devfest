@@ -5176,7 +5176,7 @@
   },
   {
     "slug": "kathmandu",
-    "destinationUrl": "https://gdg.community.dev/gdg-kathmandu/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-devfest-kathmandu-2025/",
     "gdgChapter": "GDG Kathmandu",
     "city": "Kathmandu",
     "countryName": "Nepal",
@@ -5185,9 +5185,9 @@
     "longitude": 85.31,
     "gdgUrl": "https://gdg.community.dev/gdg-kathmandu/",
     "devfestName": "DevFest Kathmandu 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-10T12:49:08.778Z"
   },
   {
     "slug": "katsina",
