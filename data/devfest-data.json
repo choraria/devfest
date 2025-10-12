@@ -1516,7 +1516,7 @@
   },
   {
     "slug": "bizerte",
-    "destinationUrl": "https://gdg.community.dev/gdg-bizerte/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bizerte-presents-gdg-bizerte-devfest-2025-kick-off/",
     "gdgChapter": "GDG Bizerte",
     "city": "Bizerte",
     "countryName": "Tunisia",
@@ -1524,10 +1524,10 @@
     "latitude": 37.29,
     "longitude": 9.87,
     "gdgUrl": "https://gdg.community.dev/gdg-bizerte/",
-    "devfestName": "DevFest Bizerte 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Bizerte DevFest 2025 Kick-off",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-12T09:09:01.173Z"
   },
   {
     "slug": "bletchley",
