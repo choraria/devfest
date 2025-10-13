@@ -4951,7 +4951,7 @@
   },
   {
     "slug": "jodhpur",
-    "destinationUrl": "https://gdg.community.dev/gdg-jodhpur/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-jodhpur-presents-gdg-jodhpur-devfest-2025/",
     "gdgChapter": "GDG Jodhpur",
     "city": "Jodhpur",
     "countryName": "India",
@@ -4959,10 +4959,10 @@
     "latitude": 26.29,
     "longitude": 73.02,
     "gdgUrl": "https://gdg.community.dev/gdg-jodhpur/",
-    "devfestName": "DevFest Jodhpur 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Jodhpur Devfest 2025",
+    "devfestDate": "2025-10-26",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-13T08:53:15.249Z"
   },
   {
     "slug": "jogjakarta",
