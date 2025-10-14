@@ -6526,7 +6526,7 @@
   },
   {
     "slug": "manila",
-    "destinationUrl": "https://gdg.community.dev/gdg-manila/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-manila-presents-devfest-manila-2025/",
     "gdgChapter": "GDG Manila",
     "city": "Manila",
     "countryName": "Philippines",
@@ -6535,9 +6535,9 @@
     "longitude": 120.97,
     "gdgUrl": "https://gdg.community.dev/gdg-manila/",
     "devfestName": "DevFest Manila 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-15",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-14T16:02:38.200Z"
   },
   {
     "slug": "maputo",
