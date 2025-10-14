@@ -9766,7 +9766,7 @@
   },
   {
     "slug": "sri-lanka",
-    "destinationUrl": "https://gdg.community.dev/gdg-sri-lanka/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-devfest-sri-lanka-2025-conference-1/",
     "gdgChapter": "GDG Sri Lanka",
     "city": "Colombo",
     "countryName": "Sri Lanka",
@@ -9774,10 +9774,10 @@
     "latitude": 6.93,
     "longitude": 79.85,
     "gdgUrl": "https://gdg.community.dev/gdg-sri-lanka/",
-    "devfestName": "DevFest Colombo 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Sri Lanka 2025 - Conference",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-14T16:01:31.005Z"
   },
   {
     "slug": "stanford",
