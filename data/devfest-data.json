@@ -4456,7 +4456,7 @@
   },
   {
     "slug": "hubli",
-    "destinationUrl": "https://gdg.community.dev/gdg-hubli/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-hubli-presents-devfest-hubballi/",
     "gdgChapter": "GDG Hubli",
     "city": "Hubballi",
     "countryName": "India",
@@ -4464,10 +4464,10 @@
     "latitude": 15.36,
     "longitude": 75.13,
     "gdgUrl": "https://gdg.community.dev/gdg-hubli/",
-    "devfestName": "DevFest Hubballi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Hubballi",
+    "devfestDate": "2025-11-09",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-15T06:56:39.937Z"
   },
   {
     "slug": "huddersfield",
