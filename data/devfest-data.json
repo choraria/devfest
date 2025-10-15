@@ -6181,7 +6181,7 @@
   },
   {
     "slug": "lucknow",
-    "destinationUrl": "https://gdg.community.dev/gdg-lucknow/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lucknow-presents-devfest-lucknow-2025/cohost-gdg-lucknow",
     "gdgChapter": "GDG Lucknow",
     "city": "Lucknow",
     "countryName": "India",
@@ -6190,9 +6190,9 @@
     "longitude": 80.946166,
     "gdgUrl": "https://gdg.community.dev/gdg-lucknow/",
     "devfestName": "DevFest Lucknow 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-16",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-15T18:12:10.260Z"
   },
   {
     "slug": "ludhiana",
