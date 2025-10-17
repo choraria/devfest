@@ -2431,7 +2431,7 @@
   },
   {
     "slug": "charlotte",
-    "destinationUrl": "https://gdg.community.dev/gdg-charlotte/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-charlotte-presents-gdg-charlotte-devfest-2025-ai-go-concurrency-and-next-gen-cloud-security-unc-charlotte-woodward-106/",
     "gdgChapter": "GDG Charlotte",
     "city": "Charlotte",
     "countryName": "United States",
@@ -2439,10 +2439,10 @@
     "latitude": 35.23,
     "longitude": -80.84,
     "gdgUrl": "https://gdg.community.dev/gdg-charlotte/",
-    "devfestName": "DevFest Charlotte 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Charlotte DevFest 2025: AI, Go Concurrency, and Next-Gen Cloud Security",
+    "devfestDate": "2025-11-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-17T06:34:40.231Z"
   },
   {
     "slug": "chengde",
