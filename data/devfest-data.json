@@ -1336,7 +1336,7 @@
   },
   {
     "slug": "belgrade",
-    "destinationUrl": "https://gdg.community.dev/gdg-belgrade/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-belgrade-presents-devfest-2025-conference/cohost-gdg-belgrade",
     "gdgChapter": "GDG Belgrade",
     "city": "Belgrade",
     "countryName": "Serbia",
@@ -1344,10 +1344,10 @@
     "latitude": 44.8125449,
     "longitude": 20.46123,
     "gdgUrl": "https://gdg.community.dev/gdg-belgrade/",
-    "devfestName": "DevFest Belgrade 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest 2025 - Conference",
+    "devfestDate": "2025-11-28",
     "updatedBy": "choraria",
-    "updatedAt": "2025-10-09T10:43:48Z"
+    "updatedAt": "2025-10-21T07:08:29.309Z"
   },
   {
     "slug": "bellevue",
