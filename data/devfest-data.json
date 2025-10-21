@@ -10306,7 +10306,7 @@
   },
   {
     "slug": "tijuana",
-    "destinationUrl": "https://gdg.community.dev/gdg-tijuana/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2025-kickoff-event/",
     "gdgChapter": "GDG Tijuana",
     "city": "Tijuana",
     "countryName": "Mexico",
@@ -10314,10 +10314,10 @@
     "latitude": 32.5331957,
     "longitude": -117.0192784,
     "gdgUrl": "https://gdg.community.dev/gdg-tijuana/",
-    "devfestName": "DevFest Tijuana 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DEVFEST Tijuana 2025: Kickoff Event",
+    "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
-    "updatedAt": "2025-10-09T10:43:48Z"
+    "updatedAt": "2025-10-21T17:30:15.487Z"
   },
   {
     "slug": "tizi-ouzou",
