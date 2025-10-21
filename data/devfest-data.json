@@ -181,7 +181,7 @@
   },
   {
     "slug": "addis",
-    "destinationUrl": "https://gdg.community.dev/gdg-addis/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-addis-presents-gdg-addis-devfest25/",
     "gdgChapter": "GDG Addis",
     "city": "Addis Ababa",
     "countryName": "Ethiopia",
@@ -189,10 +189,10 @@
     "latitude": 9.03,
     "longitude": 38.74,
     "gdgUrl": "https://gdg.community.dev/gdg-addis/",
-    "devfestName": "DevFest Addis Ababa 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Addis DevFest'25",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-21T07:10:05.328Z"
   },
   {
     "slug": "adelaide",
