@@ -5221,7 +5221,7 @@
   },
   {
     "slug": "keffi",
-    "destinationUrl": "https://gdg.community.dev/gdg-keffi/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-keffi-presents-devfest-keffi-2025/",
     "gdgChapter": "GDG Keffi",
     "city": "Keffi",
     "countryName": "Nigeria",
@@ -5230,9 +5230,9 @@
     "longitude": 7.87,
     "gdgUrl": "https://gdg.community.dev/gdg-keffi/",
     "devfestName": "DevFest Keffi 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-21T07:06:59.073Z"
   },
   {
     "slug": "kenitra",
