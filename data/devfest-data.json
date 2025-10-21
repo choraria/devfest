@@ -1186,7 +1186,7 @@
   },
   {
     "slug": "basra",
-    "destinationUrl": "https://gdg.community.dev/gdg-basra/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-basra-presents-devfest-basra-2025-beyond-chat-gemini-in-action/",
     "gdgChapter": "GDG Basra",
     "city": "Basrah",
     "countryName": "Iraq",
@@ -1194,10 +1194,10 @@
     "latitude": 30.5,
     "longitude": 47.83,
     "gdgUrl": "https://gdg.community.dev/gdg-basra/",
-    "devfestName": "DevFest Basrah 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "DevFest Basra 2025 | Beyond Chat: Gemini in Action",
+    "devfestDate": "2025-10-24",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-21T09:27:22.872Z"
   },
   {
     "slug": "bassam",
