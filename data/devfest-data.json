@@ -931,7 +931,7 @@
   },
   {
     "slug": "baghdad",
-    "destinationUrl": "https://gdg.community.dev/gdg-baghdad/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-baghdad-presents-devfest-maysan-2025/",
     "gdgChapter": "GDG Baghdad",
     "city": "Baghdad",
     "countryName": "Iraq",
@@ -939,10 +939,10 @@
     "latitude": 33.315241,
     "longitude": 44.3660671,
     "gdgUrl": "https://gdg.community.dev/gdg-baghdad/",
-    "devfestName": "DevFest Baghdad 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest Maysan 2025",
+    "devfestDate": "2025-10-31",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-21T07:12:08.598Z"
   },
   {
     "slug": "baguio",
