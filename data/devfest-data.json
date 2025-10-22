@@ -10305,6 +10305,21 @@
     "updatedAt": "2025-04-16T20:11:33Z"
   },
   {
+    "slug": "tiaret",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-tiaret-presents-devfest-tiaret-2025/",
+    "gdgChapter": "GDG Tiaret",
+    "city": "Tiaret",
+    "countryName": "Algeria",
+    "countryCode": "DZ",
+    "latitude": 35.38,
+    "longitude": 1.32,
+    "gdgUrl": "https://gdg.community.dev/gdg-tiaret/",
+    "devfestName": "DevFest Tiaret 2025",
+    "devfestDate": "2025-10-25",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-22T00:00:00Z"
+  },
+  {
     "slug": "tijuana",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2025-kickoff-event/",
     "gdgChapter": "GDG Tijuana",
@@ -11173,6 +11188,21 @@
     "devfestDate": "2025-11-27",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-09T13:01:10Z"
+  },
+  {
+    "slug": "yerevan",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-yerevan-presents-devfest-armenia-2025/",
+    "gdgChapter": "GDG Yerevan",
+    "city": "Yerevan",
+    "countryName": "Armenia",
+    "countryCode": "AM",
+    "latitude": 40.17,
+    "longitude": 44.52,
+    "gdgUrl": "https://gdg.community.dev/gdg-yerevan/",
+    "devfestName": "DevFest Armenia 2025",
+    "devfestDate": "2025-12-20",
+    "updatedBy": "choraria",
+    "updatedAt": "2025-10-22T00:00:00Z"
   },
   {
     "slug": "yola",
