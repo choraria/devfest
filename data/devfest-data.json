@@ -11796,7 +11796,7 @@
     "city": "Astaná",
     "countryName": "Kazakhstan",
     "countryCode": "KZ",
-    "latitude": 51.1605227000,
+    "latitude": 51.1605227,
     "longitude": 71.4703558,
     "gdgUrl": "https://gdg.community.dev/gdg-cloud-astana/",
     "devfestName": "DevFest Astaná 2025",
@@ -11857,7 +11857,7 @@
     "countryName": "India",
     "countryCode": "IN",
     "latitude": 9.9312328,
-    "longitude": 76.2673041000,
+    "longitude": 76.2673041,
     "gdgUrl": "https://gdg.community.dev/gdg-cloud-kochi/",
     "devfestName": "DevFest Kochi 2025",
     "devfestDate": "2025-06-01",
@@ -11941,7 +11941,7 @@
   },
   {
     "slug": "trivandrum",
-    "destinationUrl": "https://gdg.community.dev/gdg-cloud-trivandrum/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-thiruvananthapuram-presents-devfest-2025-thiruvananthapuram/cohost-gdg-cloud-trivandrum",
     "gdgChapter": "GDG Cloud Trivandrum",
     "city": "Thiruvananthapuram",
     "countryName": "India",
@@ -11949,9 +11949,9 @@
     "latitude": 8.5241391,
     "longitude": 76.9366376,
     "gdgUrl": "https://gdg.community.dev/gdg-cloud-trivandrum/",
-    "devfestName": "DevFest Thiruvananthapuram 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "Devfest 2025 Thiruvananthapuram",
+    "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
-    "updatedAt": "2025-10-22T08:42:11Z"
+    "updatedAt": "2025-10-22T08:48:17.675Z"
   }
 ]
