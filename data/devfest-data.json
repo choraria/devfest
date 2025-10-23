@@ -2356,7 +2356,7 @@
   },
   {
     "slug": "chandigarh",
-    "destinationUrl": "https://gdg.community.dev/gdg-chandigarh/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-chandigarh-presents-devfest-chandigarh-2025/",
     "gdgChapter": "GDG Chandigarh",
     "city": "Chandigarh",
     "countryName": "India",
@@ -2365,9 +2365,9 @@
     "longitude": 76.78,
     "gdgUrl": "https://gdg.community.dev/gdg-chandigarh/",
     "devfestName": "DevFest Chandigarh 2025",
-    "devfestDate": "2025-06-01",
+    "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-23T17:00:54.548Z"
   },
   {
     "slug": "changhua",
@@ -11962,7 +11962,7 @@
     "countryCode": "US",
     "countryName": "United States",
     "latitude": 33.1506744,
-    "longitude": -96.8236116000,
+    "longitude": -96.8236116,
     "gdgUrl": "https://gdg.community.dev/gdg-frisco/",
     "devfestName": "DevFest Frisco 2025",
     "devfestDate": "2025-06-01",
