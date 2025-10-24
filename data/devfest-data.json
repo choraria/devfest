@@ -6346,7 +6346,7 @@
   },
   {
     "slug": "madurai",
-    "destinationUrl": "https://gdg.community.dev/gdg-madurai/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-madurai-presents-gdg-madurai-devfest-2025-celebrating-a-decade-of-community/",
     "gdgChapter": "GDG Madurai",
     "city": "Madurai",
     "countryName": "India",
@@ -6354,10 +6354,10 @@
     "latitude": 9.92,
     "longitude": 78.12,
     "gdgUrl": "https://gdg.community.dev/gdg-madurai/",
-    "devfestName": "DevFest Madurai 2025",
-    "devfestDate": "2025-06-01",
+    "devfestName": "GDG Madurai DevFest 2025: Celebrating a Decade of Community",
+    "devfestDate": "2025-12-13",
     "updatedBy": "choraria",
-    "updatedAt": "2025-04-16T20:11:33Z"
+    "updatedAt": "2025-10-24T07:10:34.601Z"
   },
   {
     "slug": "magdeburg",
