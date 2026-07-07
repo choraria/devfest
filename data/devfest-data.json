@@ -8716,7 +8716,7 @@
   },
   {
     "slug": "pisa",
-    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pisa-presents-gdg-devfest-pisa-2025/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-pisa-presents-devfest-pisa-2026/",
     "gdgChapter": "GDG Pisa",
     "city": "Pisa",
     "countryName": "Italy",
@@ -8724,10 +8724,10 @@
     "latitude": 43.72,
     "longitude": 10.38,
     "gdgUrl": "https://gdg.community.dev/gdg-pisa/",
-    "devfestName": "GDG DevFest Pisa 2025",
-    "devfestDate": "2025-04-12",
+    "devfestName": "DevFest Pisa 2026",
+    "devfestDate": "2026-04-18",
     "updatedBy": "choraria",
-    "updatedAt": "2025-10-29T10:47:44Z"
+    "updatedAt": "2026-07-07T21:15:26.832Z"
   },
   {
     "slug": "pittsburgh",
