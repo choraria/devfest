@@ -90,6 +90,8 @@ jobs:
             
             if (!slug) {
               errors.push("Missing required field: slug in the issue title");
+            } else if (!/^[a-z0-9-]+$/.test(slug)) {
+              errors.push("slug must contain only lowercase letters, numbers, and hyphens");
             }
             
             if (!dataWithoutSlug.destinationUrl) {
@@ -129,41 +131,51 @@ jobs:
               
               const currentData = JSON.parse(fs.readFileSync(dataFilePath, 'utf8'));
               
-              // Check if slug exists
               const existingIndex = currentData.findIndex(entry => entry.slug === slug);
+              let updatedEntry;
+              let isNewEntry = false;
+              
               if (existingIndex === -1) {
-                throw new Error(`No existing entry found for slug: ${slug}. This workflow only supports updating existing entries.`);
+                isNewEntry = true;
+                updatedEntry = {
+                  slug,
+                  destinationUrl: dataWithoutSlug.destinationUrl,
+                  devfestDate: dataWithoutSlug.devfestDate,
+                  devfestName: dataWithoutSlug.devfestName,
+                  city: city,
+                  updatedBy: dataWithoutSlug.updatedBy,
+                  updatedAt: dataWithoutSlug.updatedAt
+                };
+                currentData.push(updatedEntry);
+              } else {
+                const existingData = currentData[existingIndex];
+                updatedEntry = {
+                  ...existingData,
+                  destinationUrl: dataWithoutSlug.destinationUrl,
+                  devfestDate: dataWithoutSlug.devfestDate,
+                  devfestName: dataWithoutSlug.devfestName,
+                  updatedBy: dataWithoutSlug.updatedBy,
+                  updatedAt: dataWithoutSlug.updatedAt
+                };
+                currentData[existingIndex] = updatedEntry;
               }
               
-              // Get existing data and preserve metadata
-              const existingData = currentData[existingIndex];
-              
-              // Create updated entry by preserving existing metadata and updating only specific fields
-              const updatedEntry = {
-                ...existingData,
-                destinationUrl: dataWithoutSlug.destinationUrl,
-                devfestDate: dataWithoutSlug.devfestDate,
-                devfestName: dataWithoutSlug.devfestName,
-                updatedBy: dataWithoutSlug.updatedBy,
-                updatedAt: dataWithoutSlug.updatedAt
-              };
-              
-              currentData[existingIndex] = updatedEntry;
+              currentData.sort((a, b) => (a.slug || '').localeCompare(b.slug || ''));
               fs.writeFileSync(dataFilePath, JSON.stringify(currentData, null, 2) + '\n');
               
-              const branchName = `update-devfest-${slug}-${Date.now()}`;
+              const branchName = `${isNewEntry ? 'add' : 'update'}-devfest-${slug}-${Date.now()}`;
               execSync(`git checkout -b ${branchName}`);
               execSync(`git add ${dataFilePath}`);
-              execSync(`git commit -m "Update DevFest data for ${slug}"`);
+              execSync(`git commit -m "${isNewEntry ? 'Add' : 'Update'} DevFest data for ${slug}"`);
               execSync(`git push origin ${branchName}`);
               
               // Create PR
               const prResponse = await github.rest.pulls.create({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                title: `Update DevFest data for ${slug}`,
+                title: `${isNewEntry ? 'Add' : 'Update'} DevFest data for ${slug}`,
                 body: [
-                  `This PR updates the DevFest data for \`${slug}\` based on issue #${context.issue.number}.`,
+                  `This PR ${isNewEntry ? 'adds' : 'updates'} the DevFest data for \`${slug}\` based on issue #${context.issue.number}.`,
                   '',
                   '**Changes:**',
                   '```json',
@@ -193,7 +205,7 @@ jobs:
               
               // Format success message
               const successMessage = [
-                `✅ URL update processed successfully!`,
+                `✅ URL ${isNewEntry ? 'add' : 'update'} processed successfully!`,
                 ` `,
                 ` `,
                 `**URL Details:**`,
@@ -205,7 +217,7 @@ jobs:
                 '```',
                 ` `,
                 ` `,
-                `The URL has been updated successfully while preserving existing metadata.`,
+                `The URL has been ${isNewEntry ? 'added' : 'updated'} successfully${isNewEntry ? '' : ' while preserving existing metadata'}.`,
                 ``,
                 `A pull request has been created to update the JSON data file: ${prResponse.data.html_url}`,
                 ``,
