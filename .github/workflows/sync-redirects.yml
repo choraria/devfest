@@ -103,16 +103,15 @@ jobs:
             const shortUrl = slug ? `https://${host}/${slug}` : `https://${host}`;
 
             if (cfResult === 'success' && jsonResult === 'success') {
-              const body = [
-                `✅ **Update complete** — your DevFest URL is live everywhere.`,
-                '',
-                slug ? `- **Short link:** ${shortUrl}` : null,
-                '- **Cloudflare redirects** synced',
-                '- **`devfest-data.json`** updated on the live site',
-                '- **Directory listing** will reflect the change on refresh',
-                '',
-                'Thanks for keeping DevFest links up to date!'
-              ].filter(Boolean).join('\n');
+              const body = slug
+                ? [
+                    `DevFest short link has been updated: \`${shortUrl}\``,
+                    'Directory listing will reflect the change on refresh!'
+                  ].join('\n')
+                : [
+                    'DevFest short link has been updated.',
+                    'Directory listing will reflect the change on refresh!'
+                  ].join('\n');
 
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
