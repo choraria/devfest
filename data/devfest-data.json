@@ -4756,7 +4756,7 @@
   },
   {
     "slug": "hudson",
-    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-troy-25-multi-track-conference/cohost-gdg-hudson",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-hudson-presents-hvtech-show-amp-tell-makers-creatives-edition-newburgh-ny/",
     "gdgChapter": "GDG Hudson",
     "city": "Hudson",
     "countryName": "United States",
@@ -4764,10 +4764,10 @@
     "latitude": 42.2528649,
     "longitude": -73.790959,
     "gdgUrl": "https://gdg.community.dev/gdg-hudson/",
-    "devfestName": "DevFest Troy '25 - multi-track conference",
-    "devfestDate": "2025-10-31",
-    "updatedBy": "choraria",
-    "updatedAt": "2025-10-29T10:47:44Z"
+    "devfestName": "DevFest Troy'26",
+    "devfestDate": "2026-10-23",
+    "updatedBy": "Yulia-O",
+    "updatedAt": "2026-07-07T14:26:02.576Z"
   },
   {
     "slug": "hyderabad",
