@@ -55,7 +55,7 @@ function loadAndValidateEntries() {
     if (!entry.slug) {
       throw new Error("Entry missing slug");
     }
-    if (!/^[a-z0-9-]+$/.test(entry.slug)) {
+    if (!entry.slug || /[\s/]/.test(entry.slug)) {
       throw new Error(`Invalid slug format: ${entry.slug}`);
     }
     if (slugs.has(entry.slug)) {

@@ -90,8 +90,8 @@ jobs:
             
             if (!slug) {
               errors.push("Missing required field: slug in the issue title");
-            } else if (!/^[a-z0-9-]+$/.test(slug)) {
-              errors.push("slug must contain only lowercase letters, numbers, and hyphens");
+            } else if (/[\s/]/.test(slug)) {
+              errors.push("slug must not contain spaces or slashes");
             }
             
             if (!dataWithoutSlug.destinationUrl) {
