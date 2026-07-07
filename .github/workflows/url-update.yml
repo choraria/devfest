@@ -25,14 +25,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_GITHUB_TOKEN }}
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-      
-      - name: Install dependencies
-        run: npm ci
+          ref: main
       
       - name: Extract issue body
         id: extract
@@ -125,8 +118,15 @@ jobs:
             }
             
             try {
-              // Update JSON file
               const dataFilePath = path.join(process.cwd(), 'data', 'devfest-data.json');
+              
+              // Git operations — sync to latest main first so PRs inherit current dependencies
+              execSync('git config user.name "github-actions[bot]"');
+              execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
+              execSync('git fetch origin main');
+              execSync('git checkout main');
+              execSync('git pull origin main');
+              
               const currentData = JSON.parse(fs.readFileSync(dataFilePath, 'utf8'));
               
               // Check if slug exists
@@ -148,13 +148,8 @@ jobs:
                 updatedAt: dataWithoutSlug.updatedAt
               };
               
-              // Update the JSON file
               currentData[existingIndex] = updatedEntry;
               fs.writeFileSync(dataFilePath, JSON.stringify(currentData, null, 2) + '\n');
-              
-              // Git operations
-              execSync('git config user.name "github-actions[bot]"');
-              execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
               
               const branchName = `update-devfest-${slug}-${Date.now()}`;
               execSync(`git checkout -b ${branchName}`);
