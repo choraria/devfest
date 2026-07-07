@@ -4,7 +4,6 @@ on:
   issues:
     types: [labeled]
 
-# Add permissions block to grant access to issues and contents
 permissions:
   issues: write
   contents: write
@@ -13,20 +12,17 @@ permissions:
 jobs:
   process-url-request:
     if: |
-      contains(github.event.issue.labels.*.name, 'update-url') && 
+      contains(github.event.issue.labels.*.name, 'update-url') &&
       !contains(github.event.issue.labels.*.name, 'processed')
     runs-on: ubuntu-latest
-    environment: 
-      name: Production
-      url: ${{ github.server_url }}/${{ github.repository }}/issues/${{ github.event.issue.number }}
-    
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_GITHUB_TOKEN }}
           ref: main
-      
+
       - name: Extract issue body
         id: extract
         uses: actions/github-script@v7
@@ -35,31 +31,28 @@ jobs:
           script: |
             const issueBody = context.payload.issue.body;
             const issueTitle = context.payload.issue.title;
-            
-            // Extract slug from title
+
             const slugMatch = issueTitle.match(/\(slug:\s*([^)]+)\)/);
             const slug = slugMatch ? slugMatch[1].trim() : '';
-            
-            // Extract city from title for default DevFest name
+
             const cityMatch = issueTitle.match(/Update DevFest details:\s*([^(]+)/);
             const city = cityMatch ? cityMatch[1].trim() : slug;
-            
+
             const extractField = (id) => {
               const regex = new RegExp(`### ${id}[^#]*\\n\\n([^#]+)(?=###|$)`, 'ms');
               const match = issueBody.match(regex);
               return match ? match[1].trim() : '';
             };
-            
+
             const destinationUrl = extractField('Destination URL');
             let devfestName = extractField('DevFest Name');
             const devfestDate = extractField('DevFest Date');
-            
-            // If DevFest name is empty, generate default format
+
             if (!devfestName) {
               const year = devfestDate ? new Date(devfestDate).getFullYear() : new Date().getFullYear();
               devfestName = `DevFest ${city} ${year}`;
             }
-            
+
             const data = {
               slug,
               destinationUrl,
@@ -68,9 +61,9 @@ jobs:
               updatedBy: context.payload.issue.user.login,
               updatedAt: new Date().toISOString()
             };
-            
+
             core.setOutput('data', JSON.stringify(data));
-      
+
       - name: Update JSON file
         uses: actions/github-script@v7
         env:
@@ -81,25 +74,24 @@ jobs:
             const fs = require('fs');
             const path = require('path');
             const { execSync } = require('child_process');
-            
+
             let inputData = JSON.parse(process.env.URL_DATA);
             const { slug, ...dataWithoutSlug } = inputData;
-            
-            // Validate required fields and formats
+
             const errors = [];
-            
+
             if (!slug) {
               errors.push("Missing required field: slug in the issue title");
             } else if (/[\s/]/.test(slug)) {
               errors.push("slug must not contain spaces or slashes");
             }
-            
+
             if (!dataWithoutSlug.destinationUrl) {
               errors.push("Missing required field: destinationUrl");
             } else if (!dataWithoutSlug.destinationUrl.startsWith('https://')) {
               errors.push("destinationUrl must be a valid HTTPS URL");
             }
-            
+
             if (!dataWithoutSlug.devfestDate) {
               errors.push("Missing required field: devfestDate");
             } else {
@@ -108,7 +100,7 @@ jobs:
                 errors.push("devfestDate must be in YYYY-MM-DD format");
               }
             }
-            
+
             if (errors.length > 0) {
               await github.rest.issues.createComment({
                 issue_number: context.issue.number,
@@ -118,23 +110,22 @@ jobs:
               });
               return;
             }
-            
+
             try {
               const dataFilePath = path.join(process.cwd(), 'data', 'devfest-data.json');
-              
-              // Git operations — sync to latest main first so PRs inherit current dependencies
+
               execSync('git config user.name "github-actions[bot]"');
               execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
               execSync('git fetch origin main');
               execSync('git checkout main');
               execSync('git pull origin main');
-              
+
               const currentData = JSON.parse(fs.readFileSync(dataFilePath, 'utf8'));
-              
+
               const existingIndex = currentData.findIndex(entry => entry.slug === slug);
               let updatedEntry;
               let isNewEntry = false;
-              
+
               if (existingIndex === -1) {
                 isNewEntry = true;
                 updatedEntry = {
@@ -159,17 +150,16 @@ jobs:
                 };
                 currentData[existingIndex] = updatedEntry;
               }
-              
+
               currentData.sort((a, b) => (a.slug || '').localeCompare(b.slug || ''));
               fs.writeFileSync(dataFilePath, JSON.stringify(currentData, null, 2) + '\n');
-              
+
               const branchName = `${isNewEntry ? 'add' : 'update'}-devfest-${slug}-${Date.now()}`;
               execSync(`git checkout -b ${branchName}`);
               execSync(`git add ${dataFilePath}`);
               execSync(`git commit -m "${isNewEntry ? 'Add' : 'Update'} DevFest data for ${slug}"`);
               execSync(`git push origin ${branchName}`);
-              
-              // Create PR
+
               const prResponse = await github.rest.pulls.create({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -182,57 +172,56 @@ jobs:
                   JSON.stringify(updatedEntry, null, 2),
                   '```',
                   '',
-                  '_Note: This branch will be automatically deleted after merging._'
+                  '> Maintainer: click **Approve** on this PR to publish. Auto-merge is enabled — no manual merge needed.'
                 ].join('\n'),
                 head: branchName,
                 base: 'main'
               });
-              
-              // Enable auto-delete for the PR's branch
+
+              try {
+                await github.rest.pulls.enableAutoMerge({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: prResponse.data.number,
+                  merge_method: 'squash'
+                });
+              } catch (autoMergeError) {
+                core.warning(`Could not enable auto-merge: ${autoMergeError.message}`);
+              }
+
               await github.rest.repos.update({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 delete_branch_on_merge: true
               });
-              
-              // Add processed label
+
               await github.rest.issues.addLabels({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 labels: ['processed']
               });
-              
-              // Format success message
+
               const successMessage = [
-                `✅ URL ${isNewEntry ? 'add' : 'update'} processed successfully!`,
-                ` `,
-                ` `,
-                `**URL Details:**`,
+                `✅ Your update request for \`${slug}\` has been validated and a pull request is ready for review.`,
+                '',
+                '**Proposed changes:**',
                 '```json',
-                JSON.stringify({
-                  slug,
-                  ...updatedEntry
-                }, null, 2),
+                JSON.stringify({ slug, ...updatedEntry }, null, 2),
                 '```',
-                ` `,
-                ` `,
-                `The URL has been ${isNewEntry ? 'added' : 'updated'} successfully${isNewEntry ? '' : ' while preserving existing metadata'}.`,
-                ``,
-                `A pull request has been created to update the JSON data file: ${prResponse.data.html_url}`,
-                ``,
-                `Note: If you need to make any changes in the future, feel free to create a new update request.`
-              ].filter(Boolean).join('\n');
-              
-              // Comment on the issue
+                '',
+                `Pull request: ${prResponse.data.html_url}`,
+                '',
+                'Once approved by a maintainer, the redirect and directory listing will update automatically within a few minutes.'
+              ].join('\n');
+
               await github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 body: successMessage
               });
-              
-              // Close the issue
+
               await github.rest.issues.update({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
@@ -241,11 +230,11 @@ jobs:
               });
             } catch (error) {
               console.error('Error updating data:', error);
-              
+
               await github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 body: `❌ Error processing update: ${error.message}\n\nData received: ${JSON.stringify(dataWithoutSlug, null, 2)}`
               });
-            } 
+            }
