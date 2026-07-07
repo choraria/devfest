@@ -157,7 +157,7 @@ jobs:
               const branchName = `${isNewEntry ? 'add' : 'update'}-devfest-${slug}-${Date.now()}`;
               execSync(`git checkout -b ${branchName}`);
               execSync(`git add ${dataFilePath}`);
-              execSync(`git commit -m "${isNewEntry ? 'Add' : 'Update'} DevFest data for ${slug}"`);
+              execSync(`git commit -m "${isNewEntry ? 'Add' : 'Update'} DevFest data for ${slug} (issue #${context.issue.number})"`);
               execSync(`git push origin ${branchName}`);
 
               const prResponse = await github.rest.pulls.create({
@@ -212,7 +212,7 @@ jobs:
                 '',
                 `Pull request: ${prResponse.data.html_url}`,
                 '',
-                'Once approved by a maintainer, the redirect and directory listing will update automatically within a few minutes.'
+                'Once a maintainer approves the PR, this issue will stay open until the redirect is live on Cloudflare and the directory data is updated. You will receive a final confirmation comment here when everything is complete.'
               ].join('\n');
 
               await github.rest.issues.createComment({
@@ -221,13 +221,6 @@ jobs:
                 repo: context.repo.repo,
                 body: successMessage
               });
-
-              await github.rest.issues.update({
-                issue_number: context.issue.number,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                state: 'closed'
-              });
             } catch (error) {
               console.error('Error updating data:', error);
 
@@ -235,6 +228,6 @@ jobs:
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                body: `❌ Error processing update: ${error.message}\n\nData received: ${JSON.stringify(dataWithoutSlug, null, 2)}`
+                body: `❌ Error processing update: ${error.message}\n\n@choraria will take care of this.\n\nData received: ${JSON.stringify(dataWithoutSlug, null, 2)}`
               });
             }

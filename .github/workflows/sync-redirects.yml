@@ -9,6 +9,8 @@ on:
 
 permissions:
   contents: write
+  issues: write
+  pull-requests: read
 
 concurrency:
   group: sync-redirects
@@ -42,3 +44,112 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: node scripts/deploy-json-only.mjs
+
+  notify-issue:
+    runs-on: ubuntu-latest
+    needs: [sync-cloudflare, deploy-json]
+    if: always() && github.event_name == 'push'
+    steps:
+      - name: Notify linked issue
+        uses: actions/github-script@v7
+        env:
+          DEVFEST_HOST: ${{ vars.DEVFEST_HOST }}
+        with:
+          github-token: ${{ secrets.PAT_GITHUB_TOKEN }}
+          script: |
+            const cfResult = '${{ needs.sync-cloudflare.result }}';
+            const jsonResult = '${{ needs.deploy-json.result }}';
+            const host = process.env.DEVFEST_HOST || 'devfe.st';
+
+            async function findIssueNumber() {
+              const { owner, repo } = context.repo;
+              const sha = context.sha;
+
+              try {
+                const { data: prs } = await github.rest.repos.listPullRequestsAssociatedWithCommit({
+                  owner,
+                  repo,
+                  commit_sha: sha
+                });
+
+                for (const pr of prs) {
+                  const match = pr.body?.match(/issue #(\d+)/i);
+                  if (match) return parseInt(match[1], 10);
+                }
+              } catch (e) {
+                core.warning(`Could not list PRs for commit: ${e.message}`);
+              }
+
+              const commitMsg = context.payload.head_commit?.message || '';
+              const commitMatch = commitMsg.match(/issue #(\d+)/i);
+              if (commitMatch) return parseInt(commitMatch[1], 10);
+
+              return null;
+            }
+
+            function extractSlug() {
+              const commitMsg = context.payload.head_commit?.message || '';
+              const slugMatch = commitMsg.match(/DevFest data for ([^\s(]+)/i);
+              return slugMatch ? slugMatch[1] : null;
+            }
+
+            const issueNumber = await findIssueNumber();
+            if (!issueNumber) {
+              core.info('No linked issue found for this deploy — skipping issue notification.');
+              return;
+            }
+
+            const slug = extractSlug();
+            const shortUrl = slug ? `https://${host}/${slug}` : `https://${host}`;
+
+            if (cfResult === 'success' && jsonResult === 'success') {
+              const body = [
+                `✅ **Update complete** — your DevFest URL is live everywhere.`,
+                '',
+                slug ? `- **Short link:** ${shortUrl}` : null,
+                '- **Cloudflare redirects** synced',
+                '- **`devfest-data.json`** updated on the live site',
+                '- **Directory listing** will reflect the change on refresh',
+                '',
+                'Thanks for keeping DevFest links up to date!'
+              ].filter(Boolean).join('\n');
+
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body
+              });
+
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                state: 'closed'
+              });
+
+              return;
+            }
+
+            const failures = [];
+            if (cfResult !== 'success') failures.push('- Cloudflare redirect sync failed');
+            if (jsonResult !== 'success') failures.push('- Live `devfest-data.json` deploy failed');
+
+            const body = [
+              `❌ **Deploy did not complete successfully.**`,
+              '',
+              ...failures,
+              '',
+              'The change may be on `main` but is not fully live yet.',
+              '',
+              '@choraria will take care of this.',
+              '',
+              `Workflow run: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`
+            ].join('\n');
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              body
+            });
