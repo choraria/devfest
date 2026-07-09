@@ -9661,7 +9661,7 @@
   },
   {
     "slug": "prague",
-    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-prague-presents-devfestcz-2025/cohost-gdg-prague",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-prague-presents-devfestcz-2026/cohost-gdg-prague/",
     "gdgChapter": "GDG Prague",
     "city": "Prague",
     "countryName": "Czechia",
@@ -9669,10 +9669,10 @@
     "latitude": 50.0755381,
     "longitude": 14.4378005,
     "gdgUrl": "https://gdg.community.dev/gdg-prague/",
-    "devfestName": "DevFest.cz 2025",
-    "devfestDate": "2025-10-23",
+    "devfestName": "DevFest.cz 2026",
+    "devfestDate": "2026-10-30",
     "updatedBy": "choraria",
-    "updatedAt": "2025-10-29T10:47:44Z"
+    "updatedAt": "2026-07-09T14:11:49.392Z"
   },
   {
     "slug": "prayagraj",
