@@ -30,7 +30,7 @@ jobs:
 
       - name: Extract issue body
         id: extract
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.PAT_GITHUB_TOKEN }}
           script: |
@@ -70,7 +70,7 @@ jobs:
             core.setOutput('data', JSON.stringify(data));
 
       - name: Update JSON file
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         env:
           URL_DATA: ${{ steps.extract.outputs.data }}
         with:
