@@ -435,6 +435,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "al-khobar",
+    "destinationUrl": "https://gdg.community.dev/gdg-al-khobar/",
+    "gdgChapter": "GDG Al Khobar",
+    "city": "Al Khobar",
+    "countryName": "Saudi Arabia",
+    "countryCode": "SA",
+    "latitude": 26.2171906,
+    "longitude": 50.1971381,
+    "gdgUrl": "https://gdg.community.dev/gdg-al-khobar/",
+    "devfestName": "GDG Al Khobar DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "albuquerque",
     "destinationUrl": "https://gdg.community.dev/gdg-albuquerque/",
     "gdgChapter": "GDG Albuquerque",
@@ -765,6 +780,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "asheville",
+    "destinationUrl": "https://gdg.community.dev/gdg-asheville/",
+    "gdgChapter": "GDG Asheville",
+    "city": "Asheville",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 35.5975104,
+    "longitude": -82.5460563,
+    "gdgUrl": "https://gdg.community.dev/gdg-asheville/",
+    "devfestName": "GDG Asheville DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "ashgabat",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-ashgabat-presents-devfest-ashgabat-2025-a-glimpse-into-the-future-of-tech/",
     "gdgChapter": "GDG Ashgabat",
@@ -808,6 +838,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "asuncion",
+    "destinationUrl": "https://gdg.community.dev/gdg-asuncion/",
+    "gdgChapter": "GDG Asunción",
+    "city": "Asunción",
+    "countryName": "Paraguay",
+    "countryCode": "PY",
+    "latitude": -25.2637399,
+    "longitude": -57.575926,
+    "gdgUrl": "https://gdg.community.dev/gdg-asuncion/",
+    "devfestName": "GDG Asunción DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "aswan",
@@ -1215,6 +1260,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "basilicata",
+    "destinationUrl": "https://gdg.community.dev/gdg-basilicata/",
+    "gdgChapter": "GDG Basilicata",
+    "city": "Potenza",
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "latitude": 40.6377715,
+    "longitude": 15.805502,
+    "gdgUrl": "https://gdg.community.dev/gdg-basilicata/",
+    "devfestName": "GDG Basilicata DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "basra",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-basra-presents-devfest-basra-2025-beyond-chat-gemini-in-action/",
     "gdgChapter": "GDG Basra",
@@ -1423,6 +1483,36 @@
     "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "benha",
+    "destinationUrl": "https://gdg.community.dev/gdg-benha/",
+    "gdgChapter": "GDG Benha",
+    "city": "Banha",
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "latitude": 30.4659929,
+    "longitude": 31.1848307,
+    "gdgUrl": "https://gdg.community.dev/gdg-benha/",
+    "devfestName": "GDG Benha DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
+    "slug": "beni-suef",
+    "destinationUrl": "https://gdg.community.dev/gdg-beni-suef/",
+    "gdgChapter": "GDG Beni-Suef",
+    "city": "Beni Suef",
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "latitude": 29.08,
+    "longitude": 31.09,
+    "gdgUrl": "https://gdg.community.dev/gdg-beni-suef/",
+    "devfestName": "GDG Beni-Suef DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "benin",
@@ -1695,6 +1785,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "boyaca",
+    "destinationUrl": "https://gdg.community.dev/gdg-boyaca/",
+    "gdgChapter": "GDG Boyacá",
+    "city": "Boyacá",
+    "countryName": "Colombia",
+    "countryCode": "CO",
+    "latitude": 5.454511,
+    "longitude": -73.362003,
+    "gdgUrl": "https://gdg.community.dev/gdg-boyaca/",
+    "devfestName": "GDG Boyacá DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "bradford",
     "destinationUrl": "https://gdg.community.dev/gdg-bradford/",
     "gdgChapter": "GDG Bradford",
@@ -1770,6 +1875,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "brescia",
+    "destinationUrl": "https://gdg.community.dev/gdg-brescia/",
+    "gdgChapter": "GDG Brescia",
+    "city": "Brescia",
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "latitude": 45.5415526,
+    "longitude": 10.2118019,
+    "gdgUrl": "https://gdg.community.dev/gdg-brescia/",
+    "devfestName": "GDG Brescia DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "brisbane",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-brisbane-presents-gdg-brisbane-devfest-2025/",
     "gdgChapter": "GDG Brisbane",
@@ -1798,6 +1918,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "brno",
+    "destinationUrl": "https://gdg.community.dev/gdg-brno/",
+    "gdgChapter": "GDG Brno",
+    "city": "Brno",
+    "countryName": "Czechia",
+    "countryCode": "CZ",
+    "latitude": 49.2,
+    "longitude": 16.61,
+    "gdgUrl": "https://gdg.community.dev/gdg-brno/",
+    "devfestName": "GDG Brno DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "bronx",
@@ -1888,6 +2023,21 @@
     "devfestDate": "2025-11-28",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "bucharest",
+    "destinationUrl": "https://gdg.community.dev/gdg-bucharest/",
+    "gdgChapter": "GDG Bucharest",
+    "city": "Bucharest",
+    "countryName": "Romania",
+    "countryCode": "RO",
+    "latitude": 44.44,
+    "longitude": 26.1,
+    "gdgUrl": "https://gdg.community.dev/gdg-bucharest/",
+    "devfestName": "GDG Bucharest DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "budapest",
@@ -2325,6 +2475,21 @@
     "updatedAt": "2026-07-07T14:52:22.917Z"
   },
   {
+    "slug": "caracas",
+    "destinationUrl": "https://gdg.community.dev/gdg-caracas/",
+    "gdgChapter": "GDG Caracas",
+    "city": "Caracas",
+    "countryName": "Venezuela",
+    "countryCode": "VE",
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
+    "gdgUrl": "https://gdg.community.dev/gdg-caracas/",
+    "devfestName": "GDG Caracas DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "caraguatatuba",
     "destinationUrl": "https://gdg.community.dev/gdg-caraguatatuba/",
     "gdgChapter": "GDG Caraguatatuba",
@@ -2368,6 +2533,51 @@
     "devfestDate": "2025-12-06",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "casablanca",
+    "destinationUrl": "https://gdg.community.dev/gdg-casablanca/",
+    "gdgChapter": "GDG Casablanca",
+    "city": "Casablanca",
+    "countryName": "Morocco",
+    "countryCode": "MA",
+    "latitude": 33.53,
+    "longitude": -7.58,
+    "gdgUrl": "https://gdg.community.dev/gdg-casablanca/",
+    "devfestName": "GDG Casablanca DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
+    "slug": "castelar",
+    "destinationUrl": "https://gdg.community.dev/gdg-castelar/",
+    "gdgChapter": "GDG Castelar",
+    "city": "Castelar",
+    "countryName": "Argentina",
+    "countryCode": "AR",
+    "latitude": -34.6554584,
+    "longitude": -58.6452437,
+    "gdgUrl": "https://gdg.community.dev/gdg-castelar/",
+    "devfestName": "GDG Castelar DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
+    "slug": "castelo-branco",
+    "destinationUrl": "https://gdg.community.dev/gdg-castelo-branco/",
+    "gdgChapter": "GDG Castelo Branco",
+    "city": "Castelo Branco",
+    "countryName": "Portugal",
+    "countryCode": "PT",
+    "latitude": 39.82,
+    "longitude": -7.49,
+    "gdgUrl": "https://gdg.community.dev/gdg-castelo-branco/",
+    "devfestName": "GDG Castelo Branco DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "catania",
@@ -2655,6 +2865,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "chisinau",
+    "destinationUrl": "https://gdg.community.dev/gdg-chisinau/",
+    "gdgChapter": "GDG Chișinău",
+    "city": "Chișinău",
+    "countryName": "Moldova",
+    "countryCode": "MD",
+    "latitude": 47.0104529,
+    "longitude": 28.8638103,
+    "gdgUrl": "https://gdg.community.dev/gdg-chisinau/",
+    "devfestName": "GDG Chișinău DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "choluteca",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-choluteca-presents-devfest-choluteca-2025/",
     "gdgChapter": "GDG Choluteca",
@@ -2910,6 +3135,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "cordoba",
+    "destinationUrl": "https://gdg.community.dev/gdg-cordoba/",
+    "gdgChapter": "GDG Córdoba",
+    "city": "Córdoba",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "latitude": 37.8893025,
+    "longitude": -4.7792753,
+    "gdgUrl": "https://gdg.community.dev/gdg-cordoba/",
+    "devfestName": "GDG Córdoba DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "córdoba",
     "destinationUrl": "https://gdg.community.dev/gdg-cordoba/",
     "gdgChapter": "GDG Córdoba",
@@ -2940,6 +3180,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "cosenza",
+    "destinationUrl": "https://gdg.community.dev/gdg-cosenza/",
+    "gdgChapter": "GDG Cosenza",
+    "city": "Cosenza",
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "latitude": 39.3,
+    "longitude": 16.25,
+    "gdgUrl": "https://gdg.community.dev/gdg-cosenza/",
+    "devfestName": "GDG Cosenza DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "cotonou",
     "destinationUrl": "https://gdg.community.dev/gdg-cotonou/",
     "gdgChapter": "GDG Cotonou",
@@ -2953,6 +3208,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "coventry",
+    "destinationUrl": "https://gdg.community.dev/gdg-coventry/",
+    "gdgChapter": "GDG Coventry",
+    "city": "Coventry",
+    "countryName": "United Kingdom",
+    "countryCode": "GB",
+    "latitude": 52.4128163,
+    "longitude": -1.5089521,
+    "gdgUrl": "https://gdg.community.dev/gdg-coventry/",
+    "devfestName": "GDG Coventry DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "cucuta",
@@ -3013,6 +3283,21 @@
     "devfestDate": "2025-11-16",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "cusco",
+    "destinationUrl": "https://gdg.community.dev/gdg-cusco/",
+    "gdgChapter": "GDG Cusco",
+    "city": "Cusco",
+    "countryName": "Peru",
+    "countryCode": "PE",
+    "latitude": -13.53195,
+    "longitude": -71.9674626,
+    "gdgUrl": "https://gdg.community.dev/gdg-cusco/",
+    "devfestName": "GDG Cusco DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "cyprus",
@@ -3435,6 +3720,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "dushanbe",
+    "destinationUrl": "https://gdg.community.dev/gdg-dushanbe/",
+    "gdgChapter": "GDG Dushanbe",
+    "city": "Dusambé",
+    "countryName": "Tajikistan",
+    "countryCode": "TJ",
+    "latitude": 38.5597722,
+    "longitude": 68.7870384,
+    "gdgUrl": "https://gdg.community.dev/gdg-dushanbe/",
+    "devfestName": "GDG Dushanbe DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "dusseldorf",
     "destinationUrl": "https://gdg.community.dev/gdg-cloud-dusseldorf/",
     "gdgChapter": "GDG Cloud Düsseldorf",
@@ -3735,6 +4035,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "essex",
+    "destinationUrl": "https://gdg.community.dev/gdg-essex/",
+    "gdgChapter": "GDG Essex",
+    "city": "Romford",
+    "countryName": "United Kingdom",
+    "countryCode": "GB",
+    "latitude": 51.5775231,
+    "longitude": 0.1785814,
+    "gdgUrl": "https://gdg.community.dev/gdg-essex/",
+    "devfestName": "GDG Essex DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "evora",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-evora-presents-devfest-evora-alentejo-1/",
     "gdgChapter": "GDG Évora",
@@ -3778,6 +4093,36 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "floripa",
+    "destinationUrl": "https://gdg.community.dev/gdg-floripa/",
+    "gdgChapter": "GDG Floripa",
+    "city": "Florianópolis",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -27.6,
+    "longitude": -48.54,
+    "gdgUrl": "https://gdg.community.dev/gdg-floripa/",
+    "devfestName": "GDG Floripa DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
+    "slug": "fort-wayne",
+    "destinationUrl": "https://gdg.community.dev/gdg-fort-wayne/",
+    "gdgChapter": "GDG Fort Wayne",
+    "city": "Fort Wayne",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 41.0794759,
+    "longitude": -85.1362929,
+    "gdgUrl": "https://gdg.community.dev/gdg-fort-wayne/",
+    "devfestName": "GDG Fort Wayne DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "fortaleza",
@@ -4050,6 +4395,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "genova",
+    "destinationUrl": "https://gdg.community.dev/gdg-genova/",
+    "gdgChapter": "GDG Genova",
+    "city": "Genoa",
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "latitude": 44.4071448,
+    "longitude": 8.9347381,
+    "gdgUrl": "https://gdg.community.dev/gdg-genova/",
+    "devfestName": "GDG Genova DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "george-town",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-devfest-george-town-2025-1/",
     "gdgChapter": "GDG George Town",
@@ -4110,6 +4470,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "giza",
+    "destinationUrl": "https://gdg.community.dev/gdg-giza/",
+    "gdgChapter": "GDG Giza",
+    "city": "Giza",
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "latitude": 30.0130557,
+    "longitude": 31.2088526,
+    "gdgUrl": "https://gdg.community.dev/gdg-giza/",
+    "devfestName": "GDG Giza DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "glasgow",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-edinburgh-presents-devfest-scotland-2025/",
     "gdgChapter": "GDG Glasgow",
@@ -4168,6 +4543,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "goma",
+    "destinationUrl": "https://gdg.community.dev/gdg-goma/",
+    "gdgChapter": "GDG Goma",
+    "city": "Goma",
+    "countryName": "Congo",
+    "countryCode": "CD",
+    "latitude": -1.658501,
+    "longitude": 29.2204548,
+    "gdgUrl": "https://gdg.community.dev/gdg-goma/",
+    "devfestName": "GDG Goma DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "gombe",
@@ -4243,6 +4633,21 @@
     "devfestDate": "2025-10-18",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "groningen",
+    "destinationUrl": "https://gdg.community.dev/gdg-groningen/",
+    "gdgChapter": "GDG Groningen",
+    "city": "Groningen",
+    "countryName": "Netherlands",
+    "countryCode": "NL",
+    "latitude": 53.2193835,
+    "longitude": 6.5665018,
+    "gdgUrl": "https://gdg.community.dev/gdg-groningen/",
+    "devfestName": "GDG Groningen DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "grudziadz",
@@ -4348,6 +4753,21 @@
     "devfestDate": "2025-09-27",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "gusau",
+    "destinationUrl": "https://gdg.community.dev/gdg-gusau/",
+    "gdgChapter": "GDG Gusau",
+    "city": "Gusau",
+    "countryName": "Nigeria",
+    "countryCode": "NG",
+    "latitude": 12.17,
+    "longitude": 6.66,
+    "gdgUrl": "https://gdg.community.dev/gdg-gusau/",
+    "devfestName": "GDG Gusau DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "guwahati",
@@ -4545,6 +4965,36 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "hargeisa",
+    "destinationUrl": "https://gdg.community.dev/gdg-hargeisa/",
+    "gdgChapter": "GDG Hargeisa",
+    "city": "Hargeisa",
+    "countryName": "Somaliland",
+    "countryCode": "SO",
+    "latitude": 9.562389,
+    "longitude": 44.0770134,
+    "gdgUrl": "https://gdg.community.dev/gdg-hargeisa/",
+    "devfestName": "GDG Hargeisa DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
+    "slug": "hatay",
+    "destinationUrl": "https://gdg.community.dev/gdg-hatay/",
+    "gdgChapter": "GDG Hatay",
+    "city": "Antioquía",
+    "countryName": "Turkey",
+    "countryCode": "TR",
+    "latitude": 36.2042794,
+    "longitude": 36.1618938,
+    "gdgUrl": "https://gdg.community.dev/gdg-hatay/",
+    "devfestName": "GDG Hatay DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "hcmc",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-cloud-hcmc-presents-google-devfest-cloud-hcm-2025/",
     "gdgChapter": "GDG Cloud HCMC",
@@ -4573,6 +5023,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "heilbronn",
+    "destinationUrl": "https://gdg.community.dev/gdg-heilbronn-1/",
+    "gdgChapter": "GDG Heilbronn",
+    "city": "Heilbronn",
+    "countryName": "Germany",
+    "countryCode": "DE",
+    "latitude": 49.1426929,
+    "longitude": 9.210879,
+    "gdgUrl": "https://gdg.community.dev/gdg-heilbronn-1/",
+    "devfestName": "GDG Heilbronn DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "helsinki",
@@ -4768,6 +5233,21 @@
     "devfestDate": "2026-10-23",
     "updatedBy": "Yulia-O",
     "updatedAt": "2026-07-07T14:52:22.917Z"
+  },
+  {
+    "slug": "hurghada",
+    "destinationUrl": "https://gdg.community.dev/gdg-hurghada/",
+    "gdgChapter": "GDG Hurghada",
+    "city": "Hurghada",
+    "countryName": "Egypt",
+    "countryCode": "EG",
+    "latitude": 27.2578957,
+    "longitude": 33.8116067,
+    "gdgUrl": "https://gdg.community.dev/gdg-hurghada/",
+    "devfestName": "GDG Hurghada DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "hyderabad",
@@ -5715,6 +6195,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "kivu",
+    "destinationUrl": "https://gdg.community.dev/gdg-kivu/",
+    "gdgChapter": "GDG Kivu",
+    "city": "Ibanda",
+    "countryName": "Congo",
+    "countryCode": "CD",
+    "latitude": -2.216667,
+    "longitude": 17.033333,
+    "gdgUrl": "https://gdg.community.dev/gdg-kivu/",
+    "devfestName": "GDG Kivu DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "kobe",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-devfest-2025-in-kwansai/",
     "gdgChapter": "GDG Kobe",
@@ -6300,6 +6795,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "limpopo",
+    "destinationUrl": "https://gdg.community.dev/gdg-limpopo/",
+    "gdgChapter": "GDG Limpopo",
+    "city": "Polokwane",
+    "countryName": "South Africa",
+    "countryCode": "ZA",
+    "latitude": -23.8980905,
+    "longitude": 29.4499945,
+    "gdgUrl": "https://gdg.community.dev/gdg-limpopo/",
+    "devfestName": "GDG Limpopo DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "lindon",
     "destinationUrl": "https://gdg.community.dev/gdg-lindon/",
     "gdgChapter": "GDG Lindon",
@@ -6570,6 +7080,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "lusail",
+    "destinationUrl": "https://gdg.community.dev/gdg-lusail/",
+    "gdgChapter": "GDG Lusail",
+    "city": "Lusail",
+    "countryName": "Qatar",
+    "countryCode": "QA",
+    "latitude": 25.4185383,
+    "longitude": 51.5007918,
+    "gdgUrl": "https://gdg.community.dev/gdg-lusail/",
+    "devfestName": "GDG Lusail DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "lusaka",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-lusaka-presents-devfest-lusaka-2025/",
     "gdgChapter": "GDG Lusaka",
@@ -6628,6 +7153,21 @@
     "devfestDate": "2025-11-28",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "macapa",
+    "destinationUrl": "https://gdg.community.dev/gdg-macapa/",
+    "gdgChapter": "GDG Macapá",
+    "city": "Macapá",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": 0.0405217,
+    "longitude": -51.0560957,
+    "gdgUrl": "https://gdg.community.dev/gdg-macapa/",
+    "devfestName": "GDG Macapá DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "maceio",
@@ -6808,6 +7348,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "mallorca",
+    "destinationUrl": "https://gdg.community.dev/gdg-mallorca/",
+    "gdgChapter": "GDG Mallorca",
+    "city": "Nord de Palma District",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "latitude": 39.5726566,
+    "longitude": 2.6568459,
+    "gdgUrl": "https://gdg.community.dev/gdg-mallorca/",
+    "devfestName": "GDG Mallorca DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "malmo",
@@ -7035,6 +7590,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "markham",
+    "destinationUrl": "https://gdg.community.dev/gdg-markham/",
+    "gdgChapter": "GDG Markham",
+    "city": "Markham",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "latitude": 43.8599076,
+    "longitude": -79.3349945,
+    "gdgUrl": "https://gdg.community.dev/gdg-markham/",
+    "devfestName": "GDG Markham DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "maroua",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-maroua-presents-devfest-maroua-2025-ai-for-local-impact/",
     "gdgChapter": "GDG Maroua",
@@ -7063,6 +7633,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "marseille",
+    "destinationUrl": "https://gdg.community.dev/gdg-marseille/",
+    "gdgChapter": "GDG Marseille",
+    "city": "Marseille",
+    "countryName": "France",
+    "countryCode": "FR",
+    "latitude": 43.3025742,
+    "longitude": 5.3690743,
+    "gdgUrl": "https://gdg.community.dev/gdg-marseille/",
+    "devfestName": "GDG Marseille DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "mascara",
@@ -7108,6 +7693,21 @@
     "devfestDate": "2025-10-04",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "maysan",
+    "destinationUrl": "https://gdg.community.dev/gdg-maysan/",
+    "gdgChapter": "GDG Maysan",
+    "city": "Amarah",
+    "countryName": "Iraq",
+    "countryCode": "IQ",
+    "latitude": 31.8379012,
+    "longitude": 47.1420675,
+    "gdgUrl": "https://gdg.community.dev/gdg-maysan/",
+    "devfestName": "GDG Maysan DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "mbale",
@@ -7183,6 +7783,21 @@
     "devfestDate": "2025-10-03",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "menorca",
+    "destinationUrl": "https://gdg.community.dev/gdg-menorca/",
+    "gdgChapter": "GDG Menorca",
+    "city": "Mahon",
+    "countryName": "Spain",
+    "countryCode": "ES",
+    "latitude": 39.89,
+    "longitude": 4.25,
+    "gdgUrl": "https://gdg.community.dev/gdg-menorca/",
+    "devfestName": "GDG Menorca DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "merced",
@@ -7605,6 +8220,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "munster",
+    "destinationUrl": "https://gdg.community.dev/gdg-munster/",
+    "gdgChapter": "GDG Münster",
+    "city": "Münster",
+    "countryName": "Germany",
+    "countryCode": "DE",
+    "latitude": 51.9606649,
+    "longitude": 7.6261347,
+    "gdgUrl": "https://gdg.community.dev/gdg-munster/",
+    "devfestName": "GDG Münster DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "murcia",
     "destinationUrl": "https://gdg.community.dev/gdg-murcia/",
     "gdgChapter": "GDG Murcia",
@@ -7800,6 +8430,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "nashville",
+    "destinationUrl": "https://gdg.community.dev/gdg-nashville/",
+    "gdgChapter": "GDG Nashville",
+    "city": "Nashville",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 36.1626638,
+    "longitude": -86.7816016,
+    "gdgUrl": "https://gdg.community.dev/gdg-nashville/",
+    "devfestName": "GDG Nashville DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "nassau",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-nassau-presents-gdg-devfest-caribbean-2025/",
     "gdgChapter": "GDG Nassau",
@@ -7933,6 +8578,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "new-delhi",
+    "destinationUrl": "https://gdg.community.dev/gdg-new-delhi/",
+    "gdgChapter": "GDG New Delhi",
+    "city": "Delhi",
+    "countryName": "India",
+    "countryCode": "IN",
+    "latitude": 28.67,
+    "longitude": 77.21,
+    "gdgUrl": "https://gdg.community.dev/gdg-new-delhi/",
+    "devfestName": "GDG New Delhi DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "newport-beach",
@@ -8310,6 +8970,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "osnabruck",
+    "destinationUrl": "https://gdg.community.dev/gdg-osnabruck/",
+    "gdgChapter": "GDG Osnabrück",
+    "city": "Osnabrück",
+    "countryName": "Germany",
+    "countryCode": "DE",
+    "latitude": 52.2799112,
+    "longitude": 8.0471788,
+    "gdgUrl": "https://gdg.community.dev/gdg-osnabruck/",
+    "devfestName": "GDG Osnabrück DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "osnabrück",
     "destinationUrl": "https://gdg.community.dev/gdg-osnabruck/",
     "gdgChapter": "GDG Osnabrück",
@@ -8670,6 +9345,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "petrolina",
+    "destinationUrl": "https://gdg.community.dev/gdg-petrolina/",
+    "gdgChapter": "GDG Petrolina",
+    "city": "Petrolina",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -9.3994615,
+    "longitude": -40.5024661,
+    "gdgUrl": "https://gdg.community.dev/gdg-petrolina/",
+    "devfestName": "GDG Petrolina DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "petropolis",
     "destinationUrl": "https://gdg.community.dev/gdg-petropolis/",
     "gdgChapter": "GDG Petropolis",
@@ -8850,6 +9540,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "portland",
+    "destinationUrl": "https://gdg.community.dev/gdg-portland/",
+    "gdgChapter": "GDG Portland",
+    "city": "Portland",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 45.5,
+    "longitude": -122.69,
+    "gdgUrl": "https://gdg.community.dev/gdg-portland/",
+    "devfestName": "GDG Portland DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "portlaoise",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-portlaoise-presents-devfest-ireland-2025/cohost-gdg-portlaoise",
     "gdgChapter": "GDG Portlaoise",
@@ -8923,6 +9628,21 @@
     "devfestDate": "2025-10-11",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "potosi",
+    "destinationUrl": "https://gdg.community.dev/gdg-potosi/",
+    "gdgChapter": "GDG Potosí",
+    "city": "Potosi",
+    "countryName": "Bolivia",
+    "countryCode": "BO",
+    "latitude": -19.5746758,
+    "longitude": -65.759309,
+    "gdgUrl": "https://gdg.community.dev/gdg-potosi/",
+    "devfestName": "GDG Potosí DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "poznan",
@@ -9000,6 +9720,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "prishtina",
+    "destinationUrl": "https://gdg.community.dev/gdg-prishtina/",
+    "gdgChapter": "GDG Prishtina",
+    "city": "Pristina",
+    "countryName": "Kosovo",
+    "countryCode": "XK",
+    "latitude": 42.6629,
+    "longitude": 21.1655,
+    "gdgUrl": "https://gdg.community.dev/gdg-prishtina/",
+    "devfestName": "GDG Prishtina DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "pristina",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-prishtina-presents-devfest-kosova-2025/",
     "gdgChapter": "GDG Prishtina",
@@ -9028,6 +9763,21 @@
     "devfestDate": "2025-10-15",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "provo",
+    "destinationUrl": "https://gdg.community.dev/gdg-provo/",
+    "gdgChapter": "GDG Provo",
+    "city": "Provo",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 40.2338438,
+    "longitude": -111.6585337,
+    "gdgUrl": "https://gdg.community.dev/gdg-provo/",
+    "devfestName": "GDG Provo DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "puebla",
@@ -9118,6 +9868,21 @@
     "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "quebec-city",
+    "destinationUrl": "https://gdg.community.dev/gdg-quebec-city/",
+    "gdgChapter": "GDG Quebec City",
+    "city": "Quebec",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "latitude": 46.8130816,
+    "longitude": -71.2074596,
+    "gdgUrl": "https://gdg.community.dev/gdg-quebec-city/",
+    "devfestName": "GDG Quebec City DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "queens",
@@ -9300,6 +10065,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "rennes",
+    "destinationUrl": "https://gdg.community.dev/gdg-rennes/",
+    "gdgChapter": "GDG Rennes",
+    "city": "Rennes",
+    "countryName": "France",
+    "countryCode": "FR",
+    "latitude": 48.11,
+    "longitude": -1.68,
+    "gdgUrl": "https://gdg.community.dev/gdg-rennes/",
+    "devfestName": "GDG Rennes DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "reno",
     "destinationUrl": "https://gdg.community.dev/gdg-reno/",
     "gdgChapter": "GDG Reno",
@@ -9328,6 +10108,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "riga",
+    "destinationUrl": "https://gdg.community.dev/gdg-riga/",
+    "gdgChapter": "GDG Riga",
+    "city": "Riga",
+    "countryName": "Latvia",
+    "countryCode": "LV",
+    "latitude": 56.9676941,
+    "longitude": 24.1056221,
+    "gdgUrl": "https://gdg.community.dev/gdg-riga/",
+    "devfestName": "GDG Riga DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "rio-de-janeiro",
@@ -9360,6 +10155,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "rochester",
+    "destinationUrl": "https://gdg.community.dev/gdg-rochester/",
+    "gdgChapter": "GDG Rochester",
+    "city": "Rochester",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 44.0193287,
+    "longitude": -92.4588327,
+    "gdgUrl": "https://gdg.community.dev/gdg-rochester/",
+    "devfestName": "GDG Rochester DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "roma",
     "destinationUrl": "https://gdg.community.dev/gdg-roma/",
     "gdgChapter": "GDG Roma",
@@ -9373,6 +10183,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "roma-citta",
+    "destinationUrl": "https://gdg.community.dev/gdg-roma-citta/",
+    "gdgChapter": "GDG Roma Città",
+    "city": "Rome",
+    "countryName": "Italy",
+    "countryCode": "IT",
+    "latitude": 41.8967068,
+    "longitude": 12.4822025,
+    "gdgUrl": "https://gdg.community.dev/gdg-roma-citta/",
+    "devfestName": "GDG Roma Città DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "rome",
@@ -9630,6 +10455,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "san-juan",
+    "destinationUrl": "https://gdg.community.dev/gdg-san-juan/",
+    "gdgChapter": "GDG San Juan",
+    "city": "San Juan",
+    "countryName": "Argentina",
+    "countryCode": "AR",
+    "latitude": -31.5351074,
+    "longitude": -68.5385941,
+    "gdgUrl": "https://gdg.community.dev/gdg-san-juan/",
+    "devfestName": "GDG San Juan DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "san-nicolas",
     "destinationUrl": "https://gdg.community.dev/gdg-san-nicolas/",
     "gdgChapter": "GDG San Nicolas",
@@ -9658,6 +10498,21 @@
     "devfestDate": "2025-11-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "san-salvador",
+    "destinationUrl": "https://gdg.community.dev/gdg-san-salvador/",
+    "gdgChapter": "GDG San Salvador",
+    "city": "San Salvador",
+    "countryName": "El Salvador",
+    "countryCode": "SV",
+    "latitude": 13.6980638,
+    "longitude": -89.1915341,
+    "gdgUrl": "https://gdg.community.dev/gdg-san-salvador/",
+    "devfestName": "GDG San Salvador DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "sanaa",
@@ -9808,6 +10663,21 @@
     "devfestDate": "2025-11-29",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "sao-lourenco",
+    "destinationUrl": "https://gdg.community.dev/gdg-sao-lourenco/",
+    "gdgChapter": "GDG São Lourenço",
+    "city": "São Lourenço",
+    "countryName": "Brazil",
+    "countryCode": "BR",
+    "latitude": -22.1176641,
+    "longitude": -45.0527806,
+    "gdgUrl": "https://gdg.community.dev/gdg-sao-lourenco/",
+    "devfestName": "GDG São Lourenço DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "sao-paulo",
@@ -10530,6 +11400,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "sunnyvale",
+    "destinationUrl": "https://gdg.community.dev/gdg-sunnyvale/",
+    "gdgChapter": "GDG Sunnyvale",
+    "city": "Sunnyvale",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 37.36883,
+    "longitude": -122.0363496,
+    "gdgUrl": "https://gdg.community.dev/gdg-sunnyvale/",
+    "devfestName": "GDG Sunnyvale DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "surabaya",
     "destinationUrl": "https://gdg.community.dev/gdg-surabaya/",
     "gdgChapter": "GDG Surabaya",
@@ -11010,6 +11895,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "tirana",
+    "destinationUrl": "https://gdg.community.dev/gdg-tirana/",
+    "gdgChapter": "GDG Tirana",
+    "city": "Tiranë",
+    "countryName": "Albania",
+    "countryCode": "AL",
+    "latitude": 41.3275459,
+    "longitude": 19.8186982,
+    "gdgUrl": "https://gdg.community.dev/gdg-tirana/",
+    "devfestName": "GDG Tirana DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "tizi-ouzou",
     "destinationUrl": "https://gdg.community.dev/gdg-tizi-ouzou/",
     "gdgChapter": "GDG Tizi Ouzou",
@@ -11083,6 +11983,21 @@
     "devfestDate": "2025-06-01",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "torun",
+    "destinationUrl": "https://gdg.community.dev/gdg-torun/",
+    "gdgChapter": "GDG Toruń",
+    "city": "Toruń",
+    "countryName": "Poland",
+    "countryCode": "PL",
+    "latitude": 53.0137902,
+    "longitude": 18.5984437,
+    "gdgUrl": "https://gdg.community.dev/gdg-torun/",
+    "devfestName": "GDG Toruń DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "toruń",
@@ -11190,6 +12105,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "tulsa",
+    "destinationUrl": "https://gdg.community.dev/gdg-tulsa/",
+    "gdgChapter": "GDG Tulsa",
+    "city": "Tulsa",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 36.1551375,
+    "longitude": -95.989501,
+    "gdgUrl": "https://gdg.community.dev/gdg-tulsa/",
+    "devfestName": "GDG Tulsa DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "turlock",
     "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-modesto-presents-devfest-2025/cohost-gdg-turlock",
     "gdgChapter": "GDG Turlock",
@@ -11203,6 +12133,21 @@
     "devfestDate": "2025-10-25",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "twin-cities",
+    "destinationUrl": "https://gdg.community.dev/gdg-twin-cities/",
+    "gdgChapter": "GDG Twin Cities",
+    "city": "Minneapolis",
+    "countryName": "United States",
+    "countryCode": "US",
+    "latitude": 44.98,
+    "longitude": -93.23,
+    "gdgUrl": "https://gdg.community.dev/gdg-twin-cities/",
+    "devfestName": "GDG Twin Cities DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "uberaba",
@@ -11280,6 +12225,21 @@
     "updatedAt": "2025-10-29T10:47:44Z"
   },
   {
+    "slug": "urgench",
+    "destinationUrl": "https://gdg.community.dev/gdg-urgench/",
+    "gdgChapter": "GDG Urgench",
+    "city": "Urgench",
+    "countryName": "Uzbekistan",
+    "countryCode": "UZ",
+    "latitude": 41.5345323,
+    "longitude": 60.6248891,
+    "gdgUrl": "https://gdg.community.dev/gdg-urgench/",
+    "devfestName": "GDG Urgench DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
+  },
+  {
     "slug": "urumuqi",
     "destinationUrl": "https://gdg.community.dev/gdg-urumuqi/",
     "gdgChapter": "GDG Urumuqi",
@@ -11338,6 +12298,21 @@
     "devfestDate": "2025-11-08",
     "updatedBy": "choraria",
     "updatedAt": "2025-10-29T10:47:44Z"
+  },
+  {
+    "slug": "vaasa",
+    "destinationUrl": "https://gdg.community.dev/gdg-vaasa/",
+    "gdgChapter": "GDG Vaasa",
+    "city": "Vaasa",
+    "countryName": "Finland",
+    "countryCode": "FI",
+    "latitude": 63.0950331,
+    "longitude": 21.6163866,
+    "gdgUrl": "https://gdg.community.dev/gdg-vaasa/",
+    "devfestName": "GDG Vaasa DevFest 2026",
+    "devfestDate": "2026-06-01",
+    "updatedBy": "choraria",
+    "updatedAt": "2026-07-09T10:47:44Z"
   },
   {
     "slug": "valencia",
