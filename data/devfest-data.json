@@ -2026,7 +2026,7 @@
   },
   {
     "slug": "bucharest",
-    "destinationUrl": "https://gdg.community.dev/gdg-bucharest/",
+    "destinationUrl": "https://gdg.community.dev/events/details/google-gdg-bucharest-presents-devfest-bucharest-2026-1/",
     "gdgChapter": "GDG Bucharest",
     "city": "Bucharest",
     "countryName": "Romania",
@@ -2034,10 +2034,10 @@
     "latitude": 44.44,
     "longitude": 26.1,
     "gdgUrl": "https://gdg.community.dev/gdg-bucharest/",
-    "devfestName": "GDG Bucharest DevFest 2026",
-    "devfestDate": "2026-06-01",
+    "devfestName": "DevFest Bucharest 2026",
+    "devfestDate": "2026-03-05",
     "updatedBy": "choraria",
-    "updatedAt": "2026-07-09T10:47:44Z"
+    "updatedAt": "2026-07-09T13:59:12.620Z"
   },
   {
     "slug": "budapest",
